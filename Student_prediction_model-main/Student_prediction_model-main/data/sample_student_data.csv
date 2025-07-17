@@ -1,0 +1,1949 @@
+student_id,name,age,gender,attendance,study_hours,previous_gpa,class_participation,homework_completion,behavior_score,sleep_hours,extracurricular,stress_level
+1001,Carol Parker,23,F,100,4.3,4.0,High,High,Good,9,Moderate,Medium
+1002,Rachel Hayes,17,F,94,3.8,4.0,High,High,Good,8,Extensive,Very High
+1003,Linda Wilson,17,F,94,4.4,3.6,Low,Medium,Excellent,7,Limited,High
+1004,Rachel Sanders,14,F,89,0.7,2.1,High,Low,Good,7,Extensive,Medium
+1005,Noah Alexander,20,M,62,2.0,1.9,Low,Low,Average,4,Limited,Very High
+1006,Paul Wright,24,M,96,2.8,3.2,Medium,High,Good,7,Limited,High
+1007,Linda Thomas,16,F,93,4.1,3.4,Medium,High,Good,8,Extensive,High
+1008,Stephen Coleman,25,M,89,2.1,2.7,High,Low,Good,9,Extensive,Medium
+1009,Abigail Watson,26,F,100,3.7,4.0,High,High,Excellent,6,Limited,High
+1010,Noah Washington,14,M,78,0.5,1.6,Medium,Low,Average,7,Extensive,Low
+1011,Tyler Cox,17,M,84,1.9,2.4,Low,Medium,Good,6,Limited,High
+1012,Jackson Simmons,16,M,91,3.4,3.6,High,High,Good,9,Extensive,Medium
+1013,Carolyn Rogers,18,F,90,0.7,2.9,Medium,Low,Average,7,Extensive,Medium
+1014,Noah Alexander,21,M,70,2.6,3.3,Low,Medium,Average,9,Extensive,High
+1015,Matthew Phillips,16,M,83,1.6,2.9,Medium,Medium,Excellent,8,Limited,Medium
+1016,Donald Howard,17,M,85,1.7,2.4,Medium,High,Good,7,Extensive,Low
+1017,Dorothy Garcia,24,F,82,2.9,2.3,Low,Medium,Average,8,None,High
+1018,Debra Kelly,25,F,91,2.6,3.3,Medium,Medium,Average,10,Extensive,Medium
+1019,Benjamin Russell,22,M,78,3.4,1.0,Low,Low,Good,9,Extensive,High
+1020,Amy Ward,26,F,90,2.8,3.2,Medium,Medium,Average,6,Extensive,High
+1021,David Roberts,24,M,88,3.1,3.6,High,Low,Good,7,Limited,Low
+1022,Deborah Jenkins,17,F,65,1.4,3.1,Medium,Medium,Poor,8,None,Very Low
+1023,Donald Walker,23,M,86,2.2,2.4,Low,Low,Average,8,None,Very High
+1024,Gary Flores,19,M,65,1.5,2.1,Low,Low,Average,4,None,Very High
+1025,Ryan Wilson,22,M,90,3.0,3.1,High,Medium,Good,8,Extensive,Low
+1026,Andrew Turner,17,M,80,1.5,2.7,Medium,Low,Average,7,Extensive,Medium
+1027,Linda Jones,16,F,68,1.8,3.0,Low,Medium,Average,7,None,Medium
+1028,Jason Jenkins,17,M,96,3.9,3.1,High,High,Excellent,7,Moderate,Medium
+1029,Gary Kelly,15,M,76,3.8,2.4,Medium,Low,Poor,8,None,Medium
+1030,Aiden Sanders,17,M,70,0.7,2.7,Low,Medium,Poor,8,None,Very Low
+1031,Frank Russell,22,M,81,1.2,2.9,Low,Medium,Average,4,Moderate,High
+1032,Jerry Campbell,14,M,88,3.8,2.7,Medium,High,Good,7,Moderate,Medium
+1033,Catherine Evans,20,F,88,2.4,2.6,Medium,Medium,Good,8,Moderate,Low
+1034,Janet Morris,23,F,81,2.6,2.0,Medium,Medium,Poor,10,None,High
+1035,Frank Thomas,21,M,84,2.6,3.4,High,Medium,Excellent,7,Moderate,Medium
+1036,Margaret Ward,16,F,86,3.3,2.5,Medium,High,Good,8,Moderate,Low
+1037,James Roberts,16,M,78,2.4,1.6,Medium,Low,Poor,4,None,Very High
+1038,Debra Mitchell,22,F,79,2.0,2.4,Low,Medium,Average,7,None,High
+1039,Betty Scott,18,F,82,2.6,3.1,Medium,Low,Good,7,Moderate,Very High
+1040,Andrew Cox,17,M,99,2.1,2.3,Medium,Medium,Good,8,Extensive,Medium
+1041,Emma Bennett,16,F,92,4.6,4.0,Medium,High,Good,7,Moderate,Medium
+1042,Joseph Torres,16,M,90,2.7,3.2,High,Medium,Average,10,Limited,Low
+1043,Ashley Hernandez,14,F,87,1.3,2.4,High,Medium,Average,7,Extensive,Very Low
+1044,Ashley Jenkins,14,F,69,1.7,2.3,Low,Low,Good,8,None,Low
+1045,Nicholas White,17,M,70,2.5,2.1,Low,Low,Good,11,None,High
+1046,Michelle Bennett,15,F,92,1.3,2.4,Low,Low,Excellent,8,Moderate,Very High
+1047,Thomas Wright,14,M,84,2.9,3.1,Medium,Medium,Average,8,Moderate,Medium
+1048,Brian Barnes,16,M,92,2.8,3.6,High,High,Good,8,Moderate,High
+1049,Aiden Lewis,20,M,80,1.1,2.7,Low,Medium,Average,8,None,High
+1050,Jerry Alexander,15,M,61,1.6,2.2,Low,Medium,Average,5,None,Medium
+1051,Patrick Bennett,15,M,79,2.2,3.3,Low,Medium,Average,9,Limited,High
+1052,Karen Harris,20,F,93,3.5,4.0,High,Medium,Excellent,8,Moderate,Low
+1053,Ryan Turner,18,M,91,4.1,3.0,Low,Medium,Good,8,Extensive,Medium
+1054,Brandon Russell,16,M,94,2.2,2.7,Medium,Medium,Excellent,8,Extensive,High
+1055,Carol Rivera,15,F,93,3.8,3.6,High,High,Good,8,Limited,High
+1056,Jack Simmons,22,M,96,0.5,2.6,Low,Medium,Average,4,None,Medium
+1057,Kimberly Foster,17,F,65,2.3,2.2,Low,Low,Poor,5,Limited,Medium
+1058,Timothy Reed,14,M,84,2.2,2.5,Medium,Medium,Excellent,8,None,Low
+1059,Charles Bryant,24,M,92,1.8,3.8,Medium,High,Good,8,Moderate,Medium
+1060,Lisa Peterson,14,F,89,4.1,3.5,Medium,High,Good,8,Extensive,High
+1061,Ryan Rogers,18,M,65,1.7,2.9,Medium,Medium,Poor,9,None,Medium
+1062,Christopher Jenkins,17,M,79,2.3,2.9,High,Medium,Good,7,Limited,Medium
+1063,Cynthia Baker,19,F,98,2.3,1.7,High,Low,Good,9,None,Medium
+1064,Charlotte Torres,21,F,94,2.5,1.7,High,High,Poor,6,Limited,High
+1065,Christine Smith,18,F,90,1.2,2.8,High,High,Poor,9,Limited,Medium
+1066,Liam Washington,23,M,86,2.1,1.7,Medium,Low,Good,7,Moderate,Medium
+1067,Emma Parker,23,F,90,1.4,3.6,Medium,High,Good,6,Extensive,High
+1068,Harper Martin,20,F,68,1.8,2.9,Low,Low,Excellent,4,Limited,Low
+1069,Virginia Murphy,14,F,89,1.8,1.8,Low,Low,Poor,8,Moderate,Very High
+1070,Frank Griffin,17,M,77,1.3,2.5,Low,Medium,Poor,6,Moderate,Very High
+1071,Angela Coleman,19,F,91,2.4,3.5,Medium,Medium,Good,7,Extensive,Medium
+1072,Melissa Brooks,19,F,100,0.5,2.5,Low,Medium,Poor,8,Extensive,Medium
+1073,Ethan Williams,24,M,77,1.5,2.3,Low,Low,Excellent,6,None,Low
+1074,Frank Scott,18,M,84,2.3,2.9,Low,Medium,Excellent,7,Moderate,Low
+1075,Raymond Morgan,17,M,86,2.0,3.1,Low,Medium,Poor,8,None,Very High
+1076,Thomas Ross,20,M,64,1.4,2.6,High,Medium,Poor,7,Limited,High
+1077,Jason Garcia,25,M,100,4.6,4.0,Medium,High,Excellent,7,Extensive,Medium
+1078,Jerry Washington,17,M,91,1.7,2.7,Low,Low,Good,8,Moderate,Very Low
+1079,Gregory Powell,14,M,89,3.0,3.4,Low,High,Good,8,None,Medium
+1080,Margaret Ward,26,F,97,2.1,3.1,Medium,Medium,Good,7,Moderate,High
+1081,Brian Wood,24,M,93,2.6,2.6,Low,Medium,Good,9,Moderate,High
+1082,Sophia Bailey,22,F,83,2.1,3.5,Low,High,Good,9,Moderate,High
+1083,Melissa Hill,25,F,87,2.8,2.7,Low,Medium,Average,5,Limited,Very Low
+1084,Joshua Martinez,24,M,99,3.9,4.0,High,High,Excellent,7,Extensive,High
+1085,Betty Watson,24,F,97,4.2,4.0,Medium,High,Good,7,Extensive,High
+1086,Liam Baker,26,M,86,3.1,3.3,Medium,High,Good,7,Moderate,Low
+1087,Karen Miller,24,F,98,4.6,3.4,High,High,Good,6,Extensive,Medium
+1088,Deborah Cooper,25,F,76,1.8,2.5,Low,High,Good,9,Extensive,Low
+1089,Ethan Simmons,20,M,81,1.6,2.3,Low,Low,Average,5,Limited,Very High
+1090,Mary Perez,25,F,92,2.1,3.1,Low,Medium,Average,7,Limited,Very Low
+1091,Amanda Alexander,25,F,86,3.5,2.6,Low,Medium,Average,8,None,Very High
+1092,Anna Wright,20,F,95,1.8,3.0,Low,Medium,Average,8,Extensive,Medium
+1093,Deborah Anderson,20,F,79,1.4,2.6,High,Low,Good,8,Limited,Very Low
+1094,Eli Jackson,25,M,97,3.0,4.0,Medium,Medium,Good,5,Limited,Very High
+1095,Daniel Johnson,25,M,98,2.4,3.9,High,Medium,Good,7,Extensive,Medium
+1096,Kenneth Miller,22,M,68,1.7,1.1,Medium,Low,Average,6,Moderate,Very High
+1097,Amelia Walker,23,F,70,2.3,2.9,Medium,Low,Average,11,Limited,Medium
+1098,Jeffrey Martin,21,M,97,1.7,2.6,Medium,Medium,Good,8,Moderate,Medium
+1099,David Ramirez,21,M,60,3.1,2.8,Low,Medium,Good,6,None,High
+1100,Robert Long,26,M,71,3.4,2.6,Low,Low,Average,9,Limited,Very High
+1101,Thomas Sanchez,19,M,79,2.3,3.1,Medium,Medium,Good,8,Limited,Low
+1102,Alexander James,18,M,85,2.2,2.4,High,Low,Excellent,7,Extensive,High
+1103,Kathleen Ward,15,F,71,1.9,2.5,Low,Low,Average,5,None,High
+1104,Linda Robinson,20,F,59,3.1,2.8,Low,Low,Poor,6,None,Very High
+1105,Joseph Thomas,21,M,100,4.4,4.0,High,High,Good,8,Limited,Low
+1106,Timothy Torres,16,M,100,2.9,2.7,High,Medium,Good,8,Extensive,Medium
+1107,Logan Campbell,18,M,88,3.3,2.7,Medium,Medium,Good,9,Limited,Medium
+1108,Kimberly Morgan,20,F,93,1.7,2.7,Medium,Medium,Good,6,Moderate,High
+1109,Margaret Griffin,20,F,86,3.2,3.6,Medium,Medium,Good,8,Limited,Medium
+1110,Ethan Henderson,26,M,91,1.0,1.7,Low,Low,Good,6,Limited,High
+1111,Carol Patterson,25,F,84,2.2,1.2,Low,Medium,Poor,7,None,High
+1112,Jack Thompson,23,M,84,2.6,3.1,Medium,Medium,Poor,7,Moderate,High
+1113,Jacob Barnes,21,M,88,1.5,2.9,High,Low,Poor,8,Moderate,Medium
+1114,Olivia Edwards,15,F,92,4.4,3.5,High,High,Excellent,7,Moderate,Low
+1115,Scott Allen,25,M,89,2.3,3.0,Medium,High,Good,7,Moderate,Medium
+1116,Andrew Scott,17,M,100,4.0,3.5,Medium,Medium,Good,8,Extensive,High
+1117,Nicholas Edwards,26,M,89,2.9,3.4,Medium,Medium,Good,9,Limited,Medium
+1118,Kimberly Gonzales,20,F,67,1.3,2.2,Medium,Low,Average,4,None,Very High
+1119,Charlotte Flores,24,F,95,5.5,4.0,High,High,Good,7,Limited,High
+1120,Anthony Wright,22,M,100,4.6,4.0,High,High,Excellent,9,Extensive,Medium
+1121,Aiden Green,24,M,78,1.5,1.5,Medium,Medium,Poor,7,None,High
+1122,Sarah Phillips,21,F,69,1.0,2.2,High,Medium,Poor,5,None,Very High
+1123,Angela Simmons,20,F,100,5.0,3.8,Medium,High,Excellent,9,Extensive,High
+1124,Anna Harris,20,F,91,1.5,3.5,High,Low,Good,8,Extensive,Medium
+1125,Margaret Russell,24,F,86,2.1,2.1,High,Low,Poor,4,None,High
+1126,Kathleen Simmons,15,F,94,2.9,2.2,Medium,Low,Good,8,Extensive,Low
+1127,Olivia Wilson,18,F,93,3.6,3.5,High,High,Excellent,7,Extensive,Low
+1128,Joseph Johnson,19,M,87,2.2,3.2,Medium,Medium,Good,8,Limited,Low
+1129,Anthony Jackson,16,M,72,1.1,2.1,Medium,Low,Poor,9,Limited,Very Low
+1130,Brandon Edwards,20,M,84,1.3,2.7,Low,Medium,Poor,9,Moderate,High
+1131,Debra Bailey,17,F,90,4.4,3.5,High,High,Good,8,Moderate,Medium
+1132,Betty Wilson,24,F,88,0.7,1.7,Medium,Low,Average,7,None,High
+1133,Sandra Perez,16,F,96,3.3,3.9,High,High,Good,6,Limited,Low
+1134,Kimberly Price,21,F,98,3.3,3.6,Medium,Medium,Excellent,8,Extensive,High
+1135,Carolyn Patterson,25,F,82,2.0,3.4,Low,Low,Poor,6,Limited,High
+1136,Abigail Anderson,25,F,83,1.2,2.6,Low,Low,Average,9,Limited,Medium
+1137,Jack Roberts,21,M,91,3.7,4.0,High,Medium,Good,7,Moderate,High
+1138,Patricia Hayes,25,F,84,1.8,2.7,Medium,Low,Good,7,Moderate,High
+1139,Thomas Phillips,17,M,95,2.0,2.9,Low,Low,Excellent,7,Extensive,Very High
+1140,Dennis Long,18,M,69,1.5,2.8,Low,High,Average,6,None,Very High
+1141,Olivia Young,18,F,73,3.0,2.5,Low,Medium,Poor,6,None,Very High
+1142,Kenneth Hall,26,M,100,2.1,2.2,Medium,Medium,Average,7,Extensive,Very High
+1143,Angela Young,21,F,55,1.8,2.6,Medium,High,Poor,10,None,High
+1144,Brian Walker,14,M,87,2.4,3.2,Medium,Low,Average,6,Extensive,Medium
+1145,Noah Wilson,23,M,82,2.8,1.6,Low,Low,Poor,9,Moderate,Very High
+1146,Mia Mitchell,24,F,83,1.9,3.1,Low,Medium,Poor,12,None,High
+1147,Susan James,25,F,90,3.1,3.0,Medium,High,Excellent,7,Limited,Very Low
+1148,Samantha Griffin,15,F,78,1.9,2.2,Low,Low,Average,6,None,Very High
+1149,Ethan Barnes,14,M,91,2.0,3.2,High,Medium,Average,7,None,High
+1150,Anthony Allen,21,M,89,1.5,2.7,High,Low,Poor,8,Extensive,Very Low
+1151,Jonathan Hall,26,M,94,2.4,3.5,Medium,Low,Good,9,Limited,Very Low
+1152,Michael Richardson,20,M,90,3.9,2.9,Medium,Medium,Good,7,Moderate,Medium
+1153,Thomas Perez,25,M,82,3.2,3.2,Low,Medium,Good,7,Extensive,High
+1154,Kimberly Parker,23,F,90,2.2,3.9,Medium,Medium,Good,8,Moderate,Medium
+1155,Anthony Kelly,14,M,89,2.2,3.0,High,Medium,Excellent,8,Moderate,Low
+1156,Noah Carter,21,M,96,4.7,4.0,High,High,Excellent,9,Extensive,High
+1157,Brian Bennett,25,M,98,2.7,2.9,High,Medium,Good,8,Limited,Medium
+1158,Melissa Hall,24,F,89,3.6,2.7,Medium,Medium,Average,10,Moderate,High
+1159,Mary Howard,20,F,97,3.9,3.5,Medium,High,Excellent,6,Extensive,Very High
+1160,Michael Hughes,19,M,87,2.1,1.7,Low,Low,Poor,4,Limited,Medium
+1161,Lucas Garcia,26,M,91,3.3,2.9,High,Low,Average,6,Moderate,High
+1162,Olivia Rodriguez,15,F,68,1.3,1.1,Low,Low,Average,6,Moderate,Medium
+1163,Brenda Hernandez,26,F,73,2.5,3.1,High,Medium,Good,8,None,High
+1164,Ruth Edwards,22,F,87,2.2,3.9,Medium,Medium,Good,8,Limited,Very Low
+1165,George Johnson,23,M,89,2.9,3.2,Low,High,Good,8,Moderate,Medium
+1166,Kathleen Brown,19,F,84,2.4,3.1,Low,Medium,Good,7,Limited,High
+1167,Mary Thompson,18,F,63,1.6,2.1,Low,Medium,Poor,9,Moderate,Low
+1168,Donald Phillips,22,M,50,3.0,3.5,High,Low,Poor,4,None,Medium
+1169,Carol Young,15,F,83,2.3,2.6,High,High,Average,7,Limited,High
+1170,Andrew Perez,26,M,81,3.7,3.4,Low,Low,Good,10,Limited,High
+1171,Paul Gray,25,M,93,2.3,3.0,Medium,High,Good,8,Limited,Very Low
+1172,Lisa Green,25,F,78,2.5,2.3,Low,Medium,Average,6,None,Very Low
+1173,Amelia Reed,23,F,100,4.7,3.7,High,High,Excellent,9,Moderate,Low
+1174,Emily Jones,24,F,75,2.3,2.6,High,Low,Good,6,Limited,High
+1175,Robert Peterson,15,M,87,1.7,3.3,High,Low,Good,8,Limited,Medium
+1176,Rachel Taylor,16,F,69,2.6,2.0,Low,Low,Average,4,Limited,Medium
+1177,Benjamin Carter,23,M,82,2.5,2.4,Low,Low,Good,9,Limited,Medium
+1178,Caleb Ross,19,M,52,3.4,2.7,High,Low,Average,7,None,Very High
+1179,Patricia Lee,18,F,65,1.8,2.2,Medium,High,Good,8,Moderate,Medium
+1180,Cynthia Parker,26,F,76,2.1,2.3,Low,Low,Poor,6,Moderate,Medium
+1181,Michael Moore,15,M,87,1.5,2.6,Medium,Medium,Good,9,Moderate,High
+1182,Larry Brown,20,M,92,1.9,2.9,Medium,Medium,Average,8,Extensive,Medium
+1183,Mason Adams,16,M,85,1.3,2.9,Medium,Low,Good,7,Extensive,Low
+1184,Anthony Smith,23,M,84,0.8,3.4,Medium,Medium,Poor,8,Limited,Medium
+1185,Christopher Morris,21,M,99,5.1,4.0,Low,High,Average,9,Moderate,Low
+1186,Gregory Phillips,22,M,80,1.4,2.7,Low,Medium,Excellent,8,Moderate,Low
+1187,Maria Bryant,23,F,100,3.8,3.9,High,High,Excellent,7,Limited,Low
+1188,Raymond Barnes,15,M,68,0.7,1.9,Medium,Medium,Excellent,4,None,Medium
+1189,Brandon Evans,22,M,67,3.0,2.0,Low,Low,Average,12,None,High
+1190,Justin Lee,24,M,92,3.0,2.9,Medium,Medium,Excellent,9,Moderate,Medium
+1191,Betty Lee,21,F,87,2.2,3.9,Medium,Medium,Excellent,7,Moderate,Very High
+1192,Mason Anderson,24,M,100,3.9,3.9,High,High,Excellent,9,Extensive,High
+1193,Lucas Lopez,18,M,82,3.6,3.2,Medium,High,Good,7,Limited,Very Low
+1194,Patricia Perry,26,F,100,5.3,4.0,Medium,High,Good,6,Extensive,High
+1195,Paul Patterson,22,M,66,1.7,2.3,Medium,Medium,Average,7,Moderate,Low
+1196,Kimberly Campbell,20,F,74,0.8,2.5,Medium,Low,Average,7,Moderate,High
+1197,Cynthia Baker,20,F,84,2.9,3.2,Low,Low,Average,8,None,Very High
+1198,Larry Foster,26,M,90,2.0,3.3,High,Medium,Average,8,Moderate,Medium
+1199,Robert Phillips,20,M,75,0.9,1.9,Medium,Low,Average,8,Limited,Medium
+1200,Deborah Jackson,23,F,92,2.6,3.0,High,Medium,Good,8,Extensive,Very Low
+1201,Mark Wright,25,M,91,1.8,2.8,Medium,Low,Poor,6,Moderate,Very High
+1202,Jonathan Thomas,14,M,94,3.8,3.8,High,Medium,Excellent,7,Moderate,Medium
+1203,Benjamin Sanchez,20,M,98,1.5,2.8,Medium,High,Good,7,Moderate,Very Low
+1204,Gregory Foster,17,M,92,2.0,3.2,Low,Medium,Average,4,None,Very High
+1205,Maria Rivera,21,F,76,2.4,2.3,Low,Medium,Poor,8,None,Medium
+1206,Deborah Harris,26,F,70,3.0,3.3,Low,High,Poor,6,None,Medium
+1207,Patricia Torres,22,F,86,3.7,3.6,High,Medium,Good,7,Limited,Medium
+1208,Benjamin Bennett,17,M,66,1.3,1.7,Medium,Low,Good,5,Moderate,Very High
+1209,Robert Collins,20,M,65,1.4,2.6,Medium,Medium,Good,7,Extensive,Very High
+1210,Raymond Wilson,17,M,100,3.2,4.0,High,High,Excellent,7,Extensive,Medium
+1211,Jeffrey Turner,25,M,92,2.7,2.5,Low,Medium,Good,8,Extensive,High
+1212,Carol Phillips,18,F,89,2.1,2.9,Medium,Medium,Good,9,Extensive,Medium
+1213,Sharon Russell,14,F,64,1.1,2.0,High,Low,Average,6,Extensive,Very High
+1214,Edward Bell,20,M,66,2.6,2.9,High,Low,Excellent,6,Limited,Very High
+1215,Dennis Walker,14,M,81,2.8,2.8,High,Medium,Good,9,Limited,Medium
+1216,Abigail Murphy,26,F,77,0.9,3.0,Low,Medium,Average,9,Extensive,High
+1217,Eric Brooks,24,M,97,4.1,4.0,High,High,Good,8,Limited,High
+1218,Samuel Patterson,17,M,83,3.4,2.4,Low,Medium,Average,5,None,Low
+1219,Debra Martin,19,F,80,2.3,3.1,Medium,Medium,Good,10,Limited,Low
+1220,Lisa Alexander,15,F,69,2.0,2.5,Low,Medium,Average,9,None,High
+1221,Nicholas Garcia,16,M,95,1.1,2.0,Low,Low,Good,8,Limited,Very High
+1222,Betty Campbell,23,F,96,3.3,3.2,Medium,Low,Poor,7,Moderate,Medium
+1223,Logan Butler,17,M,88,3.2,3.2,High,Medium,Average,9,Moderate,Very High
+1224,Stephen Wright,21,M,84,2.6,2.9,Low,High,Good,7,None,Medium
+1225,Tyler Henderson,22,M,90,2.2,3.4,Medium,Medium,Average,7,Extensive,High
+1226,Dorothy Wilson,20,F,82,1.7,2.6,Medium,Low,Good,10,None,Medium
+1227,Sophia Jenkins,23,F,81,2.2,1.7,Low,Medium,Poor,8,Moderate,High
+1228,Debra Cox,23,F,100,6.0,3.8,High,Medium,Good,8,None,Medium
+1229,Jonathan Nelson,23,M,90,3.8,3.1,Low,Medium,Average,8,Moderate,Medium
+1230,Kathleen Washington,15,F,92,1.9,2.6,Low,Low,Average,8,Extensive,Very Low
+1231,Karen Young,19,F,92,2.1,3.1,High,Low,Good,7,Limited,Low
+1232,Jackson Russell,18,M,89,0.6,2.1,Low,Low,Average,8,Limited,Medium
+1233,Logan Turner,26,M,99,2.2,2.3,Low,Low,Poor,11,Limited,Very Low
+1234,Karen Butler,19,F,93,2.4,3.9,High,High,Good,7,Moderate,Medium
+1235,Jeffrey Ramirez,17,M,60,2.0,2.3,Low,Low,Poor,6,None,Low
+1236,Evelyn Johnson,26,F,85,2.8,3.3,Medium,High,Good,7,Extensive,Medium
+1237,Ronald Miller,17,M,88,0.8,1.6,Low,Medium,Good,5,None,Medium
+1238,Virginia Ward,14,F,88,1.9,2.7,High,Low,Good,8,Moderate,Very Low
+1239,Amy Bryant,25,F,62,3.0,2.4,Low,Low,Good,8,None,Very High
+1240,Patricia Green,23,F,94,2.4,3.2,Low,High,Poor,8,Moderate,Low
+1241,Kevin Griffin,15,M,83,2.9,2.6,Low,Medium,Average,8,None,Very High
+1242,Logan Williams,20,M,87,3.6,2.9,Medium,Medium,Good,10,Limited,Medium
+1243,Pamela Parker,24,F,89,2.1,3.2,Medium,Low,Good,7,Limited,Medium
+1244,Christopher Thomas,25,M,100,3.9,3.7,Medium,High,Good,6,Limited,High
+1245,Daniel Garcia,15,M,70,2.6,1.4,Medium,Low,Good,9,None,Very High
+1246,David Coleman,25,M,89,2.6,2.0,Medium,Medium,Average,7,Limited,High
+1247,Sharon Perez,22,F,91,1.4,3.5,High,Medium,Excellent,8,Extensive,Very Low
+1248,Mia Green,24,F,91,2.2,3.1,High,Low,Poor,6,Limited,High
+1249,Melissa Carter,14,F,72,1.3,1.8,Medium,Low,Average,6,Limited,High
+1250,Christine Perez,25,F,93,2.4,2.2,Low,Low,Average,7,Limited,Very Low
+1251,Jeffrey Stewart,20,M,100,5.0,3.8,High,High,Excellent,7,Limited,Medium
+1252,David Morgan,22,M,92,3.1,3.4,Medium,Medium,Average,9,Moderate,Medium
+1253,Rebecca Kelly,21,F,91,1.7,3.5,Low,Low,Average,7,Limited,High
+1254,James Washington,15,M,91,1.0,2.9,Medium,Medium,Average,7,Limited,Very High
+1255,Anthony Edwards,22,M,71,1.7,2.4,Low,Low,Poor,8,None,Medium
+1256,Robert Torres,23,M,95,1.8,2.9,Medium,Medium,Good,9,Extensive,Very High
+1257,Edward Harris,21,M,99,2.4,2.6,Low,Medium,Poor,7,None,Low
+1258,Shirley Patterson,14,F,82,1.0,2.3,Medium,Medium,Poor,4,Moderate,High
+1259,Donald Garcia,25,M,84,2.8,2.3,Medium,High,Poor,10,Moderate,High
+1260,Isabella Anderson,22,F,84,1.3,3.0,Medium,Medium,Poor,8,Moderate,Medium
+1261,Catherine Garcia,23,F,97,2.6,3.5,Medium,Medium,Average,8,Limited,High
+1262,Abigail Flores,15,F,84,3.0,3.2,High,Medium,Good,6,Moderate,Very Low
+1263,Deborah Hernandez,18,F,92,3.3,2.8,High,Medium,Average,8,Limited,Medium
+1264,Karen Williams,16,F,87,2.7,2.8,Medium,Medium,Average,7,Limited,Medium
+1265,Lisa Smith,23,F,99,5.3,4.0,High,Medium,Excellent,7,Moderate,High
+1266,Anthony Parker,19,M,80,0.5,2.7,Medium,Low,Average,4,None,Medium
+1267,Tyler Stewart,21,M,97,3.4,3.4,High,High,Excellent,9,Moderate,Low
+1268,Barbara Lopez,15,F,94,4.3,3.7,High,High,Excellent,8,Limited,High
+1269,Brandon Johnson,14,M,85,1.7,3.3,High,High,Average,8,Extensive,Medium
+1270,Angela Martinez,18,F,54,1.2,2.8,Low,Medium,Average,8,Moderate,High
+1271,Dorothy Anderson,14,F,83,2.3,2.9,Medium,High,Good,10,Limited,Medium
+1272,Katherine Garcia,26,F,95,2.6,3.4,Medium,Low,Good,8,Moderate,Medium
+1273,David Hill,14,M,86,1.7,2.8,Medium,Low,Good,7,Moderate,High
+1274,Sophia Hernandez,24,F,93,2.9,3.4,Medium,High,Good,8,None,Medium
+1275,Susan Miller,18,F,88,0.6,3.2,Medium,Low,Poor,8,Extensive,High
+1276,Angela Lee,21,F,100,2.0,4.0,High,High,Excellent,7,Extensive,Very High
+1277,Joshua Bennett,25,M,95,2.3,3.4,Low,Medium,Good,7,Limited,Medium
+1278,Charlotte Clark,20,F,84,3.9,3.0,Medium,Medium,Good,8,Limited,Low
+1279,Nicholas Mitchell,22,M,100,4.7,3.9,Medium,Medium,Excellent,8,Moderate,Low
+1280,Anna Lopez,19,F,99,2.7,3.1,Low,Medium,Average,9,Limited,Medium
+1281,Patricia Butler,20,F,91,3.0,3.0,Low,Low,Poor,5,None,Very High
+1282,Brandon Gonzales,15,M,100,3.1,3.8,High,High,Excellent,7,Moderate,High
+1283,James Peterson,19,M,76,2.3,2.8,Low,Low,Poor,8,Extensive,High
+1284,Emma Parker,16,F,94,2.2,2.3,Medium,Medium,Poor,9,None,Very High
+1285,Ashley Thompson,21,F,94,2.1,3.3,Medium,Low,Good,9,Moderate,Medium
+1286,Debra Taylor,14,F,94,5.1,3.7,High,High,Excellent,8,Moderate,Very High
+1287,Aiden Price,17,M,84,2.5,2.7,Low,Medium,Average,7,Moderate,Very Low
+1288,Brandon Jenkins,26,M,100,3.8,3.6,High,High,Excellent,5,Limited,High
+1289,Sarah Sanchez,26,F,92,1.1,3.1,Low,Medium,Poor,8,None,High
+1290,Amanda White,24,F,88,3.6,3.4,High,Medium,Good,7,Extensive,Very High
+1291,Jerry Rodriguez,25,M,78,3.6,2.4,Medium,Medium,Poor,6,Limited,Very High
+1292,Virginia Bryant,20,F,93,4.2,3.5,High,Medium,Good,9,Limited,Medium
+1293,Carolyn Scott,23,F,86,2.9,3.2,Medium,Low,Average,8,None,High
+1294,Virginia Morgan,25,F,93,2.2,2.7,Medium,Low,Poor,7,Extensive,Medium
+1295,Jacob Brown,16,M,55,1.7,1.8,Medium,Medium,Average,5,Moderate,Very High
+1296,Andrew Nelson,21,M,92,2.9,3.3,High,Low,Poor,6,Limited,Low
+1297,Emma Harris,16,F,60,2.2,1.8,Medium,Low,Good,6,Limited,High
+1298,Amanda Wood,26,F,87,1.5,2.8,Low,Medium,Average,4,None,Very Low
+1299,John Anderson,19,M,84,2.9,2.6,Medium,Low,Average,8,Moderate,Medium
+1300,Eli Cook,16,M,70,1.9,2.3,Low,Low,Poor,9,Extensive,Low
+1301,Gary Cooper,26,M,76,1.7,2.4,Medium,Low,Average,7,Limited,Very Low
+1302,Karen Harris,24,F,92,2.2,2.7,Low,Medium,Excellent,7,Limited,Medium
+1303,Catherine Walker,17,F,80,2.8,2.3,Low,Medium,Good,7,Extensive,Low
+1304,Stephen Russell,17,M,81,3.0,2.9,Medium,Medium,Good,9,Limited,Very Low
+1305,Liam Bailey,23,M,71,2.4,2.1,Low,Medium,Poor,11,Moderate,High
+1306,Jack Davis,17,M,61,2.0,2.9,Low,Low,Poor,8,Moderate,Medium
+1307,David Morgan,23,M,91,2.1,3.0,Medium,High,Good,7,Extensive,Low
+1308,Tyler Walker,15,M,94,3.1,2.6,Low,High,Good,6,Moderate,Low
+1309,Nicole Sanchez,14,F,85,4.0,2.8,Medium,Medium,Good,10,None,Low
+1310,Scott Rodriguez,19,M,100,3.8,4.0,High,High,Excellent,9,Moderate,High
+1311,Debra Wilson,16,F,83,2.4,2.8,Low,High,Average,7,Limited,Very High
+1312,Harper Smith,26,F,89,1.6,3.0,Medium,High,Good,7,Extensive,Low
+1313,Raymond Cook,23,M,93,1.2,3.1,Low,Low,Good,8,Extensive,High
+1314,Isabella Powell,17,F,50,1.8,2.7,Low,Low,Average,5,Limited,High
+1315,Angela Adams,26,F,100,2.6,2.2,High,High,Poor,7,Limited,Low
+1316,Emily Perry,14,F,97,4.1,3.9,High,High,Excellent,7,Moderate,Low
+1317,Joshua Ramirez,21,M,75,1.7,2.3,Low,Low,Average,5,None,Very High
+1318,Aiden Richardson,24,M,76,2.8,2.8,Low,Medium,Excellent,7,Limited,High
+1319,Karen Scott,20,F,82,2.6,3.5,Medium,Medium,Good,8,None,High
+1320,Evelyn King,24,F,100,4.7,3.9,Medium,Medium,Excellent,7,Moderate,Medium
+1321,Jerry Powell,22,M,99,4.2,4.0,High,High,Excellent,8,Extensive,Very High
+1322,Aiden Rivera,21,M,68,1.0,1.3,Low,Medium,Average,8,None,Low
+1323,Noah Cook,15,M,92,2.3,3.8,High,High,Excellent,10,Extensive,Very High
+1324,Maria Jenkins,17,F,88,2.3,2.8,Medium,High,Average,7,Extensive,Very Low
+1325,Janet Edwards,14,F,94,1.6,2.9,Medium,Medium,Good,8,Extensive,Medium
+1326,Logan Long,19,M,69,2.8,2.5,High,Low,Good,5,Limited,Very High
+1327,Alexander Sanchez,18,M,81,1.1,2.5,Low,High,Poor,7,None,Medium
+1328,Amelia Perez,17,F,90,2.8,3.0,Medium,Medium,Good,9,None,Very Low
+1329,Logan Davis,16,M,92,2.2,2.5,Low,Medium,Poor,4,None,Medium
+1330,Anthony Long,20,M,82,2.6,2.9,High,Medium,Good,8,Moderate,Very High
+1331,Nicole Ward,19,F,97,4.6,3.8,High,High,Good,8,Limited,Low
+1332,Ruth Edwards,24,F,89,1.7,2.9,High,Low,Average,8,None,Medium
+1333,Gary Perry,15,M,58,1.9,2.8,Low,Low,Average,8,Moderate,Very High
+1334,Patricia Flores,24,F,72,3.0,2.4,Medium,Low,Good,6,Limited,Low
+1335,Logan Richardson,23,M,86,2.7,3.0,Medium,Low,Good,8,Limited,Medium
+1336,Aiden Green,24,M,93,2.2,3.1,Low,Medium,Excellent,8,Limited,Low
+1337,Sophia Hughes,17,F,94,0.9,1.8,Low,Medium,Good,8,Extensive,Medium
+1338,Eli Williams,16,M,80,1.7,2.3,High,Low,Excellent,6,Moderate,Medium
+1339,Daniel Bennett,15,M,81,2.4,2.1,Medium,High,Poor,4,None,Very Low
+1340,Liam Wright,20,M,67,2.0,1.7,Medium,Low,Good,7,Moderate,High
+1341,William Wright,26,M,90,3.3,3.2,Medium,Medium,Good,7,Moderate,High
+1342,Kevin Edwards,24,M,86,1.8,2.4,Medium,Low,Average,5,None,Very High
+1343,Scott Stewart,26,M,71,1.4,2.3,Low,Low,Average,9,None,Medium
+1344,Eli Powell,14,M,56,1.9,2.8,Medium,Medium,Average,6,Limited,Very High
+1345,Mark Washington,23,M,85,3.5,3.0,Low,Medium,Good,10,Limited,Medium
+1346,Mason Clark,19,M,94,1.7,3.7,Medium,Medium,Excellent,7,Moderate,Very Low
+1347,Laura Phillips,14,F,92,2.0,3.3,Medium,Medium,Good,9,Moderate,Medium
+1348,Edward Griffin,24,M,89,2.5,3.3,Medium,High,Good,7,Moderate,High
+1349,Kathleen Thomas,17,F,100,4.1,3.6,Low,High,Good,8,Extensive,Medium
+1350,John Wright,24,M,95,3.6,4.0,Medium,High,Good,7,Extensive,Medium
+1351,Christine Brooks,15,F,62,2.2,3.3,Low,Low,Average,8,Limited,Low
+1352,Nicholas Thomas,25,M,85,1.4,1.8,Low,Low,Poor,9,Limited,Medium
+1353,Donna Campbell,14,F,67,1.3,2.7,High,Medium,Average,7,Limited,High
+1354,Samantha Gonzales,16,F,80,3.5,2.0,Medium,High,Average,9,Extensive,Very High
+1355,Brandon Adams,18,M,76,2.0,3.1,Medium,High,Poor,8,Limited,Medium
+1356,Amanda Edwards,20,F,100,4.0,3.5,Medium,Low,Excellent,6,Moderate,Low
+1357,Amelia Parker,24,F,80,3.5,2.5,Low,Medium,Good,7,Extensive,Low
+1358,Donna Cooper,23,F,87,3.1,3.4,Low,Medium,Good,9,Extensive,Low
+1359,Pamela White,16,F,82,2.4,3.1,Medium,High,Good,8,Moderate,Medium
+1360,Raymond Morris,14,M,98,2.1,3.1,Low,Medium,Average,8,Extensive,Medium
+1361,Jeffrey Ross,14,M,99,4.1,3.3,Medium,High,Excellent,8,Extensive,Medium
+1362,Dorothy Martin,22,F,71,1.7,3.0,Medium,High,Poor,9,Moderate,Very High
+1363,Amanda Cox,21,F,78,2.3,4.1,Low,High,Poor,7,None,Very High
+1364,Margaret Collins,25,F,92,1.9,3.4,Medium,High,Average,8,Limited,High
+1365,Emily Thompson,21,F,99,2.5,2.9,Medium,Medium,Good,7,Moderate,Medium
+1366,Samantha King,14,F,94,3.3,3.5,Medium,High,Excellent,8,Moderate,High
+1367,Aiden Scott,19,M,100,2.2,2.4,Low,Medium,Excellent,8,Extensive,Low
+1368,Gary Hernandez,14,M,89,1.3,2.4,High,Low,Poor,7,None,High
+1369,Nicole Wood,18,F,81,2.9,3.0,High,High,Good,8,Limited,Medium
+1370,Eli Cooper,26,M,88,2.0,3.3,Medium,Medium,Good,7,Extensive,Very High
+1371,Pamela Patterson,19,F,100,3.9,3.9,Medium,Medium,Good,8,Moderate,Low
+1372,Samuel Ramirez,21,M,59,1.9,1.7,Low,Low,Poor,8,None,Very High
+1373,Timothy Torres,26,M,90,3.8,2.8,Medium,Low,Excellent,8,Extensive,High
+1374,Mason Cox,22,M,96,4.0,3.8,Medium,Medium,Average,9,Moderate,Very High
+1375,Gary Cox,16,M,80,1.9,2.5,Low,Low,Good,6,None,Medium
+1376,David Martinez,18,M,65,1.8,2.4,Low,Low,Average,6,None,Low
+1377,Mia Murphy,16,F,92,2.4,2.8,Low,Medium,Excellent,9,Extensive,Very Low
+1378,Jack Jones,20,M,94,4.1,3.6,High,High,Good,6,Moderate,Medium
+1379,Susan Butler,26,F,74,1.9,3.0,Medium,Low,Poor,7,None,Low
+1380,Eli White,24,M,96,5.9,4.0,High,High,Excellent,8,Extensive,High
+1381,Emma Bell,22,F,71,1.2,2.2,Medium,Medium,Good,8,None,High
+1382,Debra Ward,20,F,91,2.8,2.1,Low,Low,Average,5,Moderate,High
+1383,Jennifer Jackson,18,F,71,0.5,2.3,Medium,Low,Average,6,Limited,High
+1384,Lisa Hayes,17,F,65,0.5,2.4,Low,High,Average,6,Moderate,Low
+1385,Jennifer Brown,16,F,79,0.8,3.0,Low,High,Poor,10,Limited,Low
+1386,Gary Wood,25,M,91,1.6,2.1,Low,Low,Average,7,Moderate,Medium
+1387,Stephen Campbell,19,M,65,2.2,3.1,Low,Low,Poor,9,Moderate,Very Low
+1388,Kimberly Price,25,F,92,2.1,2.6,High,Low,Excellent,7,Extensive,High
+1389,Frank Moore,15,M,72,2.1,3.1,Low,Medium,Average,5,Limited,Very High
+1390,Catherine Gonzalez,24,F,97,2.8,3.2,Medium,Low,Good,7,None,Very Low
+1391,Emma Nelson,19,F,76,2.5,3.2,Medium,Medium,Good,7,Extensive,High
+1392,George Lopez,14,M,95,4.4,3.2,Medium,High,Good,7,Extensive,High
+1393,Donald Watson,16,M,97,3.0,3.8,Medium,High,Good,6,Moderate,High
+1394,Ethan Ramirez,21,M,99,4.3,3.3,High,High,Excellent,9,Extensive,High
+1395,Abigail Price,25,F,97,3.8,3.9,High,High,Excellent,9,Moderate,Medium
+1396,Sandra Reed,26,F,84,2.0,2.6,Low,High,Excellent,8,None,High
+1397,William Cox,22,M,75,1.6,2.0,Medium,Low,Average,7,Extensive,Very High
+1398,Linda Taylor,25,F,82,0.5,3.0,Medium,Low,Average,9,Moderate,Medium
+1399,Ethan Collins,16,M,73,1.9,3.2,Low,Medium,Good,10,Moderate,Medium
+1400,Nicole Henderson,16,F,75,1.2,2.4,Low,High,Average,10,None,Medium
+1401,Jeffrey Foster,15,M,93,3.4,3.6,High,High,Average,7,Moderate,Medium
+1402,Kimberly Bailey,18,F,71,2.6,2.3,Low,Low,Poor,6,None,Medium
+1403,Ashley Perez,25,F,76,1.0,3.3,Medium,Low,Excellent,7,Limited,High
+1404,William Parker,19,M,97,6.0,3.9,High,Medium,Excellent,7,Moderate,High
+1405,Liam Garcia,20,M,72,3.0,2.7,Low,High,Poor,4,Extensive,Medium
+1406,Brenda Sanchez,14,F,98,3.5,4.0,High,High,Excellent,9,Moderate,Medium
+1407,Andrew Thompson,22,M,89,2.9,3.0,Medium,Medium,Good,8,Extensive,Medium
+1408,Paul Morris,15,M,91,1.3,2.5,High,High,Good,8,Moderate,Medium
+1409,Mark Harris,22,M,87,2.6,2.8,Low,Medium,Average,8,Moderate,High
+1410,Jennifer Morris,22,F,100,1.3,2.7,Low,Low,Poor,10,None,High
+1411,Larry Jackson,16,M,85,2.8,2.7,Medium,Medium,Average,8,Limited,Medium
+1412,Steven Flores,16,M,84,3.1,3.4,High,Low,Average,11,Limited,Medium
+1413,Patricia Simmons,16,F,91,2.0,2.9,High,High,Poor,7,Extensive,Medium
+1414,Stephanie Hall,18,F,79,1.6,2.6,Medium,Low,Poor,10,Extensive,Medium
+1415,Harper Collins,26,F,76,2.8,2.9,Low,Medium,Average,6,None,Low
+1416,Pamela Parker,26,F,94,4.0,4.0,High,Medium,Excellent,7,Extensive,High
+1417,Raymond Edwards,15,M,92,3.6,4.0,High,High,Excellent,8,Moderate,Very High
+1418,Justin Murphy,20,M,86,2.5,3.0,Medium,High,Excellent,7,Limited,High
+1419,Brenda James,14,F,94,1.5,3.4,Medium,Medium,Poor,10,Extensive,High
+1420,Nicole Lee,20,F,82,1.4,2.5,Low,Low,Good,6,None,High
+1421,Shirley Hill,25,F,74,2.2,1.9,Low,High,Average,8,Limited,High
+1422,Stephanie Cooper,25,F,74,2.4,2.9,Low,Low,Poor,6,None,Very High
+1423,Janet Lee,18,F,82,1.4,3.1,Low,Low,Poor,4,Limited,Low
+1424,Angela Richardson,18,F,77,3.4,1.8,Medium,Medium,Poor,6,Limited,High
+1425,Linda Ramirez,20,F,94,2.2,3.0,Medium,Medium,Poor,8,Extensive,Very High
+1426,Matthew Coleman,18,M,88,3.2,3.1,Medium,Medium,Average,8,Moderate,Medium
+1427,Ashley Harris,20,F,91,3.9,3.1,High,Medium,Average,7,Moderate,High
+1428,Barbara Thompson,15,F,98,3.9,3.0,High,High,Excellent,8,Extensive,Medium
+1429,Lucas Martin,22,M,88,2.1,3.1,Low,Low,Good,8,Extensive,Medium
+1430,Paul Sanchez,19,M,91,2.4,3.2,High,Medium,Good,8,None,Medium
+1431,Carol Hughes,15,F,84,2.3,1.8,Low,Medium,Average,9,None,Very High
+1432,Eric Torres,26,M,87,3.5,3.3,Medium,Low,Good,10,Limited,Low
+1433,Jackson Harris,26,M,89,2.8,3.2,Medium,Medium,Average,8,Limited,Medium
+1434,Karen Kelly,20,F,91,1.8,2.8,High,Low,Good,7,Limited,Low
+1435,Charles Walker,20,M,82,2.9,2.3,Medium,Low,Excellent,6,None,High
+1436,Rachel Washington,19,F,91,2.7,2.5,High,Medium,Good,8,Extensive,Very Low
+1437,Ronald Wright,21,M,90,2.5,2.7,Low,High,Average,9,Limited,High
+1438,Betty Rogers,26,F,77,2.7,2.7,Medium,Medium,Poor,6,Extensive,Very Low
+1439,Nicholas Clark,26,M,100,5.6,3.9,High,High,Good,8,None,Very High
+1440,Melissa Taylor,16,F,93,3.3,3.5,High,Medium,Good,9,Moderate,Medium
+1441,David Foster,23,M,89,1.9,3.1,Medium,Medium,Good,7,Moderate,Medium
+1442,Shirley Young,16,F,100,1.7,2.8,Medium,High,Good,8,Limited,Medium
+1443,Ethan Reed,23,M,99,5.7,3.7,High,High,Good,8,Extensive,Very High
+1444,Kathleen Perez,24,F,85,2.1,3.0,Medium,Medium,Good,8,Moderate,High
+1445,Susan Johnson,17,F,83,2.1,2.6,High,High,Good,8,Limited,Low
+1446,Michael Reed,19,M,59,2.6,2.6,Medium,Medium,Good,4,Limited,Very High
+1447,Stephen Gonzales,20,M,89,1.6,3.0,Medium,Medium,Average,9,Extensive,High
+1448,Margaret Richardson,22,F,93,4.4,3.8,Medium,Medium,Excellent,8,Extensive,Very High
+1449,Michelle Anderson,17,F,89,1.3,2.7,Medium,Low,Good,7,Moderate,High
+1450,Debra Flores,22,F,100,4.4,4.0,High,Medium,Excellent,7,Limited,Low
+1451,Rachel Griffin,22,F,85,1.9,2.6,Medium,Medium,Good,6,Extensive,Low
+1452,Carolyn Gonzalez,18,F,96,4.4,3.2,High,High,Good,8,Moderate,High
+1453,Edward Flores,16,M,69,1.9,2.7,Low,Medium,Poor,9,Moderate,Medium
+1454,Michelle Diaz,19,F,85,2.4,2.6,Medium,Medium,Good,7,Extensive,Very High
+1455,George Thomas,18,M,63,1.7,2.6,Low,Low,Average,7,None,Very High
+1456,Jackson Long,19,M,95,4.3,3.9,Medium,High,Average,6,Moderate,Medium
+1457,Alexander Hill,22,M,95,2.1,2.6,Low,Low,Poor,8,Limited,Medium
+1458,Cynthia Patterson,22,F,99,5.1,3.9,Low,High,Excellent,7,Moderate,High
+1459,Brenda Bell,16,F,90,1.1,2.8,High,Low,Good,7,Extensive,Medium
+1460,Pamela Watson,23,F,76,2.1,1.3,Medium,Medium,Poor,6,None,Medium
+1461,Elizabeth Gonzales,23,F,99,4.5,3.5,High,High,Good,9,Moderate,Medium
+1462,Jerry Robinson,19,M,83,3.3,3.2,Medium,Medium,Excellent,7,None,Medium
+1463,Jackson Martinez,15,M,88,0.7,2.6,Medium,Medium,Poor,8,None,Very Low
+1464,Jeffrey Jones,16,M,63,2.5,2.1,Low,Low,Poor,7,Limited,High
+1465,George Davis,21,M,89,2.7,3.4,Low,High,Good,9,None,Medium
+1466,Jerry Gonzalez,25,M,94,5.5,3.4,High,High,Good,9,Limited,Medium
+1467,Pamela Allen,25,F,86,1.2,2.2,Low,Medium,Average,5,Limited,Very High
+1468,Frank Harris,21,M,87,2.6,3.4,High,Medium,Good,9,Limited,Medium
+1469,Matthew Green,26,M,100,2.0,2.9,Medium,High,Good,6,Extensive,Very Low
+1470,Sarah Robinson,25,F,70,3.0,3.8,Medium,Medium,Poor,5,Extensive,Medium
+1471,Sharon White,19,F,87,2.0,3.0,High,Low,Good,7,Extensive,Medium
+1472,Mark White,25,M,79,1.6,2.4,Medium,Low,Poor,7,None,Very High
+1473,Andrew Barnes,18,M,95,3.7,3.7,High,High,Average,7,Extensive,High
+1474,Michael Cox,17,M,94,3.8,4.0,High,Medium,Excellent,8,Extensive,High
+1475,Edward Diaz,19,M,96,4.8,3.7,High,High,Excellent,9,Extensive,High
+1476,Amy Allen,26,F,95,2.2,3.2,Medium,Low,Average,6,Moderate,Medium
+1477,Nancy Martin,18,F,61,2.3,2.6,Low,Medium,Average,10,None,Very High
+1478,Matthew Smith,20,M,99,3.1,3.3,Medium,Medium,Average,6,None,Low
+1479,Justin Henderson,14,M,68,1.2,2.1,Low,Medium,Average,7,None,High
+1480,Kathleen Garcia,17,F,94,2.4,3.9,High,High,Good,6,None,High
+1481,Liam Edwards,26,M,94,3.5,2.6,Medium,Medium,Excellent,5,Extensive,High
+1482,Mary Wright,16,F,84,3.2,3.6,Low,Medium,Good,7,None,Low
+1483,Ruth Lopez,19,F,93,1.7,2.8,Medium,Medium,Good,10,Extensive,Low
+1484,Emily Ramirez,18,F,90,4.2,3.8,Medium,High,Average,9,None,Low
+1485,Samuel Gonzales,19,M,91,2.2,2.7,High,Medium,Average,8,Extensive,High
+1486,Jack Griffin,15,M,86,2.2,2.7,Low,Medium,Average,8,Moderate,Medium
+1487,Ryan Walker,18,M,85,3.2,3.0,Medium,Medium,Good,6,Limited,High
+1488,Aiden Russell,20,M,94,2.2,2.9,Medium,Medium,Average,7,Moderate,Very Low
+1489,Sophia Mitchell,14,F,92,1.2,3.9,Low,Medium,Good,9,Moderate,High
+1490,Jennifer Rodriguez,20,F,80,2.0,2.8,Medium,High,Poor,8,None,Low
+1491,Stephen Wright,19,M,79,2.1,2.3,Low,Low,Average,6,Extensive,Medium
+1492,Frank Green,26,M,78,2.1,3.5,Low,Medium,Excellent,8,Limited,Low
+1493,Eric Reed,15,M,50,2.3,2.6,Low,Medium,Poor,7,None,High
+1494,Virginia Gonzalez,16,F,94,4.9,4.0,High,Medium,Excellent,7,Extensive,Medium
+1495,Eli Cook,20,M,90,2.2,2.7,High,Medium,Good,7,Moderate,Medium
+1496,Daniel Sanders,18,M,93,2.4,3.0,High,High,Good,8,Extensive,Medium
+1497,James Davis,17,M,88,2.1,3.1,High,Medium,Good,9,Limited,Medium
+1498,Carol Hayes,20,F,95,2.8,3.2,Medium,Medium,Good,8,Moderate,Medium
+1499,Ryan Miller,19,M,83,1.7,1.9,Low,Medium,Average,6,None,High
+1500,Donald Carter,15,M,63,1.0,2.1,Low,Low,Average,5,Limited,High
+1501,Larry Hayes,22,M,75,0.6,2.8,Low,Medium,Average,7,Moderate,High
+1502,Frank Taylor,16,M,83,2.2,3.2,High,Medium,Good,6,Moderate,High
+1503,Virginia Hughes,18,F,66,1.2,1.8,Low,Low,Poor,9,None,Low
+1504,Charlotte Martin,18,F,87,1.6,2.0,High,High,Poor,8,Extensive,Very High
+1505,Patrick Green,17,M,81,1.8,2.9,High,Medium,Good,9,Extensive,Low
+1506,Amelia Henderson,22,F,82,1.0,3.2,Low,Medium,Good,10,Moderate,High
+1507,Harper Bailey,18,F,99,4.2,3.6,High,High,Good,8,Extensive,High
+1508,Edward Clark,15,M,63,2.2,2.9,Low,Low,Poor,9,None,Medium
+1509,Kenneth Cooper,23,M,100,3.1,3.0,High,Low,Average,8,Limited,Medium
+1510,Raymond Kelly,14,M,76,2.1,2.9,Medium,Medium,Good,7,Limited,Medium
+1511,Emma Rogers,15,F,89,1.3,3.2,High,Low,Good,8,Extensive,High
+1512,Christine Sanchez,23,F,89,2.7,3.2,Medium,High,Average,9,Moderate,Medium
+1513,Nicole Carter,21,F,64,1.3,2.2,High,Low,Poor,4,None,Low
+1514,Amy Stewart,19,F,95,3.8,4.0,High,High,Excellent,8,Extensive,High
+1515,Susan Bailey,15,F,86,3.0,3.0,High,Medium,Poor,8,Moderate,Medium
+1516,Janet Carter,18,F,84,2.7,2.8,Medium,Low,Good,6,Limited,High
+1517,Catherine Henderson,16,F,84,3.4,3.3,Medium,Medium,Good,9,Limited,High
+1518,Eric Turner,17,M,91,2.6,3.1,High,Medium,Good,7,None,Low
+1519,Isabella Diaz,22,F,70,2.3,2.8,Low,Low,Average,6,None,High
+1520,Evelyn Stewart,25,F,70,2.0,2.6,Low,Low,Poor,4,Limited,High
+1521,Abigail Rivera,25,F,72,1.6,1.9,Medium,Low,Good,6,Extensive,Low
+1522,Aiden Alexander,22,M,98,4.0,4.0,Medium,High,Good,8,Limited,Medium
+1523,Alexander Foster,25,M,83,2.8,1.9,Low,Low,Poor,9,Moderate,Medium
+1524,Daniel Coleman,26,M,100,5.0,3.6,High,High,Excellent,6,Moderate,Medium
+1525,Brandon Smith,25,M,94,3.2,2.9,Low,Medium,Good,7,Limited,Medium
+1526,Pamela Evans,16,F,95,1.1,3.5,High,Medium,Good,7,Moderate,Low
+1527,Brenda Carter,14,F,97,3.7,3.9,High,High,Good,7,None,Medium
+1528,Samuel Bennett,16,M,84,2.5,2.7,Medium,Low,Average,9,Limited,Medium
+1529,Sophia Mitchell,19,F,71,1.8,1.9,Medium,Low,Poor,4,Extensive,Very High
+1530,Ethan Carter,20,M,97,6.0,4.0,High,High,Excellent,7,Limited,High
+1531,Nicholas Diaz,19,M,74,2.0,3.0,Medium,Medium,Average,5,None,High
+1532,Margaret Davis,17,F,91,2.9,3.2,Medium,Medium,Excellent,8,Limited,Very Low
+1533,Tyler Cooper,18,M,70,2.0,2.4,Medium,Low,Poor,6,None,Medium
+1534,Abigail Roberts,23,F,86,2.9,3.6,Medium,Medium,Good,7,Moderate,Low
+1535,Abigail Roberts,21,F,82,2.2,2.9,Medium,Medium,Excellent,8,Extensive,Very Low
+1536,Jason Smith,18,M,86,2.4,3.4,Medium,Low,Good,6,None,Medium
+1537,Edward Lewis,20,M,86,2.0,2.2,Medium,High,Good,7,Extensive,Low
+1538,Amy Johnson,18,F,98,1.8,2.9,Medium,Low,Average,6,Extensive,Medium
+1539,Dorothy Taylor,22,F,96,4.0,3.7,Medium,High,Good,9,Extensive,Medium
+1540,Evelyn Flores,24,F,100,3.5,3.9,High,High,Good,8,Extensive,High
+1541,Catherine Lee,21,F,92,3.4,1.9,Medium,High,Average,5,None,Very High
+1542,Virginia Reed,14,F,80,1.7,3.0,High,Medium,Average,8,Extensive,Medium
+1543,Mia Martin,17,F,95,3.7,3.7,High,High,Excellent,7,Moderate,Very Low
+1544,Robert Reed,14,M,100,0.8,2.9,Low,Low,Good,9,Extensive,High
+1545,Barbara Lopez,18,F,85,2.4,2.9,Medium,Medium,Good,8,Moderate,Low
+1546,Amanda Green,22,F,87,0.5,2.9,Medium,Medium,Poor,4,Limited,Medium
+1547,James Mitchell,17,M,72,1.5,2.9,Low,Low,Poor,4,None,Very High
+1548,Ryan Walker,20,M,77,3.2,1.8,Medium,Medium,Poor,7,None,High
+1549,Justin Hayes,15,M,63,1.8,2.2,Medium,Low,Good,6,None,High
+1550,Laura Davis,24,F,79,3.2,2.3,Medium,Low,Average,8,Moderate,Low
+1551,Karen Ross,19,F,59,1.0,2.5,Low,Low,Poor,9,Extensive,Very High
+1552,Karen Green,14,F,87,2.3,3.0,Medium,Medium,Good,7,Limited,Very High
+1553,Amanda Torres,25,F,96,2.8,2.8,Low,High,Good,7,Moderate,Low
+1554,Eric Diaz,25,M,77,1.7,2.4,Medium,High,Average,10,Limited,High
+1555,Kenneth Peterson,17,M,94,3.7,3.5,Medium,High,Excellent,8,Extensive,Medium
+1556,Amelia Murphy,20,F,87,2.4,3.5,Low,Medium,Excellent,9,Limited,High
+1557,Debra Wilson,15,F,64,0.5,2.6,Low,Medium,Average,5,Moderate,Low
+1558,Deborah Allen,26,F,98,1.1,3.4,Medium,Low,Good,7,Extensive,Very High
+1559,Michael Jackson,26,M,82,2.0,2.0,Low,Low,Excellent,6,None,Very High
+1560,Donald Perry,24,M,100,4.5,4.0,Medium,Medium,Good,9,Moderate,Very Low
+1561,Tyler Simmons,21,M,80,3.8,3.1,High,Medium,Good,7,Limited,Very Low
+1562,Scott Perez,20,M,59,1.6,2.7,Low,Low,Good,6,Limited,Very High
+1563,Ruth Watson,25,F,90,1.5,2.4,Low,High,Poor,5,Limited,Very High
+1564,Samuel Anderson,23,M,94,2.7,2.8,High,Medium,Average,5,Moderate,High
+1565,Karen Harris,23,F,93,2.4,3.1,Medium,Medium,Average,8,Moderate,Medium
+1566,Emily Kelly,23,F,90,2.7,3.5,Medium,Medium,Poor,4,None,Very Low
+1567,Christopher Jenkins,25,M,100,4.1,3.9,High,High,Good,8,Moderate,High
+1568,Susan Phillips,14,F,83,2.1,3.0,High,Medium,Good,7,Limited,Medium
+1569,Stephanie Richardson,14,F,59,2.0,1.7,Low,Low,Good,7,Limited,Medium
+1570,Karen Coleman,20,F,83,1.1,2.1,Low,High,Poor,9,None,Very High
+1571,Kevin Cox,20,M,95,3.9,3.9,Medium,High,Good,8,Moderate,Medium
+1572,Melissa Scott,17,F,94,3.5,4.0,High,High,Good,9,Extensive,Medium
+1573,Deborah Washington,25,F,100,4.5,3.6,Medium,High,Excellent,7,Limited,Medium
+1574,Nicholas Williams,18,M,81,2.1,3.5,Low,Low,Poor,8,None,Very High
+1575,Amanda Washington,26,F,95,5.3,3.6,High,Medium,Excellent,7,Extensive,High
+1576,James Bennett,20,M,81,3.6,4.0,Low,High,Average,8,None,Very High
+1577,Virginia Hernandez,26,F,73,2.4,2.8,Low,High,Good,6,None,High
+1578,Ruth Martinez,21,F,91,2.0,2.5,Medium,Low,Poor,7,None,High
+1579,Carol Garcia,20,F,93,2.6,2.7,Medium,Low,Good,7,Extensive,High
+1580,Stephen Moore,17,M,59,1.8,2.5,Medium,Low,Average,7,Limited,Medium
+1581,Emily Griffin,21,F,100,4.3,4.0,High,High,Excellent,6,Extensive,High
+1582,Brandon Hill,24,M,70,2.4,2.7,Medium,Low,Average,6,Moderate,High
+1583,Paul Gonzalez,22,M,98,3.1,3.7,High,High,Excellent,8,Extensive,Medium
+1584,Nancy Wright,18,F,82,2.2,2.5,Low,High,Average,7,Limited,Medium
+1585,Paul Young,23,M,97,4.9,4.0,High,High,Excellent,8,Extensive,High
+1586,Debra Jones,23,F,86,0.5,2.8,Low,Low,Average,6,None,Low
+1587,Donna Moore,17,F,92,4.6,3.6,High,High,Good,9,Extensive,High
+1588,Emma Clark,20,F,91,3.2,2.7,High,High,Good,9,Moderate,Medium
+1589,Eli Evans,22,M,81,1.8,2.7,Medium,Low,Good,4,Moderate,Low
+1590,Carolyn Martin,21,F,77,1.1,1.8,Medium,Low,Poor,4,Limited,Medium
+1591,David Walker,24,M,95,2.5,3.6,Medium,Medium,Good,7,Limited,Medium
+1592,Michelle Russell,24,F,94,3.5,4.0,Medium,Medium,Good,7,Extensive,High
+1593,Michael Moore,22,M,88,2.2,3.1,High,Medium,Average,8,Moderate,Medium
+1594,Shirley Long,15,F,92,2.3,2.6,Medium,Medium,Average,8,Moderate,Low
+1595,Matthew Henderson,19,M,80,1.2,1.9,Low,Low,Poor,8,None,Very High
+1596,Robert Smith,26,M,90,3.0,3.0,Medium,Low,Good,8,Limited,Very High
+1597,Elizabeth Gonzales,20,F,63,2.4,2.7,Medium,Low,Average,4,Moderate,Low
+1598,Amy Taylor,17,F,92,2.8,3.5,High,Low,Excellent,7,Moderate,High
+1599,Angela James,25,F,95,3.7,3.6,Low,High,Good,8,Extensive,Medium
+1600,Jessica Nelson,22,F,99,3.8,3.9,High,High,Good,7,None,Medium
+1601,Sandra Nelson,22,F,90,3.1,3.5,Low,Medium,Excellent,6,Extensive,Very Low
+1602,Elizabeth Torres,25,F,83,2.5,1.9,High,Low,Good,8,Moderate,Medium
+1603,Michael Wilson,19,M,96,1.1,1.9,Medium,Medium,Average,9,Limited,Very High
+1604,Edward Rodriguez,24,M,77,2.3,2.5,Medium,Medium,Good,7,None,Very Low
+1605,Elizabeth Watson,20,F,94,5.1,4.0,High,Medium,Good,7,Limited,Medium
+1606,Jonathan Jones,20,M,72,0.7,2.5,Medium,Low,Average,7,None,Medium
+1607,Evelyn Torres,24,F,89,3.6,3.1,Medium,Low,Average,9,Moderate,Very Low
+1608,Nicole Evans,17,F,63,1.8,2.4,Low,Low,Poor,7,Moderate,Very High
+1609,Harper Cox,19,F,96,4.1,4.0,High,High,Excellent,7,Limited,High
+1610,Mark Hayes,25,M,64,3.2,2.9,High,Medium,Average,5,None,Very High
+1611,Donald Long,26,M,97,2.0,3.1,Low,Medium,Average,8,Extensive,High
+1612,Mason Lee,25,M,88,2.5,3.0,Medium,High,Average,7,Extensive,Medium
+1613,Maria Garcia,17,F,65,1.7,2.0,Low,Medium,Poor,8,None,Low
+1614,Carol Cook,21,F,88,1.4,2.4,Low,Medium,Poor,7,Moderate,High
+1615,Maria James,19,F,83,2.1,3.1,Low,Medium,Poor,8,None,Very High
+1616,Nicole Clark,19,F,93,4.9,4.0,High,High,Excellent,7,Extensive,Medium
+1617,Ashley Hill,20,F,78,2.6,2.5,Low,Medium,Excellent,9,Extensive,High
+1618,Mark Hughes,22,M,100,1.5,1.7,Medium,High,Average,8,Moderate,Very High
+1619,Deborah Jackson,14,F,89,2.4,3.4,High,Low,Good,7,None,Medium
+1620,Ruth Anderson,15,F,77,1.1,2.9,Low,Low,Average,9,Limited,Very High
+1621,Tyler Garcia,20,M,68,1.6,3.2,Low,High,Average,6,Limited,High
+1622,Lisa White,18,F,85,2.5,2.4,Medium,Medium,Good,8,Extensive,Medium
+1623,Katherine Stewart,14,F,67,1.4,3.5,Medium,Medium,Good,4,None,Medium
+1624,Aiden Flores,23,M,89,2.0,2.5,Low,Low,Average,9,Limited,High
+1625,Donald Allen,14,M,96,4.5,4.0,High,High,Excellent,7,Extensive,High
+1626,Angela Gray,18,F,64,1.6,1.9,Low,Medium,Poor,11,Limited,Very High
+1627,Amelia Baker,18,F,91,1.7,2.6,Medium,High,Poor,8,Moderate,Low
+1628,Andrew Wood,16,M,82,2.2,2.3,Medium,High,Excellent,7,Moderate,High
+1629,Mia Washington,23,F,90,2.9,2.5,Medium,Low,Good,8,Limited,Medium
+1630,Sophia Hill,18,F,81,2.6,3.9,Medium,Medium,Average,8,Limited,High
+1631,Lisa Hall,26,F,99,5.2,4.0,Medium,High,Good,8,Limited,High
+1632,Eric Long,26,M,97,3.5,2.5,Medium,Medium,Good,8,Extensive,Medium
+1633,Liam Simmons,18,M,80,2.8,2.7,Medium,Medium,Excellent,8,Moderate,Low
+1634,Sarah Lee,16,F,71,2.6,3.1,Low,Low,Average,5,Limited,High
+1635,George Perry,19,M,73,1.2,1.8,Low,Low,Poor,6,Limited,Medium
+1636,Steven Hill,15,M,94,5.9,3.8,High,Low,Excellent,6,Extensive,Very High
+1637,Jack Flores,23,M,90,2.6,3.2,High,Medium,Good,4,Moderate,High
+1638,Frank Lewis,16,M,52,3.3,2.8,Medium,Low,Average,5,None,Medium
+1639,Sophia Murphy,15,F,75,0.5,2.2,Low,Low,Poor,7,None,Low
+1640,Ronald Lewis,19,M,96,1.4,2.9,Medium,High,Excellent,7,Extensive,Very High
+1641,Carol Wilson,19,F,88,2.2,3.0,Medium,Medium,Average,7,Moderate,Medium
+1642,Christopher Hayes,21,M,91,3.3,3.0,Low,Medium,Excellent,8,Moderate,Medium
+1643,Kevin Watson,21,M,82,1.9,2.9,High,High,Average,10,Extensive,Low
+1644,Scott Foster,25,M,85,3.4,3.4,Low,Low,Average,8,None,Medium
+1645,Harper Phillips,22,F,100,4.6,4.0,High,High,Good,7,Limited,Medium
+1646,John Garcia,20,M,98,2.7,2.6,Low,High,Good,6,Extensive,High
+1647,Jason Rogers,17,M,84,2.0,3.0,Medium,High,Average,9,Limited,Medium
+1648,Jessica Campbell,26,F,75,2.3,2.7,Low,Medium,Average,9,Moderate,Very High
+1649,Katherine Garcia,16,F,50,1.1,2.3,Medium,Low,Good,8,Limited,Very High
+1650,Amy Bailey,19,F,96,2.7,4.0,High,High,Good,7,Limited,Medium
+1651,Tyler White,18,M,91,3.5,3.6,High,High,Excellent,7,Extensive,Medium
+1652,Aiden Alexander,22,M,52,2.9,3.5,Low,Low,Average,8,None,High
+1653,Larry Gonzalez,26,M,84,2.9,3.2,High,Medium,Poor,9,Moderate,Low
+1654,Jonathan Cooper,21,M,100,3.7,3.8,Medium,High,Good,8,Limited,High
+1655,Jason Cooper,25,M,89,2.5,2.7,Low,Low,Average,7,None,Very High
+1656,Isabella Wright,14,F,99,4.3,3.4,Medium,High,Good,9,Limited,Medium
+1657,Donna Stewart,19,F,85,1.7,2.2,Low,Low,Average,8,Moderate,High
+1658,Catherine Martin,23,F,91,3.0,3.2,High,Medium,Good,10,Moderate,Medium
+1659,Mia Brown,21,F,97,2.2,3.3,Medium,High,Good,7,Extensive,Very Low
+1660,Nicholas Martinez,22,M,90,3.9,3.1,High,Medium,Average,7,Moderate,Medium
+1661,Mary Williams,23,F,85,2.2,2.9,Low,High,Average,8,Extensive,Low
+1662,Daniel Baker,16,M,56,1.5,2.6,Medium,Low,Average,5,Moderate,Low
+1663,Betty Coleman,18,F,93,2.8,3.3,Medium,Medium,Good,7,Limited,High
+1664,Rachel Cooper,26,F,94,2.3,3.5,High,Medium,Excellent,8,Moderate,High
+1665,Pamela Clark,23,F,100,3.4,3.6,High,Low,Good,8,Moderate,Very High
+1666,Patrick Wood,19,M,66,2.4,1.6,Low,High,Poor,9,None,Very High
+1667,James Gonzalez,23,M,84,2.5,3.2,Low,Medium,Good,7,Moderate,Medium
+1668,William Patterson,25,M,80,2.1,2.2,Medium,Low,Average,5,None,High
+1669,Daniel Thompson,18,M,76,2.0,2.2,Medium,Medium,Good,8,Extensive,Medium
+1670,Samuel Wright,21,M,89,2.5,2.8,Medium,High,Excellent,7,Moderate,Very High
+1671,Jason Bell,20,M,80,2.0,2.4,Low,Medium,Poor,7,None,Medium
+1672,Amy Hughes,19,F,92,4.8,4.0,High,Medium,Good,6,Moderate,Low
+1673,Ethan Ward,26,M,77,2.3,2.6,High,Low,Average,8,None,High
+1674,Michelle Martinez,23,F,100,5.2,3.5,High,High,Excellent,8,Extensive,Low
+1675,Samantha Henderson,14,F,92,2.7,3.3,Low,High,Good,10,None,Medium
+1676,Jessica Lee,23,F,84,2.0,2.8,Medium,Low,Poor,7,Limited,High
+1677,Laura Wood,25,F,80,2.0,3.8,Low,Low,Average,5,Moderate,High
+1678,Emily Wilson,16,F,93,2.2,1.5,Low,High,Poor,8,None,Medium
+1679,Dennis Lee,18,M,50,1.9,2.6,Medium,Medium,Good,6,Limited,Low
+1680,Samuel Watson,19,M,73,3.1,2.1,Low,Medium,Poor,5,Limited,Medium
+1681,Benjamin Lewis,16,M,85,2.9,2.2,Low,Low,Excellent,8,None,High
+1682,Sharon Roberts,21,F,99,1.6,2.7,Low,Medium,Poor,8,Moderate,Low
+1683,Sophia King,18,F,93,2.8,2.7,Medium,High,Excellent,10,Limited,Low
+1684,Mark Richardson,20,M,87,1.8,3.0,Low,High,Excellent,9,Extensive,Medium
+1685,Nancy Ward,17,F,98,4.3,3.8,High,High,Good,8,Extensive,Medium
+1686,Michael Hayes,26,M,96,0.8,2.9,High,Medium,Good,8,Extensive,Medium
+1687,Nicole Kelly,19,F,81,2.9,3.0,High,Medium,Good,10,Limited,Medium
+1688,Olivia Watson,19,F,100,1.7,2.8,Medium,Medium,Good,7,Limited,High
+1689,Brian Cook,23,M,86,3.0,2.9,Medium,Medium,Good,7,Limited,High
+1690,Matthew Sanchez,15,M,88,2.9,2.8,Medium,High,Average,9,Extensive,Medium
+1691,Margaret Griffin,22,F,96,4.5,4.0,High,High,Good,7,Moderate,Very High
+1692,Kenneth Mitchell,18,M,80,1.4,2.4,Low,Low,Poor,7,None,Medium
+1693,Carolyn Cox,21,F,65,1.7,1.7,Low,Medium,Average,6,None,High
+1694,Robert Young,22,M,97,4.1,3.8,High,High,Good,7,Limited,High
+1695,Jack Gonzalez,26,M,100,5.2,3.7,High,High,Excellent,6,Moderate,High
+1696,Amy Stewart,16,F,82,1.5,2.7,Medium,Low,Good,7,Extensive,Medium
+1697,Jack Lee,21,M,81,2.5,3.2,Medium,Medium,Average,9,Limited,Very Low
+1698,Samantha Lopez,16,F,93,3.7,3.4,Medium,High,Excellent,7,Extensive,High
+1699,Jessica Taylor,25,F,85,3.3,2.6,Medium,Medium,Average,8,Moderate,Medium
+1700,Kimberly Hernandez,24,F,100,4.6,4.0,High,Medium,Good,8,None,High
+1701,Stephanie Patterson,20,F,94,4.2,3.3,Medium,Medium,Excellent,7,Extensive,High
+1702,Evelyn Powell,17,F,81,3.0,2.8,High,High,Average,8,Moderate,Medium
+1703,Gregory Watson,14,M,67,3.2,2.3,Medium,Medium,Poor,11,Extensive,High
+1704,Virginia Griffin,23,F,82,2.2,2.5,Low,Low,Average,7,Moderate,Medium
+1705,Jessica Johnson,22,F,55,1.9,3.2,High,Medium,Poor,7,None,Medium
+1706,Donald Jackson,25,M,95,4.4,4.0,High,High,Excellent,9,Moderate,Very High
+1707,Emily Sanchez,21,F,91,2.7,2.8,Low,Low,Average,6,Extensive,Low
+1708,Alexander Gonzales,21,M,85,3.0,2.8,Medium,Low,Good,7,Moderate,Medium
+1709,Edward Wilson,17,M,84,3.6,3.5,Medium,Medium,Poor,10,None,High
+1710,Anthony Barnes,23,M,91,2.4,2.3,Medium,Medium,Good,9,Moderate,Medium
+1711,Kenneth Lee,24,M,74,2.1,1.9,Low,Low,Average,6,Limited,Very High
+1712,Charles Thomas,20,M,85,1.7,2.7,Medium,Low,Good,7,Extensive,High
+1713,Frank Wright,17,M,93,1.1,2.9,High,High,Poor,8,Extensive,High
+1714,James Collins,14,M,85,1.4,2.7,High,Low,Good,8,Moderate,Low
+1715,Matthew Gonzalez,17,M,96,3.6,3.8,High,High,Good,6,Moderate,Low
+1716,Jacob Johnson,21,M,86,2.4,2.4,Medium,Medium,Poor,5,None,Very Low
+1717,Raymond Morgan,23,M,96,4.8,4.0,High,High,Excellent,7,Extensive,Medium
+1718,William Alexander,22,M,84,1.7,2.2,Low,Low,Poor,7,Limited,Very High
+1719,Carolyn Watson,15,F,83,1.2,2.5,High,Medium,Good,8,Extensive,Medium
+1720,Angela Gray,17,F,84,1.2,2.4,Medium,Low,Average,7,Limited,Low
+1721,Charles Walker,16,M,75,0.5,2.0,Low,Low,Average,6,Limited,Low
+1722,Evelyn Jenkins,17,F,96,1.6,3.0,Medium,Medium,Good,8,Extensive,Very High
+1723,Ronald Murphy,15,M,89,4.6,3.8,High,Medium,Excellent,8,Extensive,Very High
+1724,Kathleen Lopez,25,F,100,0.6,3.9,Medium,High,Average,6,None,Very Low
+1725,Kevin Russell,24,M,83,2.2,2.4,Low,Medium,Poor,6,Moderate,High
+1726,James Gonzalez,22,M,99,3.1,4.0,High,High,Good,7,Moderate,Medium
+1727,Edward Carter,19,M,83,1.7,3.4,Medium,Medium,Good,7,Limited,Low
+1728,Caleb Cox,25,M,91,2.5,3.4,Low,Medium,Good,9,Moderate,High
+1729,Ruth Diaz,14,F,99,1.7,3.1,Low,Medium,Good,8,Extensive,Very High
+1730,Katherine Richardson,14,F,91,1.2,3.0,Low,Low,Average,7,None,Very High
+1731,Edward Campbell,20,M,87,2.8,3.2,High,Low,Good,8,Limited,Medium
+1732,Ryan Nelson,22,M,99,5.6,4.0,High,Medium,Average,8,Moderate,Low
+1733,Rebecca Harris,24,F,98,3.7,4.0,Medium,Medium,Excellent,8,Moderate,Low
+1734,Jason Murphy,16,M,93,1.3,2.3,Low,Medium,Average,4,Limited,Very High
+1735,Mary Torres,19,F,85,3.3,2.9,Medium,High,Good,9,Moderate,Medium
+1736,Abigail Cook,20,F,87,2.9,2.8,Medium,Low,Good,8,Limited,Low
+1737,Gary Collins,25,M,91,4.3,3.4,High,High,Excellent,9,Moderate,Medium
+1738,Isabella Gonzales,21,F,87,2.5,3.7,Low,Medium,Average,5,Limited,Very High
+1739,David Rivera,20,M,96,3.3,3.0,Medium,Medium,Average,9,Moderate,Very Low
+1740,Brian Murphy,23,M,80,1.5,2.2,Low,Low,Poor,6,Limited,Very High
+1741,Christine Robinson,14,F,92,5.0,3.6,High,High,Good,8,Extensive,High
+1742,Anthony Watson,19,M,84,1.6,3.2,High,Medium,Average,6,Extensive,Very Low
+1743,Brandon Bennett,22,M,98,3.2,4.0,High,Medium,Good,8,Moderate,Medium
+1744,Kevin Edwards,20,M,74,2.6,2.0,Low,Low,Good,7,Limited,High
+1745,Brandon Lewis,24,M,100,4.6,4.0,High,High,Good,8,Extensive,High
+1746,Carolyn Brown,24,F,83,0.9,2.0,Low,Low,Poor,7,Limited,Very Low
+1747,Kimberly Hall,24,F,90,2.2,3.9,Medium,Medium,Good,10,Limited,High
+1748,Lisa Gray,21,F,85,2.1,2.5,Medium,Low,Average,5,None,High
+1749,Logan Lopez,18,M,71,1.7,1.7,Low,Medium,Poor,7,Moderate,High
+1750,Rachel Parker,22,F,76,0.6,2.0,Low,Medium,Poor,6,Moderate,High
+1751,Melissa Martin,24,F,100,2.6,2.4,Medium,Low,Excellent,8,Limited,High
+1752,Margaret Flores,21,F,82,2.7,2.7,Low,Medium,Good,7,Moderate,Medium
+1753,Carolyn Ramirez,21,F,99,1.3,2.4,Medium,Medium,Average,7,Extensive,Low
+1754,Katherine Sanchez,23,F,98,1.3,1.8,High,High,Average,7,Extensive,Medium
+1755,Janet Gonzales,24,F,86,3.2,2.3,Low,Low,Poor,6,None,Medium
+1756,Carolyn Cooper,25,F,86,0.6,2.2,Low,High,Average,7,Moderate,Very Low
+1757,Dorothy Diaz,14,F,87,2.2,3.0,Medium,Medium,Good,6,Limited,High
+1758,Patricia Gonzales,15,F,82,2.8,2.7,Low,Medium,Good,8,Limited,Medium
+1759,Aiden Alexander,24,M,85,1.9,2.8,Low,Low,Poor,5,Moderate,High
+1760,Patrick Campbell,15,M,94,4.5,3.7,High,High,Good,7,Moderate,Low
+1761,Mia Hayes,15,F,78,2.4,1.1,Medium,Low,Good,9,None,Very High
+1762,Ryan Harris,15,M,67,1.8,2.7,Medium,Medium,Average,4,None,Medium
+1763,Andrew Jones,20,M,65,1.5,2.0,Low,Low,Good,9,Moderate,Very High
+1764,Patrick Lee,14,M,83,1.5,2.9,High,Medium,Good,7,Extensive,Very Low
+1765,Amanda Garcia,16,F,94,4.3,3.6,Medium,Low,Excellent,7,Moderate,High
+1766,Amy Perez,21,F,96,3.1,3.9,High,High,Good,9,Limited,High
+1767,Kenneth Perry,15,M,75,2.0,3.0,Low,Low,Average,4,None,Very High
+1768,Catherine Gray,19,F,98,2.2,3.7,Low,Medium,Poor,6,Limited,Very High
+1769,Shirley Gray,16,F,94,3.0,3.2,Medium,Low,Average,8,Moderate,Medium
+1770,Robert Garcia,22,M,71,2.7,2.4,Medium,High,Average,4,Moderate,Very High
+1771,Catherine Kelly,25,F,80,1.8,2.5,Low,Low,Good,6,None,High
+1772,Patricia Phillips,24,F,86,2.6,2.4,Low,Medium,Average,4,Moderate,Very High
+1773,Tyler Harris,22,M,92,2.8,3.3,Medium,High,Average,7,Moderate,Medium
+1774,Katherine Sanchez,22,F,100,5.2,4.0,Medium,Medium,Good,7,Extensive,High
+1775,Eric Lopez,21,M,79,1.3,2.7,Low,Low,Good,9,None,Very High
+1776,Donald Wood,15,M,88,1.2,2.8,Low,Low,Poor,4,None,High
+1777,Kenneth Bryant,20,M,90,3.0,2.5,Medium,Low,Average,7,Moderate,Medium
+1778,Jason Long,14,M,94,3.8,3.3,Medium,High,Excellent,8,None,Medium
+1779,Abigail Barnes,16,F,73,1.4,1.9,Low,Low,Average,8,None,Very High
+1780,Eli Nelson,22,M,98,1.7,2.2,Low,Medium,Poor,8,Extensive,High
+1781,Sandra Allen,18,F,83,2.4,3.2,Medium,High,Excellent,6,Limited,Medium
+1782,Daniel Henderson,19,M,100,4.3,3.7,Medium,Medium,Excellent,7,Extensive,Low
+1783,Stephanie Lopez,18,F,88,0.8,3.4,Medium,High,Good,8,Extensive,Medium
+1784,Amy Brooks,20,F,99,5.0,3.5,Medium,High,Excellent,8,Moderate,Medium
+1785,Patrick Price,22,M,71,2.4,1.5,Low,Low,Average,6,None,Medium
+1786,Robert James,22,M,88,2.4,3.1,High,Low,Poor,7,Moderate,High
+1787,Gary Brooks,21,M,96,4.2,3.5,High,High,Excellent,8,Extensive,Low
+1788,Benjamin Long,23,M,74,0.5,2.4,Low,Low,Poor,5,Limited,High
+1789,Stephen Hall,22,M,59,1.1,2.7,High,Medium,Poor,10,Moderate,Medium
+1790,Cynthia Lewis,18,F,73,1.1,2.4,Low,Low,Average,6,Limited,Low
+1791,Sarah Thomas,16,F,63,0.7,1.5,Low,Low,Poor,6,Limited,Low
+1792,Aiden Moore,15,M,72,1.4,2.0,Medium,Low,Poor,5,None,Very High
+1793,Sophia Butler,25,F,93,2.2,3.4,High,Medium,Good,7,Limited,Medium
+1794,Liam Foster,24,M,85,2.0,3.0,Medium,Medium,Average,9,Limited,Very Low
+1795,Patrick Harris,26,M,80,2.7,2.6,Medium,Low,Good,5,None,Medium
+1796,Anthony Patterson,15,M,94,3.4,4.0,High,High,Excellent,6,Extensive,Medium
+1797,Catherine Davis,16,F,86,2.5,3.8,Low,Low,Poor,6,Limited,Very High
+1798,Joseph Patterson,18,M,97,5.8,3.5,Medium,Medium,Excellent,6,Extensive,High
+1799,Carolyn Diaz,16,F,77,2.2,2.0,Low,Medium,Good,7,Extensive,Low
+1800,Emma Bailey,23,F,78,2.0,2.5,Medium,Low,Average,7,Limited,Very High
+1801,Amelia Kelly,21,F,94,2.2,2.9,Medium,Low,Average,7,Moderate,Very Low
+1802,Logan Jones,15,M,85,2.5,2.8,Medium,Low,Poor,9,Moderate,Medium
+1803,Sharon Gonzalez,14,F,61,3.1,3.5,Low,Medium,Average,8,None,High
+1804,Benjamin Flores,19,M,92,3.8,3.6,High,High,Excellent,8,Moderate,High
+1805,Samantha Young,14,F,80,3.0,3.4,High,Medium,Good,9,Moderate,Low
+1806,Brenda Nelson,24,F,94,1.6,2.6,Medium,Low,Good,8,Extensive,High
+1807,Michael Torres,25,M,93,2.9,3.1,High,Medium,Good,6,Moderate,Medium
+1808,Caleb Washington,25,M,96,6.0,3.5,High,High,Excellent,8,Moderate,Medium
+1809,Robert Ross,19,M,96,1.3,3.0,High,Medium,Good,8,Extensive,Medium
+1810,Eric Gonzales,14,M,75,4.1,1.3,High,Low,Average,9,None,High
+1811,Laura Rogers,21,F,90,2.6,3.1,High,Medium,Good,7,Extensive,Low
+1812,Michael Watson,17,M,89,0.7,3.0,Medium,Medium,Good,8,Limited,Medium
+1813,Catherine Adams,16,F,88,3.1,3.1,High,Medium,Good,8,Moderate,Low
+1814,Stephanie Kelly,24,F,87,1.8,3.4,Medium,Medium,Average,9,Extensive,Very High
+1815,Andrew Miller,25,M,88,3.0,2.9,Medium,Low,Average,9,Limited,Low
+1816,Ronald Watson,21,M,80,3.2,2.0,Low,Low,Good,6,None,High
+1817,Laura White,22,F,93,2.5,2.8,Low,High,Poor,7,Extensive,Very Low
+1818,Mark Jones,24,M,97,2.6,2.6,Low,High,Good,9,Limited,Very High
+1819,Emily Hall,19,F,100,4.3,3.8,High,High,Good,8,Limited,Very High
+1820,Amy Hall,17,F,92,4.0,3.1,High,High,Average,8,Extensive,Medium
+1821,Nicole Miller,26,F,82,3.9,3.1,Medium,Medium,Good,8,Moderate,Medium
+1822,Carolyn Brown,22,F,96,4.1,4.0,Medium,High,Excellent,5,Extensive,High
+1823,Catherine Nelson,15,F,91,2.7,2.6,High,Medium,Good,7,Moderate,High
+1824,Donald Edwards,15,M,93,1.9,2.7,Medium,Medium,Average,9,Extensive,Low
+1825,Edward Rivera,22,M,93,1.6,3.0,Medium,Medium,Poor,7,Moderate,Medium
+1826,Jacob Torres,17,M,88,2.6,2.9,Low,Medium,Average,8,Moderate,Medium
+1827,Emily Ross,25,F,100,2.3,1.9,Low,Low,Average,8,Limited,Medium
+1828,Barbara Garcia,24,F,95,1.2,2.2,Medium,Low,Average,7,Limited,High
+1829,Liam Gray,14,M,88,1.2,3.2,High,Medium,Average,9,Extensive,Low
+1830,Scott Martin,15,M,96,3.3,3.2,Low,High,Good,8,Moderate,High
+1831,Jessica Price,23,F,92,2.6,2.6,Low,Medium,Poor,6,None,High
+1832,Frank Gonzalez,21,M,82,3.3,3.4,Medium,High,Good,6,Extensive,Medium
+1833,Harper Wilson,23,F,100,2.5,3.5,Medium,Medium,Average,6,Moderate,Very High
+1834,Jerry Lewis,16,M,91,3.9,3.9,High,High,Excellent,9,Extensive,Medium
+1835,Justin Kelly,25,M,88,2.1,2.0,Medium,Medium,Poor,9,Limited,High
+1836,Emily Gonzalez,22,F,86,3.1,2.8,Medium,Medium,Good,9,Moderate,Low
+1837,Shirley Butler,16,F,97,3.9,3.5,High,High,Good,7,Moderate,Medium
+1838,Ruth Scott,19,F,82,2.1,2.2,Medium,Medium,Average,7,Extensive,Very High
+1839,Rebecca Martinez,19,F,91,0.7,3.1,Medium,Low,Good,7,Extensive,Low
+1840,Sarah Wood,25,F,84,1.9,2.6,Low,Medium,Good,7,Moderate,Medium
+1841,Ashley Scott,15,F,84,3.0,2.6,Medium,High,Good,8,Moderate,Very High
+1842,Larry Nelson,17,M,87,2.6,3.0,Low,Medium,Good,7,Moderate,Medium
+1843,Stephanie Adams,19,F,94,3.5,1.4,Low,Low,Average,5,Moderate,Medium
+1844,Steven Scott,23,M,71,1.2,2.6,Medium,Medium,Average,5,None,Very Low
+1845,Janet Kelly,18,F,100,2.8,2.6,Low,Medium,Average,9,None,Low
+1846,Caleb Flores,24,M,92,1.8,2.1,Low,Low,Average,7,Limited,Very High
+1847,Alexander Anderson,19,M,100,4.3,3.3,High,Medium,Good,7,Limited,Medium
+1848,Abigail Williams,17,F,88,1.8,3.6,Medium,Low,Excellent,6,Extensive,High
+1849,Cynthia Clark,15,F,88,3.4,3.7,Medium,Medium,Good,8,Limited,Medium
+1850,Eric Adams,16,M,96,4.5,3.8,High,High,Excellent,7,Extensive,Medium
+1851,Emily Howard,14,F,74,0.5,2.5,Low,Low,Excellent,7,None,Medium
+1852,Aiden Watson,15,M,68,2.9,1.9,Medium,Low,Good,6,Moderate,High
+1853,Jacob Powell,23,M,99,2.4,3.0,Medium,Low,Good,8,Moderate,Medium
+1854,Joshua Hill,21,M,100,4.5,3.4,High,High,Excellent,7,Extensive,High
+1855,Ryan Richardson,25,M,98,4.4,4.0,High,High,Good,8,Moderate,Very Low
+1856,Ryan Howard,22,M,56,2.6,2.4,Medium,Low,Poor,9,Limited,High
+1857,Ronald Baker,15,M,91,2.5,3.0,Medium,High,Good,9,Limited,High
+1858,Brandon Green,23,M,91,2.8,3.8,Medium,Medium,Good,9,Moderate,Low
+1859,Ruth Parker,24,F,86,1.2,1.8,Low,Low,Poor,8,None,Very Low
+1860,Anthony Phillips,16,M,71,1.1,2.3,High,Low,Average,9,Extensive,High
+1861,Amanda Campbell,20,F,100,3.3,3.8,High,High,Good,7,Moderate,Medium
+1862,Michael Rodriguez,16,M,94,3.7,3.6,High,Medium,Good,6,Limited,Very High
+1863,Ronald Hernandez,21,M,72,1.4,1.1,Low,Medium,Poor,10,Limited,Medium
+1864,Jerry White,14,M,90,2.3,3.0,Low,High,Excellent,7,Moderate,Medium
+1865,John Bryant,22,M,100,5.9,3.9,High,High,Good,9,None,Very High
+1866,Amanda Williams,19,F,74,0.8,2.1,High,Low,Average,7,None,High
+1867,Deborah Collins,26,F,88,2.9,3.2,High,Medium,Good,8,Limited,Low
+1868,Ashley Morgan,20,F,98,3.4,3.6,Medium,High,Excellent,6,Moderate,Very High
+1869,Jeffrey Perry,17,M,87,0.5,3.3,Low,Low,Good,10,None,Low
+1870,John Washington,15,M,94,1.9,3.6,Medium,High,Good,7,Moderate,High
+1871,Christopher Bailey,19,M,94,3.8,4.0,High,Medium,Good,8,Moderate,Very Low
+1872,Brian Powell,23,M,86,1.2,2.8,High,Medium,Average,7,None,Medium
+1873,Matthew Wilson,17,M,87,2.2,3.2,Medium,High,Good,10,Moderate,Low
+1874,Mary Gonzales,26,F,83,2.0,2.3,Low,Low,Average,6,None,Very High
+1875,Emma Barnes,19,F,91,1.5,2.6,Low,Medium,Poor,7,Extensive,High
+1876,Robert Powell,16,M,93,2.9,3.8,High,Medium,Good,7,Extensive,Medium
+1877,Stephen Baker,24,M,92,2.6,3.5,Medium,Medium,Good,7,Extensive,High
+1878,Kimberly Cook,26,F,92,0.8,2.6,Low,High,Average,7,None,Low
+1879,Lisa Ward,18,F,81,2.8,3.4,Medium,Medium,Good,6,Moderate,Medium
+1880,Justin Collins,16,M,81,0.5,1.8,Medium,Low,Average,10,Moderate,High
+1881,Jackson Martinez,22,M,85,2.1,3.1,Medium,Medium,Good,10,Moderate,Medium
+1882,Ashley Price,23,F,69,1.3,2.8,Low,Medium,Poor,11,None,Very High
+1883,Eric King,22,M,61,3.3,3.0,Low,Low,Good,8,None,High
+1884,George Richardson,22,M,86,2.1,2.9,Low,Medium,Excellent,8,Extensive,High
+1885,Rebecca Powell,14,F,92,3.0,2.7,Low,Medium,Good,9,Limited,Low
+1886,Jerry Jenkins,25,M,78,2.4,3.0,Medium,Low,Poor,5,None,Very High
+1887,Mary Brooks,24,F,79,1.8,1.6,High,Medium,Average,8,Limited,High
+1888,Ronald Allen,20,M,100,1.2,2.6,Low,Medium,Good,8,Limited,Very High
+1889,Katherine Parker,15,F,76,1.7,1.6,Low,Medium,Poor,7,None,High
+1890,Margaret Henderson,23,F,78,2.1,2.8,Medium,Low,Average,8,Limited,Very High
+1891,Steven Lee,15,M,95,4.2,4.0,Medium,High,Good,8,Limited,Very High
+1892,Sharon Barnes,26,F,91,2.1,2.9,Low,Medium,Poor,8,Limited,High
+1893,Janet Baker,26,F,84,3.2,3.0,Medium,High,Good,7,Moderate,Low
+1894,Donna Price,17,F,65,0.9,4.0,Low,High,Good,10,None,High
+1895,Karen Campbell,18,F,98,0.8,2.5,Medium,Medium,Average,4,None,Low
+1896,Christine Miller,26,F,98,3.8,4.0,High,High,Excellent,7,Extensive,Medium
+1897,Ruth Parker,24,F,92,2.7,4.0,Medium,Medium,Average,4,Extensive,Very High
+1898,Ruth Bennett,20,F,85,2.6,1.9,Low,Low,Poor,8,Moderate,Very High
+1899,Liam Hall,25,M,78,1.8,2.1,Low,Low,Poor,5,None,High
+1900,Betty Gonzalez,14,F,100,1.8,3.0,Low,Low,Poor,5,None,Very High
+1901,Eli Coleman,21,M,69,3.0,1.7,High,Medium,Poor,6,Limited,High
+1902,Debra Rivera,18,F,95,4.1,3.6,High,High,Good,8,None,Medium
+1903,Dennis Baker,22,M,92,3.3,2.8,High,Medium,Good,8,Limited,Medium
+1904,Amelia Washington,25,F,100,2.8,2.4,Medium,Medium,Excellent,8,Extensive,Very Low
+1905,Ronald Brooks,19,M,77,2.7,3.7,Medium,Medium,Good,7,Extensive,Very High
+1906,Karen Taylor,19,F,85,2.5,2.3,Low,Low,Good,7,Extensive,Low
+1907,Jonathan Turner,15,M,88,2.1,2.9,Medium,Medium,Average,9,Moderate,Medium
+1908,Anthony Butler,25,M,92,3.1,3.1,Medium,Medium,Average,8,Extensive,Medium
+1909,Frank Lee,21,M,98,4.7,3.7,High,High,Excellent,7,Extensive,Medium
+1910,Katherine Kelly,14,F,60,1.5,1.9,Medium,Medium,Poor,5,None,High
+1911,Ethan Hughes,18,M,96,4.2,3.9,High,High,Excellent,7,Moderate,High
+1912,Jackson Griffin,17,M,90,2.1,3.0,Medium,Medium,Good,7,Extensive,Very Low
+1913,William Green,18,M,95,4.3,3.7,High,High,Good,5,Moderate,Medium
+1914,Olivia Foster,21,F,98,6.0,3.7,High,High,Average,7,Moderate,High
+1915,Kathleen Brooks,23,F,100,4.6,4.0,High,High,Good,6,Limited,High
+1916,Ethan Gonzalez,21,M,100,4.8,3.8,High,High,Good,8,Limited,Very Low
+1917,Matthew Turner,16,M,98,4.7,3.4,High,High,Excellent,8,Limited,Very Low
+1918,Nancy Miller,25,F,74,2.0,2.4,Low,Low,Average,6,None,Very Low
+1919,Jennifer Sanchez,24,F,100,4.3,3.5,High,Low,Good,7,Extensive,High
+1920,Anthony Morris,15,M,86,3.2,3.2,Medium,Medium,Good,7,Moderate,Medium
+1921,Anthony Sanchez,23,M,100,2.4,3.5,High,Medium,Poor,7,Extensive,Very High
+1922,Aiden Hayes,14,M,88,3.0,3.4,Medium,Medium,Good,9,Moderate,Medium
+1923,Shirley Griffin,25,F,83,1.7,2.2,Medium,Low,Good,7,None,High
+1924,Michelle Rogers,17,F,94,1.7,3.2,Medium,Medium,Good,9,Moderate,Low
+1925,George Williams,26,M,85,2.5,3.2,Medium,High,Average,8,Limited,Medium
+1926,Laura Wood,26,F,90,3.1,3.2,Medium,Medium,Average,8,Extensive,Medium
+1927,Jack Wood,14,M,56,0.6,2.3,Low,Medium,Good,4,Limited,High
+1928,Evelyn Parker,14,F,94,1.7,4.0,High,Medium,Good,9,Limited,High
+1929,Caleb Thompson,15,M,87,1.7,3.2,High,Low,Average,9,Extensive,High
+1930,Dorothy Price,22,F,59,0.7,2.2,Medium,Low,Good,8,Limited,High
+1931,Isabella Roberts,18,F,91,2.4,2.3,Medium,Low,Good,6,Moderate,High
+1932,Stephanie Henderson,22,F,89,1.5,1.2,Medium,High,Average,7,Extensive,High
+1933,George Thomas,14,M,89,2.4,2.9,Medium,High,Average,8,Limited,Low
+1934,Rachel Reed,21,F,73,1.0,2.1,Medium,Low,Poor,8,Limited,Medium
+1935,Alexander Gonzalez,23,M,94,2.3,2.6,High,Medium,Poor,7,Extensive,Very High
+1936,Jonathan Patterson,25,M,61,2.1,3.0,Low,Medium,Poor,4,None,Very High
+1937,Joshua Morris,16,M,82,2.7,3.4,Medium,Low,Average,8,None,Very Low
+1938,Shirley Collins,20,F,84,1.6,3.1,High,Medium,Good,10,Limited,Medium
+1939,Betty Hughes,20,F,81,2.0,2.8,Low,Medium,Poor,7,None,High
+1940,Emily Morris,24,F,85,2.9,2.8,Low,Low,Poor,7,Limited,High
+1941,Stephen Young,24,M,77,2.8,2.6,Low,Low,Good,6,Limited,Low
+1942,Janet Gonzales,17,F,98,3.6,3.5,High,Low,Good,7,Moderate,Very Low
+1943,David Robinson,14,M,90,4.4,3.2,High,High,Excellent,6,Extensive,Medium
+1944,Andrew Thompson,22,M,79,2.1,2.9,Medium,Medium,Good,7,Moderate,Medium
+1945,Emma Martin,14,F,60,0.7,2.4,Low,Low,Average,6,None,Low
+1946,Sophia Cox,21,F,82,1.4,2.7,High,Low,Poor,10,None,Very High
+1947,Caleb Collins,14,M,76,1.2,2.3,Low,Low,Good,6,Limited,High
+1948,David Flores,23,M,79,1.9,2.5,Low,Medium,Poor,7,None,Medium
+1949,Liam Ramirez,21,M,85,1.5,2.4,High,Medium,Average,6,Moderate,Medium
+1950,Anthony Torres,25,M,85,2.4,2.6,High,Medium,Poor,8,Extensive,Very Low
+1951,Jennifer Scott,15,F,88,0.6,3.1,Medium,Low,Average,8,Moderate,Medium
+1952,Alexander Henderson,21,M,83,3.0,2.9,Medium,High,Average,8,Limited,Medium
+1953,Scott Cook,23,M,84,1.1,2.8,High,Medium,Good,7,Extensive,Very High
+1954,Michelle Powell,19,F,96,3.3,3.7,Low,High,Excellent,8,Limited,Very High
+1955,Katherine Bell,15,F,88,1.9,2.5,Medium,Low,Good,8,Extensive,High
+1956,Lisa Turner,16,F,91,4.4,4.0,High,High,Excellent,8,Extensive,Medium
+1957,Ethan Moore,14,M,87,1.5,3.2,High,Medium,Good,6,Extensive,Very High
+1958,Angela Davis,18,F,82,1.6,3.3,Medium,Low,Average,8,Extensive,Low
+1959,Robert Watson,21,M,85,1.9,2.7,Low,Low,Average,7,Extensive,Very High
+1960,Dennis Sanchez,24,M,98,1.4,3.6,High,Medium,Good,8,Extensive,Low
+1961,William Thomas,21,M,100,3.9,3.8,Medium,High,Excellent,6,Moderate,High
+1962,Jennifer Moore,25,F,73,2.7,3.6,Low,Low,Average,5,Limited,Very High
+1963,Shirley Carter,26,F,88,2.9,2.8,Medium,Medium,Average,9,Moderate,High
+1964,Edward Collins,26,M,86,2.9,3.1,Medium,Medium,Average,7,Extensive,Medium
+1965,Benjamin Sanchez,23,M,79,2.0,2.4,Low,Medium,Average,6,None,Very High
+1966,Daniel Parker,20,M,98,5.6,3.8,High,High,Good,8,Moderate,Very High
+1967,Katherine Gray,20,F,93,4.4,3.5,High,High,Good,6,Extensive,Medium
+1968,Anthony Long,23,M,87,2.9,3.3,Medium,Medium,Poor,8,Extensive,Low
+1969,Larry Hill,22,M,60,2.0,2.8,Low,Low,Average,7,Moderate,High
+1970,Harper Edwards,18,F,76,2.0,3.0,Medium,Low,Poor,9,Moderate,Low
+1971,Elizabeth Watson,18,F,74,2.4,3.0,High,Medium,Good,9,Limited,Very High
+1972,Edward Miller,16,M,83,2.3,1.9,Low,Low,Poor,4,Moderate,High
+1973,Jessica Hill,15,F,86,2.4,3.4,High,Medium,Good,8,Extensive,Low
+1974,Ruth Gonzales,21,F,90,3.0,2.9,Medium,High,Good,8,Limited,Very Low
+1975,Noah Butler,23,M,99,1.4,3.8,Medium,Medium,Good,6,Moderate,High
+1976,Betty Perry,15,F,91,0.7,2.9,Low,Low,Poor,6,Limited,Very Low
+1977,Donna Martinez,26,F,79,2.5,3.4,Low,Low,Good,5,Limited,High
+1978,Margaret Young,23,F,94,4.3,3.8,High,High,Excellent,8,Extensive,High
+1979,Linda Gonzalez,26,F,84,2.0,3.1,Low,Medium,Poor,7,None,Very Low
+1980,Lisa Young,18,F,94,2.7,3.6,High,Low,Good,7,Limited,High
+1981,Emily Smith,18,F,98,4.4,3.3,Medium,High,Excellent,8,Limited,Medium
+1982,Kathleen Turner,20,F,95,3.0,3.3,Medium,Low,Good,8,Extensive,Medium
+1983,Carolyn Adams,18,F,76,2.1,3.4,Low,Medium,Average,4,None,Low
+1984,Emma Allen,23,F,70,1.3,2.5,Low,Medium,Good,8,Moderate,High
+1985,Paul Howard,17,M,68,0.5,2.2,Low,Low,Poor,9,Limited,High
+1986,Patrick Ramirez,23,M,85,2.5,2.5,Low,Low,Poor,4,None,Very High
+1987,Ethan Morris,21,M,90,2.3,3.8,Medium,Medium,Good,9,Moderate,Very High
+1988,Ethan Butler,14,M,64,1.1,2.2,Low,Low,Average,6,None,Very Low
+1989,Kevin Gonzales,26,M,86,2.1,2.1,Low,Low,Poor,9,None,Medium
+1990,Brian Roberts,25,M,93,2.7,2.7,High,Low,Good,8,Moderate,Medium
+1991,Nicole Henderson,25,F,91,1.8,3.8,Medium,Medium,Good,9,Extensive,Medium
+1992,Jonathan Morris,16,M,70,0.9,2.7,Low,Medium,Average,7,Limited,Medium
+1993,George Rodriguez,15,M,87,2.6,3.2,Medium,High,Good,9,Moderate,Low
+1994,Mason Rogers,22,M,100,3.5,4.0,Low,High,Good,9,Extensive,High
+1995,Samuel Baker,24,M,100,3.5,3.9,Medium,High,Excellent,5,Moderate,Medium
+1996,Barbara Robinson,26,F,96,2.0,3.8,Medium,Low,Average,7,Extensive,High
+1997,Benjamin Sanders,22,M,56,1.5,1.5,Medium,Medium,Average,8,None,Very Low
+1998,Amelia Roberts,26,F,81,2.3,2.2,Low,Medium,Good,7,Moderate,Low
+1999,Paul King,15,M,98,2.0,2.5,High,Medium,Good,7,Moderate,Very High
+2000,Jonathan Patterson,21,M,73,2.1,1.8,Medium,Medium,Poor,7,Limited,High
+2001,Brian Scott,17,M,87,3.5,3.6,Medium,High,Excellent,8,Limited,High
+2002,Kathleen Perez,25,F,75,1.0,2.0,Medium,Low,Poor,7,None,High
+2003,Donna Jones,18,F,95,3.5,3.6,High,High,Excellent,8,Extensive,Low
+2004,Stephanie Jones,16,F,85,1.7,3.7,Medium,Medium,Good,6,Extensive,Very High
+2005,James Price,26,M,81,3.5,3.0,Low,Medium,Good,8,Limited,Very Low
+2006,Patrick Butler,25,M,97,4.3,4.0,High,High,Good,8,Moderate,High
+2007,Ronald Jenkins,22,M,100,3.2,3.5,Medium,High,Good,5,Moderate,High
+2008,Sarah Parker,15,F,62,2.2,2.4,Medium,Low,Poor,6,Limited,Medium
+2009,Joshua Thomas,16,M,88,1.4,2.9,High,Medium,Excellent,8,Extensive,High
+2010,Gregory Garcia,25,M,68,2.2,2.8,Low,Low,Average,6,Limited,Medium
+2011,Jeffrey Russell,19,M,85,4.3,2.5,Low,Low,Average,8,None,Very High
+2012,Patricia Jenkins,15,F,93,4.1,3.8,High,Medium,Good,8,Extensive,Very High
+2013,Patrick Stewart,16,M,60,1.6,2.8,Low,Low,Average,7,None,Medium
+2014,Rebecca Harris,14,F,94,1.7,3.1,Medium,Medium,Average,8,Extensive,Very Low
+2015,Olivia Allen,17,F,60,1.7,1.8,Medium,Medium,Poor,6,Moderate,High
+2016,Amanda Carter,23,F,90,3.1,2.8,Medium,Medium,Good,9,Extensive,Medium
+2017,Betty Edwards,26,F,100,3.9,3.4,Medium,High,Excellent,7,Moderate,High
+2018,Jeffrey Bailey,20,M,85,2.8,3.0,High,Medium,Average,6,Limited,Low
+2019,Benjamin White,19,M,68,1.5,2.5,High,Low,Good,5,Limited,Low
+2020,George Baker,18,M,93,1.4,3.4,Medium,High,Good,8,Moderate,Very High
+2021,Logan Roberts,25,M,83,2.0,2.8,Low,Medium,Average,6,None,High
+2022,Karen Martinez,16,F,80,3.4,3.0,Low,High,Excellent,8,Extensive,Medium
+2023,Olivia Hill,21,F,94,2.2,3.3,Low,Medium,Good,7,Limited,Medium
+2024,Jack Lopez,25,M,89,3.0,2.7,High,Medium,Good,7,Limited,Medium
+2025,Emma Wright,25,F,96,3.5,3.2,High,High,Average,8,Extensive,Medium
+2026,Justin Watson,15,M,71,2.9,2.4,Low,Low,Poor,7,None,Very Low
+2027,Barbara Price,19,F,93,2.2,3.6,Medium,Low,Good,6,Limited,Low
+2028,Evelyn Taylor,26,F,100,2.0,2.5,Medium,Medium,Average,4,Limited,High
+2029,Mason Garcia,20,M,68,1.0,2.1,Low,Medium,Average,6,None,Very High
+2030,Donna Adams,23,F,94,3.0,3.2,High,Medium,Good,7,Moderate,Very Low
+2031,Andrew Bennett,23,M,84,4.0,2.9,High,Low,Good,10,Moderate,Medium
+2032,Paul Gonzalez,26,M,92,2.3,3.4,Low,Medium,Good,9,None,Medium
+2033,Mason Jenkins,14,M,74,1.5,2.5,Medium,Low,Average,8,Moderate,Very High
+2034,Charles Hill,16,M,79,1.5,2.4,Low,Medium,Average,9,None,Medium
+2035,Jeffrey Ross,14,M,74,1.7,1.6,Low,Low,Average,4,Limited,High
+2036,Mary Griffin,22,F,94,2.1,2.7,High,Medium,Excellent,8,Extensive,Very Low
+2037,Jennifer Parker,25,F,89,3.6,3.2,Low,Medium,Average,7,Limited,Very High
+2038,Donna Hernandez,23,F,91,2.0,3.0,High,Low,Good,6,None,Very High
+2039,Eli Hall,24,M,97,4.5,3.9,High,High,Good,8,None,Very Low
+2040,Angela Gonzales,18,F,86,0.7,2.6,Medium,Medium,Good,8,Moderate,Medium
+2041,Olivia Turner,16,F,67,1.3,2.6,Medium,Low,Good,5,Moderate,High
+2042,Carol Sanchez,22,F,82,2.0,2.7,High,Medium,Good,7,Extensive,Low
+2043,Anna Ross,20,F,87,3.0,3.1,Medium,Medium,Good,8,Moderate,Medium
+2044,Raymond Martinez,14,M,97,1.5,2.7,High,Low,Average,6,Moderate,High
+2045,Cynthia Williams,26,F,97,4.0,3.8,High,High,Average,8,Moderate,Very High
+2046,Brian Jones,14,M,93,1.0,2.0,Medium,Medium,Poor,6,None,Medium
+2047,Deborah Perry,14,F,74,1.7,2.7,Medium,High,Good,4,None,High
+2048,Dorothy Brown,22,F,91,3.9,4.0,High,High,Excellent,6,Limited,Very High
+2049,Scott Campbell,16,M,86,4.5,3.8,High,High,Good,6,Extensive,High
+2050,Brenda Phillips,16,F,63,1.0,2.6,Low,Medium,Good,6,Moderate,Medium
+2051,Pamela Morgan,14,F,91,0.5,2.5,Medium,Medium,Good,7,Limited,Medium
+2052,Jennifer Alexander,24,F,88,2.6,3.4,High,Medium,Good,6,Limited,High
+2053,Daniel Diaz,15,M,88,2.1,3.5,High,High,Poor,7,Extensive,Medium
+2054,Amelia Coleman,16,F,90,2.2,1.8,Medium,Low,Poor,8,Extensive,Very High
+2055,Katherine Coleman,24,F,79,3.2,1.7,Low,Medium,Poor,8,Limited,Medium
+2056,Jessica Bennett,24,F,93,2.2,2.5,Low,Medium,Excellent,7,None,Medium
+2057,Jennifer Lopez,15,F,54,2.4,2.0,Low,Low,Average,7,Limited,Low
+2058,Kenneth Moore,20,M,81,1.3,3.5,Low,Low,Good,7,Extensive,Medium
+2059,Lucas Morris,26,M,90,1.9,1.7,Low,Low,Poor,8,None,High
+2060,Samantha Russell,19,F,87,2.4,2.9,Low,Medium,Excellent,6,Extensive,Very Low
+2061,Paul Barnes,14,M,89,3.1,3.0,Medium,Low,Excellent,7,Extensive,Medium
+2062,Andrew Diaz,24,M,85,2.1,2.5,Medium,Medium,Poor,5,None,Very High
+2063,Sophia Diaz,17,F,96,4.8,3.4,High,High,Good,9,Extensive,Very High
+2064,Joseph Powell,25,M,89,2.4,3.5,Low,Medium,Good,8,Limited,High
+2065,Emma Gonzalez,17,F,89,2.3,3.0,Medium,Medium,Average,8,Limited,Very Low
+2066,Anthony Alexander,26,M,100,2.9,3.6,High,Medium,Good,8,Extensive,Medium
+2067,Emily Lopez,16,F,87,1.5,2.3,Medium,Medium,Poor,7,Extensive,High
+2068,Larry Barnes,19,M,78,1.9,2.6,High,High,Good,7,Moderate,Low
+2069,Virginia Phillips,26,F,90,3.2,3.8,High,Medium,Good,6,Limited,Medium
+2070,Anna Henderson,19,F,93,3.3,2.8,Medium,Medium,Good,8,Moderate,High
+2071,Lucas Carter,20,M,88,2.2,3.5,Medium,Medium,Good,8,Moderate,Low
+2072,Charles Morgan,14,M,91,1.5,2.2,Low,High,Excellent,7,Extensive,High
+2073,Mason Miller,18,M,89,1.3,1.8,Medium,Low,Good,7,None,Very High
+2074,Christopher Johnson,21,M,95,3.7,3.7,Medium,High,Good,6,Extensive,High
+2075,Gregory Gonzales,23,M,96,4.9,3.5,Medium,High,Good,6,Limited,Very High
+2076,Stephanie Henderson,19,F,66,2.2,2.2,Medium,High,Average,6,None,Very High
+2077,Emily Wood,22,F,89,1.8,3.3,Medium,Medium,Average,8,Limited,High
+2078,Timothy Long,25,M,98,5.3,3.5,High,High,Good,9,Extensive,High
+2079,Joshua Turner,18,M,72,1.3,2.2,Low,Low,Good,6,Moderate,Medium
+2080,Stephanie Jenkins,15,F,91,1.9,2.8,Medium,Medium,Good,9,Moderate,Medium
+2081,Robert Roberts,17,M,68,2.5,3.7,Medium,Low,Average,6,Limited,High
+2082,Brandon Brown,17,M,92,1.1,3.1,Medium,High,Good,8,Moderate,Medium
+2083,Mia Allen,15,F,91,1.4,2.1,Medium,Low,Average,8,Moderate,Medium
+2084,Sophia Thompson,16,F,75,2.3,3.3,Medium,Low,Excellent,8,Limited,Low
+2085,Ashley Simmons,19,F,92,2.4,2.0,Low,Low,Average,7,None,Low
+2086,Jacob Torres,17,M,70,0.5,1.8,Low,High,Poor,6,Moderate,Medium
+2087,Andrew Cox,14,M,50,1.5,2.1,Low,Low,Poor,4,None,High
+2088,Olivia Ross,15,F,80,2.4,2.7,Low,Medium,Average,6,None,Medium
+2089,Carol Torres,19,F,84,2.6,2.8,Low,Medium,Average,5,Moderate,Low
+2090,Shirley Ward,21,F,89,3.5,2.9,High,Medium,Good,10,Extensive,Medium
+2091,Timothy Simmons,14,M,82,2.5,2.8,Medium,High,Good,8,None,Medium
+2092,Ethan Nelson,22,M,93,3.9,3.5,Medium,Medium,Excellent,8,Limited,High
+2093,Nancy Jackson,23,F,98,2.6,2.0,Medium,Medium,Average,9,Extensive,High
+2094,Emma Jackson,17,F,86,2.0,3.0,High,Medium,Good,8,Limited,Medium
+2095,Virginia Gonzalez,26,F,78,2.1,2.2,Medium,Medium,Good,6,Moderate,High
+2096,Sharon Lee,23,F,97,3.2,3.9,High,High,Good,8,Moderate,Medium
+2097,Jeffrey Roberts,16,M,88,3.0,3.1,High,Medium,Excellent,7,Moderate,Very Low
+2098,Lucas Cook,22,M,82,0.9,2.0,Low,High,Good,5,Extensive,Medium
+2099,Lisa Sanchez,15,F,94,2.4,3.0,Low,High,Average,8,Extensive,Low
+2100,Katherine Bennett,14,F,92,4.3,3.7,High,High,Excellent,8,Extensive,Medium
+2101,Abigail Diaz,26,F,100,4.2,4.0,High,Medium,Excellent,8,Moderate,Medium
+2102,Ronald Parker,17,M,63,1.5,1.8,High,Low,Poor,4,Limited,High
+2103,Sophia Rivera,17,F,86,2.9,3.1,Medium,Medium,Good,6,Limited,Very Low
+2104,Rachel Jenkins,21,F,74,0.5,3.6,Medium,Low,Poor,5,Moderate,High
+2105,Dorothy Coleman,19,F,85,2.4,1.9,Low,Low,Average,5,Limited,Very High
+2106,Sandra Hall,26,F,95,1.8,3.0,Medium,Medium,Average,7,Extensive,Very Low
+2107,Catherine Taylor,17,F,77,0.5,2.9,High,High,Average,7,Moderate,Medium
+2108,Robert Stewart,19,M,84,3.1,3.4,Medium,Medium,Good,8,Extensive,Low
+2109,Aiden Murphy,24,M,98,4.8,3.5,Medium,High,Good,8,Extensive,High
+2110,Amy Miller,22,F,91,3.2,2.6,Medium,Low,Good,7,Limited,Very Low
+2111,Elizabeth Sanchez,25,F,82,2.3,3.0,Medium,Low,Poor,10,Limited,Very High
+2112,Karen Sanchez,22,F,72,1.7,3.4,Medium,Low,Excellent,8,None,High
+2113,Carol Morris,21,F,100,4.5,3.5,High,Medium,Good,6,Moderate,Very Low
+2114,Stephen Watson,19,M,81,2.4,3.4,Medium,Medium,Good,9,Extensive,Medium
+2115,Abigail Murphy,19,F,87,2.9,2.2,Low,Low,Average,5,None,Medium
+2116,Anna Parker,20,F,96,2.3,2.9,High,Medium,Good,8,Moderate,High
+2117,Abigail Hill,14,F,90,2.6,3.3,Medium,Medium,Poor,8,Extensive,High
+2118,Frank Hughes,14,M,93,2.1,2.6,Medium,High,Good,8,Moderate,Medium
+2119,Amanda Sanchez,22,F,59,2.6,1.9,Medium,Medium,Poor,7,Limited,High
+2120,Rachel Long,14,F,65,2.2,2.5,Low,Medium,Poor,4,Limited,Very High
+2121,Gregory Torres,15,M,74,1.1,2.6,Medium,Medium,Good,7,None,High
+2122,Charlotte Robinson,25,F,100,3.7,3.7,High,High,Good,7,Moderate,Medium
+2123,Eli Torres,24,M,100,5.8,3.6,Medium,Medium,Good,9,Limited,High
+2124,Christine Baker,24,F,78,2.2,2.9,Medium,High,Good,7,Moderate,Medium
+2125,James Jones,25,M,95,4.8,3.8,High,Medium,Excellent,8,Extensive,High
+2126,Thomas Mitchell,15,M,88,2.7,3.2,Medium,High,Average,8,Extensive,Medium
+2127,Anthony Robinson,19,M,60,2.4,2.0,Low,Low,Average,5,Limited,High
+2128,Virginia Barnes,25,F,99,3.7,3.8,High,High,Excellent,8,Moderate,Low
+2129,Patrick Moore,17,M,79,1.1,2.2,Low,Low,Average,9,Limited,Very High
+2130,Sharon Barnes,17,F,87,3.7,3.4,High,Medium,Average,9,Moderate,Medium
+2131,Ashley Peterson,23,F,83,2.4,2.3,Low,Low,Average,6,None,Medium
+2132,Katherine Clark,23,F,75,2.5,2.6,Low,Medium,Average,5,Limited,High
+2133,Scott Wilson,14,M,97,3.5,3.8,Medium,High,Excellent,7,Moderate,Medium
+2134,Brian Walker,18,M,84,3.0,2.7,Low,High,Good,10,Moderate,Low
+2135,Andrew Murphy,25,M,76,1.8,2.9,Low,Medium,Poor,8,None,High
+2136,Patrick Foster,17,M,87,1.8,3.0,Medium,Low,Average,7,Extensive,Medium
+2137,Carol Lewis,22,F,87,2.4,2.7,Low,Medium,Good,5,None,High
+2138,Nicole Robinson,21,F,88,2.6,2.8,Medium,Medium,Average,8,Limited,Medium
+2139,Ronald Ward,14,M,85,2.2,2.4,High,Medium,Average,9,Extensive,Medium
+2140,Sharon Williams,18,F,92,4.2,3.9,High,High,Excellent,7,Limited,Very Low
+2141,Gregory Mitchell,24,M,89,1.2,2.5,Medium,High,Poor,7,None,High
+2142,Christine Bell,19,F,86,3.2,2.9,High,Medium,Good,7,Limited,Low
+2143,Lisa Griffin,18,F,72,0.9,3.8,Medium,Low,Good,6,Limited,Medium
+2144,Carol Murphy,24,F,89,2.4,2.0,Low,Medium,Poor,7,Moderate,Low
+2145,Ashley Brown,21,F,100,4.1,4.0,Medium,High,Good,9,Moderate,Medium
+2146,Frank Ramirez,15,M,90,2.2,2.7,Low,High,Good,7,Moderate,Low
+2147,Angela Alexander,15,F,77,2.2,1.0,Medium,Low,Average,7,Extensive,Very High
+2148,Robert Phillips,18,M,86,2.3,3.4,Low,High,Average,8,Moderate,Medium
+2149,Joseph Garcia,19,M,85,1.6,2.7,Low,High,Average,9,None,High
+2150,Virginia Morgan,20,F,86,1.0,2.2,Low,Low,Good,6,None,High
+2151,Cynthia Walker,14,F,96,4.5,3.4,High,High,Excellent,8,Moderate,High
+2152,Stephen Cox,18,M,51,3.0,2.1,Medium,Medium,Average,7,Moderate,High
+2153,Ethan Turner,24,M,71,2.7,1.2,Low,Low,Good,6,Extensive,Low
+2154,Carolyn Cooper,16,F,84,2.2,3.5,Low,Medium,Good,7,Moderate,Low
+2155,Pamela Hernandez,14,F,97,4.3,4.0,High,High,Excellent,7,Moderate,High
+2156,Virginia Jackson,17,F,66,2.7,2.8,High,Medium,Poor,4,Limited,Very High
+2157,Lisa Richardson,19,F,84,2.9,3.3,Medium,High,Excellent,7,Moderate,Medium
+2158,Patricia Thompson,17,F,86,4.4,3.3,High,High,Good,5,Extensive,Very High
+2159,Charlotte Thomas,26,F,92,5.2,3.9,High,High,Good,7,Extensive,High
+2160,Betty Kelly,21,F,95,2.6,2.8,Medium,Medium,Poor,4,Extensive,Very High
+2161,Nicole Rodriguez,21,F,80,2.7,3.0,Medium,High,Average,9,Moderate,Very Low
+2162,Melissa Baker,15,F,95,4.5,3.9,Low,High,Good,10,Moderate,High
+2163,Melissa Reed,21,F,97,3.5,3.9,High,Medium,Excellent,7,Extensive,High
+2164,Harper Diaz,19,F,94,2.5,2.9,Medium,High,Average,8,Limited,Low
+2165,Brandon Hernandez,14,M,84,1.7,2.1,Medium,High,Poor,10,None,High
+2166,Lisa Jenkins,24,F,87,2.2,3.2,Low,Low,Good,6,Extensive,Low
+2167,Angela Clark,15,F,91,1.2,3.1,Medium,Medium,Good,7,Extensive,High
+2168,Joshua Ross,15,M,77,2.3,2.5,Low,Low,Poor,7,None,Medium
+2169,Patricia Long,25,F,88,2.6,3.6,High,Medium,Average,7,Limited,Medium
+2170,Christine Lewis,22,F,85,2.5,2.6,Medium,Medium,Good,7,Extensive,Medium
+2171,Jerry Griffin,24,M,82,2.6,3.1,Medium,Medium,Good,8,Extensive,High
+2172,Laura Barnes,16,F,98,4.4,3.1,High,High,Poor,7,Moderate,High
+2173,Donald Mitchell,16,M,90,1.9,2.2,Low,Low,Poor,5,None,Very High
+2174,Brandon Sanders,21,M,58,2.3,2.5,Low,Medium,Good,7,Moderate,Low
+2175,Lisa Cox,19,F,86,3.6,2.9,Low,Medium,Average,9,Moderate,Very Low
+2176,Isabella Wilson,25,F,92,1.9,3.2,High,Low,Good,8,Extensive,Medium
+2177,Dennis Torres,17,M,96,4.1,3.7,High,High,Excellent,10,Extensive,High
+2178,Robert Cook,26,M,87,2.5,2.4,High,Medium,Poor,8,Limited,Medium
+2179,Jason Washington,17,M,91,1.8,2.7,Low,Low,Excellent,7,Limited,Medium
+2180,James Parker,15,M,85,4.2,3.6,High,High,Excellent,9,Moderate,Medium
+2181,Susan Morris,23,F,92,1.5,2.9,High,Medium,Excellent,7,Extensive,High
+2182,Nicole Ramirez,22,F,78,2.0,2.7,Medium,Low,Good,5,Limited,High
+2183,Christine Garcia,21,F,78,1.0,3.1,Medium,Medium,Poor,8,None,Very High
+2184,Gary Green,16,M,81,1.8,2.8,Low,Low,Average,10,Limited,Medium
+2185,Karen Cooper,20,F,70,1.8,1.9,Medium,Low,Average,5,Limited,High
+2186,Kimberly Green,24,F,90,3.6,3.1,Low,Medium,Excellent,8,Limited,Very High
+2187,Catherine Butler,15,F,66,1.1,2.3,Low,Medium,Average,4,Extensive,Very High
+2188,John Lewis,26,M,100,4.0,4.0,Medium,High,Excellent,6,Extensive,Medium
+2189,Steven Patterson,24,M,100,5.0,4.0,Medium,High,Excellent,7,Moderate,Very High
+2190,Carol Barnes,25,F,100,3.5,3.8,High,High,Good,9,Extensive,Medium
+2191,Kathleen Perez,25,F,89,2.3,2.0,Low,Low,Poor,8,None,Low
+2192,Stephen Campbell,19,M,90,0.6,3.2,Medium,Low,Excellent,7,Extensive,High
+2193,Patrick Miller,22,M,100,3.5,2.9,High,Medium,Good,8,Extensive,Very High
+2194,Kathleen Butler,14,F,78,0.5,1.8,Medium,Low,Average,12,None,High
+2195,Christopher Davis,20,M,86,3.2,2.9,High,High,Poor,6,None,Very Low
+2196,Sandra Diaz,16,F,84,2.3,2.9,Medium,Low,Good,8,Moderate,Medium
+2197,Olivia Lee,25,F,94,2.2,2.5,High,Medium,Poor,8,Extensive,Very High
+2198,Patricia Walker,17,F,51,0.5,2.5,Medium,Low,Average,7,None,High
+2199,Stephen Morris,15,M,69,0.5,1.9,Medium,Medium,Good,6,Limited,Medium
+2200,Andrew Brown,25,M,80,1.7,3.1,Low,Low,Poor,10,Moderate,High
+2201,Anna Mitchell,24,F,70,2.4,1.6,Medium,Low,Good,7,None,Very High
+2202,Tyler Collins,22,M,65,2.0,2.2,Low,Low,Poor,8,None,Medium
+2203,Noah Murphy,14,M,92,4.5,3.6,High,High,Good,7,Moderate,High
+2204,Emily Jones,17,F,73,1.1,2.5,Low,Low,Poor,7,Limited,High
+2205,Kenneth Patterson,26,M,91,3.1,3.4,Medium,Medium,Good,9,Moderate,Very Low
+2206,Charles Williams,17,M,82,2.3,2.3,Medium,High,Excellent,8,Moderate,High
+2207,Ryan Evans,22,M,80,2.7,2.4,Low,Low,Poor,6,None,Very High
+2208,Lisa Reed,14,F,81,3.3,2.8,Medium,Medium,Excellent,7,Moderate,Medium
+2209,Nancy Richardson,16,F,71,2.0,2.1,Low,High,Poor,8,None,High
+2210,Brandon Rodriguez,18,M,81,0.5,2.1,Low,Medium,Average,6,None,High
+2211,Anthony Martin,17,M,96,1.9,4.0,Low,High,Good,8,None,Low
+2212,Christopher Patterson,25,M,93,3.0,3.9,Medium,High,Excellent,8,Limited,Medium
+2213,Jonathan Lee,23,M,93,3.0,3.1,High,Medium,Excellent,8,Moderate,Very High
+2214,Janet Garcia,25,F,88,1.8,2.4,Medium,Medium,Excellent,7,Extensive,Very High
+2215,Jonathan Torres,21,M,56,1.9,2.3,Medium,Low,Good,7,Limited,Very High
+2216,Jackson Bennett,15,M,65,3.7,2.7,Low,Low,Good,5,Moderate,Very High
+2217,Mason Kelly,21,M,75,1.4,1.9,Medium,Medium,Poor,4,Moderate,Low
+2218,Michael Green,17,M,74,1.0,2.6,Low,Medium,Average,8,None,Medium
+2219,Samuel Cooper,26,M,97,2.5,3.3,Low,High,Good,9,Moderate,Medium
+2220,Virginia King,24,F,100,1.4,3.0,Low,Medium,Average,7,None,High
+2221,Katherine Hughes,18,F,76,2.0,1.7,Low,Low,Good,6,None,Very High
+2222,Samantha Wright,17,F,84,1.9,3.0,Medium,High,Good,6,Limited,Medium
+2223,Brian Adams,17,M,79,2.9,3.2,Medium,Medium,Good,8,Moderate,Medium
+2224,Lucas Sanders,14,M,82,1.2,2.7,Medium,Low,Excellent,8,Extensive,High
+2225,Jackson Rodriguez,18,M,90,2.2,2.7,Medium,Medium,Good,8,Moderate,Medium
+2226,Charles Murphy,20,M,86,1.7,3.4,Medium,Medium,Poor,8,Extensive,Medium
+2227,Liam Harris,16,M,95,3.0,3.8,Low,High,Good,9,Moderate,Low
+2228,Olivia Wilson,24,F,70,2.9,2.9,Low,Low,Average,9,Limited,Medium
+2229,Paul Cook,19,M,81,2.5,2.5,Low,High,Poor,8,None,High
+2230,Frank Butler,22,M,97,4.5,3.4,High,High,Excellent,7,Extensive,Medium
+2231,Ashley Lee,15,F,90,1.2,3.5,Medium,High,Excellent,9,None,Low
+2232,Brandon Torres,17,M,69,2.2,2.5,Low,Low,Poor,9,Moderate,High
+2233,Aiden Miller,16,M,80,0.5,2.4,Medium,Medium,Average,6,None,Medium
+2234,Steven Morris,22,M,92,1.7,3.6,High,Medium,Excellent,8,Extensive,Low
+2235,Susan Adams,21,F,69,1.0,2.3,Low,Medium,Average,8,Moderate,Very High
+2236,Sandra Hill,19,F,74,2.6,2.6,Low,Low,Good,8,None,High
+2237,Jennifer Hughes,21,F,99,3.2,3.8,Medium,High,Good,9,Limited,Medium
+2238,Edward Harris,20,M,87,3.1,3.0,Medium,Low,Good,7,Moderate,Medium
+2239,Ethan Simmons,23,M,77,2.4,2.2,Low,Low,Poor,7,Limited,High
+2240,Paul Walker,24,M,84,3.6,3.1,Medium,High,Excellent,9,Limited,Medium
+2241,Eric Rogers,18,M,97,1.8,2.4,Medium,High,Average,6,Extensive,Medium
+2242,James Simmons,15,M,57,0.7,3.5,Low,Low,Average,7,None,High
+2243,Kenneth Peterson,24,M,100,2.6,3.5,High,High,Good,8,Moderate,High
+2244,Elizabeth Campbell,14,F,90,1.7,3.0,Low,Low,Good,9,Extensive,High
+2245,Ashley Mitchell,20,F,70,1.8,2.4,Low,Low,Poor,10,Limited,High
+2246,Betty Thompson,15,F,75,2.9,3.0,Medium,Low,Average,9,Limited,Very Low
+2247,Jonathan Reed,22,M,67,1.8,2.6,Low,Low,Average,11,Limited,High
+2248,Patricia Hughes,20,F,81,1.2,2.1,Low,Low,Good,6,None,High
+2249,Liam Hughes,18,M,90,3.7,3.9,High,High,Excellent,6,Moderate,Medium
+2250,Deborah Washington,20,F,93,3.0,2.9,High,High,Good,8,None,Low
+2251,Christopher Green,23,M,100,5.0,3.9,High,High,Average,7,Moderate,High
+2252,Stephanie Hill,17,F,71,1.1,1.4,Low,Medium,Average,10,Limited,Very High
+2253,Jerry Nelson,16,M,86,2.7,3.0,Medium,Medium,Good,7,None,Very Low
+2254,Maria Bryant,22,F,98,3.1,4.0,High,High,Excellent,6,Extensive,Very High
+2255,Deborah Price,22,F,85,1.9,3.4,High,Medium,Good,8,Extensive,Very Low
+2256,Anna Rivera,26,F,85,2.9,2.7,Low,Medium,Average,7,Limited,High
+2257,Susan Morris,19,F,86,3.9,3.6,Medium,Medium,Poor,6,Limited,High
+2258,Donald Watson,14,M,87,2.8,2.5,Medium,Low,Average,8,Limited,High
+2259,George Wright,18,M,83,2.3,3.2,Medium,High,Good,6,Extensive,Very Low
+2260,Sophia Watson,24,F,74,2.7,2.3,Medium,Low,Average,8,None,Very High
+2261,Janet Clark,24,F,94,2.4,2.9,High,Low,Good,7,Moderate,Medium
+2262,Liam Green,16,M,59,2.0,2.2,Low,Medium,Poor,6,Limited,Medium
+2263,Janet Martin,19,F,68,1.5,2.7,High,Low,Good,6,None,High
+2264,Amelia Reed,17,F,59,2.4,2.4,Low,Low,Average,7,None,High
+2265,Christine Smith,24,F,100,4.4,4.0,High,High,Excellent,6,Moderate,Very High
+2266,Rebecca Bryant,23,F,72,2.3,1.7,Low,High,Average,7,Moderate,Medium
+2267,Michael Hayes,20,M,91,2.1,3.3,Medium,Medium,Good,8,Extensive,Medium
+2268,Janet Richardson,16,F,99,3.2,3.7,High,High,Excellent,8,Limited,Medium
+2269,Carolyn Evans,26,F,87,2.9,3.9,High,Medium,Average,7,Moderate,Low
+2270,Barbara Scott,16,F,75,1.6,1.9,High,Medium,Average,4,Extensive,High
+2271,Kimberly Thompson,17,F,84,1.0,3.5,Medium,Medium,Good,7,Extensive,Medium
+2272,James Bennett,19,M,88,2.5,2.4,Medium,Low,Poor,7,Extensive,High
+2273,Samuel Brooks,20,M,78,2.9,3.0,Low,Low,Poor,7,Limited,High
+2274,Mia Smith,20,F,78,2.4,2.7,Low,Medium,Average,5,Extensive,Very High
+2275,Ethan Wright,22,M,98,3.5,3.9,High,High,Average,7,Moderate,Low
+2276,Sophia Bailey,20,F,100,2.7,2.7,Medium,High,Good,8,Extensive,Medium
+2277,Andrew Lopez,26,M,80,3.2,2.2,Low,Low,Average,4,None,Very High
+2278,Justin Wilson,15,M,78,0.5,2.0,Medium,Low,Good,6,Moderate,Low
+2279,Jessica Wilson,17,F,95,4.6,3.5,High,High,Excellent,7,Moderate,Medium
+2280,Michelle Stewart,21,F,73,1.9,2.4,Low,Low,Average,7,None,High
+2281,Gary Rivera,17,M,89,2.7,3.1,Medium,Medium,Average,6,Limited,Very High
+2282,Edward Gonzales,20,M,73,2.1,2.6,Medium,Medium,Average,5,Limited,High
+2283,Rachel Rogers,26,F,72,1.8,3.1,Medium,Low,Average,9,Limited,Medium
+2284,Karen Morgan,18,F,94,4.7,3.7,High,High,Excellent,7,None,Low
+2285,Mary Anderson,21,F,97,4.9,3.9,High,High,Average,10,Extensive,Very High
+2286,Katherine Foster,20,F,85,2.4,2.7,Medium,Medium,Good,7,Extensive,Medium
+2287,Noah Perez,20,M,90,2.1,4.0,Medium,Medium,Good,7,Moderate,High
+2288,Melissa White,24,F,83,2.1,1.5,Low,Medium,Poor,6,None,High
+2289,Amy Thompson,23,F,74,2.4,2.7,Low,Low,Average,6,Limited,Medium
+2290,Harper Gray,20,F,90,1.6,2.4,High,Medium,Average,8,Extensive,Very Low
+2291,Rachel King,22,F,82,2.6,2.8,High,Medium,Good,9,None,Medium
+2292,Liam Perez,24,M,92,1.0,1.6,Medium,Low,Average,6,Limited,Low
+2293,Sandra Allen,16,F,85,2.6,2.9,Medium,Low,Average,8,None,Medium
+2294,Dorothy Wilson,16,F,79,2.6,1.1,Medium,Low,Poor,6,Extensive,Very High
+2295,Laura Simmons,21,F,80,1.4,3.8,Medium,Low,Average,6,None,Very High
+2296,Virginia Powell,14,F,88,2.1,2.6,Medium,Low,Excellent,6,Extensive,Very High
+2297,Dennis Gonzales,26,M,99,5.3,3.8,High,High,Good,7,Moderate,Medium
+2298,Carol Edwards,23,F,90,1.9,2.3,Medium,Low,Good,7,Moderate,Very High
+2299,Jackson Hill,26,M,83,3.7,2.7,Low,Low,Good,8,None,High
+2300,Eli Cox,24,M,98,3.6,3.9,High,High,Excellent,8,Extensive,Very High
+2301,Abigail Moore,22,F,85,2.0,3.1,Low,High,Good,8,None,Medium
+2302,Ruth Gonzales,16,F,75,1.7,2.0,Medium,High,Average,6,None,Very Low
+2303,Maria Bell,25,F,84,3.7,2.7,Low,Low,Poor,7,None,Very Low
+2304,Laura Howard,23,F,86,3.9,2.5,Medium,High,Poor,7,Moderate,Low
+2305,Mia Allen,26,F,79,2.4,2.8,Low,Low,Good,9,Moderate,High
+2306,David Stewart,16,M,88,1.9,2.9,Medium,Medium,Average,8,None,High
+2307,Jeffrey Howard,17,M,100,0.7,3.3,Medium,Low,Poor,7,None,Medium
+2308,Jackson Gonzales,24,M,100,4.3,3.6,High,High,Excellent,8,Moderate,High
+2309,Kathleen Jenkins,26,F,82,2.7,2.4,Low,Medium,Average,6,Moderate,High
+2310,Sophia Ramirez,15,F,54,2.1,2.4,Medium,Low,Poor,5,Moderate,High
+2311,Donna Price,20,F,67,1.4,1.7,Low,Low,Good,5,None,Medium
+2312,Sharon Stewart,25,F,89,1.9,2.2,Medium,Medium,Poor,4,Limited,Medium
+2313,Abigail Martin,20,F,100,5.3,3.6,Medium,High,Excellent,8,Moderate,High
+2314,Charles Murphy,14,M,87,3.2,2.8,Medium,Medium,Good,9,Moderate,Very High
+2315,Patrick Watson,17,M,82,1.7,3.2,High,Medium,Good,9,None,Low
+2316,Gary Richardson,16,M,100,0.8,3.0,Medium,Medium,Poor,6,Limited,High
+2317,Shirley Howard,21,F,81,1.8,1.8,Low,Low,Poor,5,Limited,Very High
+2318,George Russell,23,M,99,3.9,4.0,High,High,Good,9,Moderate,Medium
+2319,Jerry Torres,24,M,80,3.0,2.5,Low,Low,Average,5,None,Medium
+2320,Dennis Scott,23,M,100,1.8,3.3,High,Low,Good,9,Extensive,Medium
+2321,Charles Garcia,14,M,87,1.6,2.7,High,Medium,Good,9,Moderate,Very High
+2322,Stephen Washington,22,M,90,2.2,3.2,Low,Medium,Good,8,Moderate,Medium
+2323,Catherine Stewart,19,F,88,2.6,3.0,Medium,Medium,Good,9,Moderate,Low
+2324,Deborah Torres,20,F,78,1.6,2.7,Medium,Low,Average,6,Limited,Low
+2325,Margaret Edwards,24,F,78,1.4,2.0,Medium,Medium,Average,6,None,Very Low
+2326,Barbara Wood,16,F,91,2.0,3.1,Medium,Low,Average,7,None,Medium
+2327,James Wright,14,M,94,2.8,3.6,High,Low,Excellent,7,Moderate,High
+2328,Cynthia Barnes,25,F,92,3.1,2.8,Medium,Medium,Good,9,Limited,Medium
+2329,Tyler Jenkins,20,M,89,2.9,3.1,High,High,Excellent,7,Moderate,Low
+2330,Pamela King,17,F,89,2.1,2.1,Medium,High,Average,7,Moderate,High
+2331,Gary Lewis,21,M,70,2.0,2.8,Low,Low,Poor,5,Limited,High
+2332,John Taylor,26,M,74,1.9,2.1,Low,Low,Good,6,None,Low
+2333,David Green,21,M,87,1.2,2.9,Low,Low,Poor,4,None,High
+2334,Virginia Mitchell,22,F,97,4.1,4.0,High,High,Excellent,7,Extensive,High
+2335,Angela Hughes,23,F,68,0.6,2.7,Low,Medium,Poor,8,Extensive,Medium
+2336,Katherine Ramirez,19,F,89,2.8,3.4,Medium,Medium,Good,7,Limited,Very Low
+2337,Jacob Lewis,15,M,93,0.8,2.4,High,Low,Good,6,Moderate,Low
+2338,Virginia Martin,22,F,75,2.1,2.7,Low,Low,Average,7,Extensive,Very High
+2339,Larry Patterson,20,M,66,1.9,1.6,Medium,Low,Average,10,None,Low
+2340,Carolyn Bailey,18,F,71,1.4,2.2,Low,Low,Poor,5,None,High
+2341,Barbara Turner,19,F,94,4.2,3.9,High,Medium,Excellent,8,Moderate,High
+2342,Eli Brooks,18,M,96,0.5,2.4,Medium,Low,Average,6,Moderate,Medium
+2343,Jason Moore,23,M,82,1.4,2.0,Medium,Low,Poor,9,Limited,Very High
+2344,Mary Ramirez,19,F,100,4.2,4.0,High,High,Good,6,Moderate,Medium
+2345,Pamela Clark,14,F,59,0.5,2.0,Low,Low,Poor,7,Limited,Medium
+2346,James Kelly,22,M,74,1.9,1.8,Low,Low,Average,8,None,Low
+2347,Logan Ross,22,M,99,4.9,3.3,High,Medium,Good,8,Moderate,High
+2348,Brian Evans,15,M,61,1.5,2.9,Low,Low,Poor,7,None,High
+2349,Nicole Flores,18,F,92,4.0,3.2,High,High,Good,9,Extensive,Very High
+2350,Rachel Martin,17,F,73,2.7,2.1,Medium,Low,Poor,6,Limited,Medium
+2351,Kevin Garcia,24,M,70,2.9,2.2,Medium,Low,Average,8,None,Very High
+2352,Anna Young,20,F,88,0.9,2.7,Low,Medium,Average,7,Extensive,Medium
+2353,Justin Phillips,20,M,73,0.9,2.7,Low,Low,Good,6,Limited,High
+2354,Mark Young,23,M,72,2.3,2.7,Medium,Low,Excellent,6,None,High
+2355,Paul Young,15,M,83,0.7,2.5,Medium,Medium,Good,7,Extensive,Very Low
+2356,Jackson Thompson,26,M,94,2.1,3.3,Medium,High,Good,7,Extensive,Medium
+2357,Kimberly Griffin,21,F,88,3.5,3.2,Medium,High,Good,8,None,Medium
+2358,Gary White,22,M,97,3.8,3.6,Medium,High,Average,7,Extensive,High
+2359,Jack Foster,18,M,84,1.6,1.6,High,Medium,Average,11,Limited,High
+2360,Rebecca Brown,17,F,87,1.7,2.9,High,Medium,Good,8,Limited,Medium
+2361,Anna Kelly,26,F,99,2.3,3.5,High,Medium,Good,9,Moderate,Very Low
+2362,Ronald Perez,16,M,93,3.8,3.4,High,High,Excellent,7,Extensive,High
+2363,Justin Torres,19,M,97,4.7,4.0,Medium,Medium,Excellent,7,None,Medium
+2364,Kimberly Edwards,15,F,76,1.8,2.9,High,Medium,Excellent,8,Extensive,Very High
+2365,Michelle Evans,22,F,70,1.9,2.9,High,Low,Good,7,Limited,High
+2366,David Torres,19,M,73,1.6,2.5,High,Low,Poor,10,Limited,Very High
+2367,Jason Stewart,26,M,92,2.3,2.8,High,Low,Excellent,8,Extensive,High
+2368,Sandra Ramirez,22,F,98,3.1,3.2,High,Low,Excellent,8,Moderate,High
+2369,Liam Clark,19,M,50,2.2,2.3,Medium,Low,Good,7,Limited,High
+2370,Michael Parker,16,M,84,1.6,2.6,Medium,Medium,Excellent,8,Extensive,High
+2371,Janet Rivera,21,F,97,6.0,3.9,High,High,Excellent,6,Extensive,Medium
+2372,Angela Thomas,23,F,72,1.4,1.5,Medium,Low,Good,9,None,Low
+2373,Jessica Garcia,23,F,87,2.6,2.8,Low,Medium,Average,4,None,Very High
+2374,Jonathan Bryant,20,M,68,2.3,1.9,Low,Low,Good,4,None,Very High
+2375,Gary Lewis,18,M,87,1.7,2.9,High,Medium,Excellent,8,Extensive,Medium
+2376,Emma Moore,24,F,96,2.4,3.4,Medium,Medium,Excellent,6,Limited,Medium
+2377,Lucas Lopez,26,M,93,3.4,2.8,High,Medium,Good,6,Limited,Medium
+2378,Maria Evans,22,F,66,1.4,2.6,Low,Low,Poor,6,Moderate,High
+2379,Brenda Simmons,26,F,70,1.8,3.5,Low,Low,Good,7,None,High
+2380,Dorothy Gray,20,F,87,2.7,3.5,Medium,Low,Good,7,Moderate,Medium
+2381,Shirley Russell,23,F,100,4.5,3.8,High,High,Excellent,10,Extensive,High
+2382,Gary Edwards,26,M,85,2.8,2.8,High,Low,Poor,9,Limited,Medium
+2383,Stephen Martinez,19,M,96,3.7,3.5,Medium,Medium,Average,8,Moderate,High
+2384,Liam Smith,17,M,86,0.8,3.6,Medium,Medium,Excellent,8,Moderate,Low
+2385,Gary Flores,26,M,74,3.4,2.0,Medium,Medium,Poor,8,None,High
+2386,Donald Clark,23,M,77,2.7,2.6,Low,Medium,Poor,4,Moderate,Very High
+2387,John Anderson,24,M,99,5.3,3.9,High,High,Excellent,8,Moderate,High
+2388,James Thompson,15,M,60,1.5,2.0,High,Low,Average,8,Limited,Medium
+2389,Jacob Harris,23,M,99,4.9,4.0,Medium,High,Excellent,8,Moderate,High
+2390,Eli Thompson,21,M,76,1.1,2.3,Medium,Medium,Average,6,None,Very High
+2391,Amy Martin,25,F,99,4.2,3.6,High,High,Excellent,6,Moderate,Very High
+2392,Olivia Bailey,21,F,85,2.9,2.7,Medium,Medium,Good,8,Moderate,Medium
+2393,Charlotte Thompson,16,F,95,3.1,3.5,Medium,High,Good,8,Limited,Medium
+2394,Scott Garcia,20,M,98,1.6,2.6,High,Medium,Good,5,Extensive,Low
+2395,Amy Hughes,22,F,100,5.6,3.7,High,High,Good,7,Limited,Low
+2396,Sophia Campbell,19,F,95,4.5,4.0,Low,High,Good,6,Extensive,Medium
+2397,Samuel Sanchez,19,M,76,1.5,2.3,Medium,Medium,Average,7,None,High
+2398,Benjamin Ward,26,M,92,2.2,2.9,Medium,Low,Poor,8,None,Very Low
+2399,Emily Thomas,24,F,84,2.4,1.8,Low,Medium,Poor,6,None,High
+2400,Ethan Kelly,23,M,97,2.2,3.2,Medium,Medium,Excellent,9,Extensive,Medium
+2401,Nancy Thompson,23,F,91,2.2,2.3,Low,Medium,Poor,4,Moderate,Medium
+2402,Angela Henderson,20,F,75,1.8,2.9,Medium,Low,Poor,7,None,Very High
+2403,Stephanie Ross,15,F,71,0.5,1.8,Low,High,Poor,8,Moderate,Low
+2404,Alexander Clark,26,M,100,4.4,4.0,High,High,Excellent,8,Extensive,High
+2405,Amy Cooper,19,F,85,2.2,2.6,Medium,High,Poor,8,Moderate,Medium
+2406,Sharon Miller,23,F,93,2.4,2.6,Medium,Low,Average,8,Moderate,High
+2407,Debra Bennett,21,F,98,2.2,3.0,High,Low,Good,8,Limited,Medium
+2408,Samantha Collins,24,F,93,2.6,2.3,Medium,Medium,Average,9,Limited,Low
+2409,Liam Green,16,M,78,0.5,2.0,Low,Medium,Average,9,None,Medium
+2410,George Flores,21,M,95,2.8,2.5,Medium,Medium,Poor,7,None,Very High
+2411,Sarah Smith,19,F,97,5.1,3.5,High,High,Good,7,Extensive,High
+2412,Isabella Morris,22,F,97,2.1,3.5,Medium,Low,Good,7,Moderate,Very High
+2413,Betty Martin,24,F,92,1.7,3.0,Medium,Low,Excellent,6,Extensive,Medium
+2414,Brandon Diaz,17,M,94,2.9,3.9,High,High,Good,8,None,Very Low
+2415,Melissa Price,26,F,83,3.1,4.0,High,High,Poor,8,Moderate,Medium
+2416,Jason Rodriguez,17,M,64,3.5,1.7,Low,Medium,Poor,7,None,High
+2417,Mark Allen,14,M,96,5.1,3.8,High,High,Excellent,7,Moderate,High
+2418,Jennifer Griffin,26,F,97,4.2,3.6,High,Medium,Good,8,Limited,Medium
+2419,Alexander Hayes,23,M,88,1.3,3.5,Medium,High,Good,7,Moderate,Very High
+2420,Angela Bryant,26,F,85,2.2,3.0,Medium,Low,Good,6,Moderate,Medium
+2421,Brandon Anderson,22,M,90,2.2,3.6,High,Medium,Good,9,Limited,High
+2422,Brandon Richardson,15,M,70,1.2,2.4,High,Medium,Average,8,Extensive,High
+2423,Anna Sanchez,24,F,99,4.2,3.9,High,Medium,Good,7,Limited,High
+2424,Ryan Campbell,15,M,83,1.2,3.3,Medium,Medium,Average,8,Limited,Medium
+2425,Evelyn Green,16,F,66,3.3,2.6,Medium,Medium,Average,5,None,Low
+2426,Melissa Davis,19,F,87,2.3,2.9,Medium,Medium,Good,6,Limited,Medium
+2427,Alexander Richardson,26,M,80,1.8,2.6,Medium,Medium,Poor,4,Moderate,Very High
+2428,Mark Harris,25,M,70,3.2,2.1,Low,Medium,Good,6,Extensive,Medium
+2429,Joshua Williams,19,M,72,1.0,1.0,Low,Medium,Good,7,Moderate,Medium
+2430,Ethan Johnson,14,M,77,1.8,2.4,Medium,Low,Average,7,None,High
+2431,Maria Anderson,14,F,94,1.7,2.6,Medium,High,Good,7,Moderate,Medium
+2432,Mason Perez,24,M,96,3.1,2.7,Medium,Low,Excellent,8,Extensive,Low
+2433,Samuel Cook,17,M,79,1.0,2.5,High,Low,Average,4,None,High
+2434,Patrick Lewis,26,M,82,2.5,2.8,Medium,Medium,Average,8,Extensive,Very Low
+2435,Christine Sanders,16,F,88,1.2,2.8,Medium,Medium,Good,7,Extensive,Medium
+2436,Sophia Hughes,24,F,100,1.4,2.9,High,Low,Good,7,Extensive,Very Low
+2437,Elizabeth Henderson,25,F,100,4.2,3.7,High,High,Excellent,8,Moderate,Very Low
+2438,Daniel Lewis,20,M,88,3.1,2.8,Medium,Medium,Good,7,Moderate,Low
+2439,Charles Howard,25,M,100,4.2,4.0,Medium,High,Good,7,Extensive,High
+2440,Cynthia Wood,22,F,99,3.0,4.0,Low,Medium,Excellent,7,Extensive,High
+2441,Virginia Stewart,20,F,95,1.5,3.0,Medium,High,Average,6,Extensive,Medium
+2442,Aiden Gray,24,M,91,2.7,3.2,High,Medium,Average,9,Moderate,Medium
+2443,Benjamin Russell,24,M,78,1.4,2.5,Medium,Low,Poor,10,None,Medium
+2444,Amelia Collins,26,F,92,2.7,3.0,High,Low,Poor,9,Extensive,High
+2445,Debra Harris,21,F,79,2.8,2.6,Medium,Medium,Good,5,Limited,Medium
+2446,Gregory Williams,18,M,96,4.1,3.6,High,Medium,Good,7,Extensive,High
+2447,Kenneth Johnson,14,M,100,1.6,2.9,Low,Medium,Average,6,Limited,Very High
+2448,William Powell,20,M,98,4.1,3.7,High,High,Excellent,9,Extensive,Very Low
+2449,Melissa Flores,19,F,84,1.8,1.4,Low,High,Average,6,None,Very High
+2450,Rebecca Jenkins,19,F,100,1.9,3.3,Medium,Low,Good,9,Moderate,Very High
+2451,Kevin Johnson,25,M,82,1.6,1.0,Low,High,Poor,8,None,Very High
+2452,Timothy Williams,24,M,97,4.6,3.5,High,High,Good,7,Moderate,Medium
+2453,Rebecca Murphy,20,F,73,1.9,1.9,High,Medium,Average,8,None,High
+2454,Patricia Perry,21,F,96,3.0,3.8,High,High,Good,8,Moderate,Low
+2455,Brenda Simmons,25,F,94,3.1,2.9,Medium,Medium,Average,7,Moderate,Medium
+2456,Jennifer Miller,18,F,81,2.3,2.9,Medium,Medium,Good,7,Moderate,Medium
+2457,Jacob Moore,20,M,92,5.4,3.4,Medium,High,Excellent,7,Extensive,Medium
+2458,Deborah Sanchez,21,F,99,3.3,3.4,High,High,Good,5,Extensive,Very High
+2459,Amanda Martin,20,F,95,1.7,4.0,Medium,High,Excellent,7,Extensive,Medium
+2460,Brandon Gonzalez,20,M,95,3.8,3.9,High,High,Good,7,Extensive,Medium
+2461,Susan Nelson,24,F,87,1.4,1.7,Low,High,Poor,4,Extensive,Medium
+2462,Gregory Edwards,20,M,50,1.4,2.2,Low,Medium,Average,6,None,High
+2463,Thomas Hughes,23,M,100,5.4,3.7,Medium,High,Good,6,Limited,Medium
+2464,Matthew Bell,17,M,85,1.4,2.5,Medium,High,Average,7,Moderate,Medium
+2465,Barbara Walker,15,F,82,2.3,2.8,Medium,Medium,Good,8,None,Medium
+2466,Elizabeth Clark,21,F,77,1.2,2.8,Low,Medium,Average,5,Moderate,Medium
+2467,George Gonzalez,15,M,54,1.8,1.9,Medium,Low,Poor,7,None,Low
+2468,Rebecca Martinez,20,F,90,5.4,4.0,High,High,Good,6,Limited,Low
+2469,Andrew Martin,16,M,57,3.1,2.0,Medium,Low,Average,5,None,Low
+2470,Dennis Perry,17,M,88,3.7,3.6,Medium,High,Good,8,Moderate,Very High
+2471,Susan Adams,19,F,93,3.0,3.9,High,High,Excellent,9,Extensive,High
+2472,Noah Miller,19,M,81,2.7,2.9,Low,Medium,Good,8,Extensive,High
+2473,Eric Phillips,16,M,88,0.5,2.7,Low,Low,Excellent,8,Extensive,Medium
+2474,Gregory Campbell,17,M,64,1.5,2.4,Medium,Low,Average,4,None,High
+2475,Kenneth Brooks,25,M,100,1.7,3.2,Medium,Low,Excellent,7,Moderate,Very High
+2476,Frank Martinez,15,M,90,2.1,2.3,High,High,Poor,5,None,Very Low
+2477,Isabella Flores,14,F,85,0.5,3.0,Low,Low,Average,5,Moderate,High
+2478,Linda Sanders,20,F,100,4.4,4.0,High,High,Excellent,8,Moderate,Very High
+2479,Jerry Peterson,20,M,56,1.4,3.1,Low,Low,Poor,7,None,Low
+2480,Jennifer Simmons,19,F,100,4.5,3.5,High,Medium,Good,7,Extensive,Medium
+2481,Angela Gray,17,F,71,2.8,2.9,Medium,Low,Good,7,Limited,Very High
+2482,Rachel Morris,21,F,98,1.1,3.4,High,Medium,Good,9,Extensive,Very High
+2483,Dorothy Gonzales,14,F,57,2.0,2.2,Low,High,Good,4,None,Very Low
+2484,Maria Carter,25,F,92,3.5,3.0,Medium,Medium,Average,9,Extensive,Medium
+2485,Raymond Bennett,14,M,55,0.6,2.6,Low,Medium,Average,7,Limited,High
+2486,Eli Allen,17,M,66,2.4,2.9,Low,High,Poor,9,Limited,Very High
+2487,Jacob Sanchez,24,M,73,2.3,2.2,Low,Low,Poor,10,Extensive,High
+2488,Jeffrey Martin,22,M,86,3.4,2.9,Medium,Low,Excellent,6,Extensive,Medium
+2489,Maria Cooper,14,F,96,1.9,3.1,Medium,Low,Good,8,Extensive,Low
+2490,Laura Parker,20,F,93,1.7,3.3,Low,Medium,Good,8,Limited,Low
+2491,Jacob Sanchez,14,M,88,1.2,3.1,Low,Low,Good,7,Moderate,Low
+2492,Shirley Hayes,19,F,89,2.1,2.4,Medium,Low,Good,7,None,High
+2493,Donald Bennett,24,M,86,3.2,3.8,Low,High,Excellent,8,Extensive,Low
+2494,Donna Jackson,15,F,98,1.5,2.5,Medium,High,Good,8,Limited,Low
+2495,Michael Patterson,19,M,89,2.5,3.2,Medium,High,Good,8,Limited,Very Low
+2496,Karen Kelly,20,F,63,2.1,2.6,Medium,Medium,Average,7,None,High
+2497,Sharon Washington,15,F,98,3.0,3.8,Medium,High,Good,6,Moderate,Very Low
+2498,Carol Wood,18,F,79,2.1,2.7,Low,High,Excellent,7,Moderate,High
+2499,Samantha Powell,26,F,73,2.6,2.3,Low,Low,Excellent,4,None,Medium
+2500,Betty Turner,18,F,91,2.0,3.0,Medium,Medium,Excellent,8,Moderate,High
+2501,Caleb Thompson,22,M,93,2.8,3.1,Medium,Medium,Average,7,Extensive,Medium
+2502,Sharon Howard,16,F,100,4.2,3.7,High,High,Excellent,8,Moderate,Medium
+2503,Donna Wright,19,F,92,2.2,3.9,Medium,High,Average,7,Moderate,Medium
+2504,Frank Davis,18,M,71,1.9,3.3,Low,Low,Poor,4,Extensive,High
+2505,Brandon Brown,19,M,77,2.4,2.6,High,Medium,Average,8,Limited,High
+2506,Christopher Price,19,M,99,3.5,3.4,High,High,Excellent,8,Moderate,High
+2507,Emma Robinson,26,F,100,3.1,4.0,High,High,Excellent,8,Extensive,High
+2508,Michelle Powell,23,F,90,3.1,2.9,Low,Medium,Poor,6,Limited,High
+2509,Jennifer Walker,17,F,94,4.0,4.0,High,Medium,Good,6,Moderate,High
+2510,Amelia Green,25,F,81,3.4,3.4,Low,Low,Good,6,None,Medium
+2511,Angela Bell,22,F,89,2.4,3.3,Low,Low,Poor,7,Limited,Very High
+2512,Samantha Nelson,26,F,100,2.8,2.7,Low,Low,Poor,8,Extensive,High
+2513,Susan Hernandez,23,F,70,3.5,2.4,Low,Low,Average,6,None,Very Low
+2514,Mark Rodriguez,23,M,85,3.5,3.4,Low,High,Good,8,Moderate,Medium
+2515,Gregory Sanchez,25,M,92,2.1,3.2,Medium,High,Poor,8,Limited,Very High
+2516,Joshua Hall,19,M,89,1.2,1.8,Low,Low,Excellent,5,None,Very High
+2517,Patrick Powell,26,M,75,2.9,3.0,Low,Low,Poor,7,Extensive,Medium
+2518,Amelia Carter,21,F,85,1.9,2.3,Low,High,Poor,6,None,Very High
+2519,John Coleman,23,M,71,0.8,2.5,Medium,Low,Average,6,None,Low
+2520,Cynthia Wright,16,F,92,1.9,2.7,Low,Low,Poor,7,Extensive,Medium
+2521,Jack Brooks,14,M,76,2.4,1.7,Low,Medium,Poor,7,None,Medium
+2522,Olivia King,14,F,86,2.1,2.8,Medium,Medium,Good,8,None,Very Low
+2523,Dorothy Green,15,F,59,1.7,1.8,Medium,Low,Good,8,Limited,High
+2524,Nicole Henderson,14,F,97,2.0,3.2,High,Medium,Average,7,Limited,Medium
+2525,Kenneth Reed,26,M,85,1.1,2.6,Low,Medium,Average,5,None,Medium
+2526,Kenneth Morris,14,M,87,1.2,3.1,Medium,Low,Good,7,Moderate,Low
+2527,Angela Adams,19,F,99,3.9,3.7,High,Medium,Excellent,8,Extensive,Very Low
+2528,Abigail Coleman,26,F,71,2.5,3.4,Medium,Low,Poor,5,Limited,Very High
+2529,Stephen Walker,25,M,100,1.8,2.4,High,Medium,Good,8,Extensive,Low
+2530,Joseph King,23,M,88,3.3,3.0,Low,Medium,Average,7,Moderate,Medium
+2531,Ashley Peterson,14,F,92,4.9,3.5,Medium,High,Good,8,None,Low
+2532,Barbara Baker,19,F,96,1.7,2.9,Medium,Medium,Poor,7,Extensive,Medium
+2533,Dennis Walker,21,M,80,2.2,2.2,Low,Low,Good,7,Limited,Very High
+2534,Virginia Murphy,22,F,89,1.2,3.0,High,Medium,Good,9,Extensive,Low
+2535,Charles Howard,16,M,64,1.2,1.9,High,Low,Poor,8,None,Very High
+2536,Betty Walker,26,F,100,4.4,3.6,High,High,Excellent,8,Moderate,Low
+2537,Steven Alexander,19,M,58,2.1,3.2,Low,Medium,Average,4,Moderate,Very High
+2538,Timothy Turner,21,M,82,3.0,2.7,Medium,Medium,Poor,8,Moderate,Very Low
+2539,Sandra Bell,20,F,87,2.7,3.2,High,High,Poor,7,Limited,Very Low
+2540,Gregory Thompson,21,M,92,1.9,2.4,Medium,High,Good,8,Extensive,Low
+2541,Mark Jackson,17,M,94,3.9,3.3,High,Medium,Excellent,9,Moderate,Low
+2542,John Moore,18,M,89,3.1,2.9,Medium,Low,Excellent,6,Limited,Low
+2543,Amelia Wright,23,F,93,1.8,2.1,Low,Low,Good,7,Limited,Very High
+2544,Jeffrey Hayes,20,M,92,2.0,3.5,Low,Low,Poor,9,None,Medium
+2545,Aiden Turner,25,M,84,2.6,3.5,Medium,Medium,Good,5,None,High
+2546,Alexander Roberts,20,M,71,2.1,2.1,High,Low,Average,6,Moderate,Very High
+2547,Melissa Price,20,F,96,3.8,3.5,High,High,Good,10,Limited,Medium
+2548,Jackson Richardson,14,M,99,1.1,3.4,Medium,Medium,Good,7,Moderate,Medium
+2549,Emily Allen,17,F,95,3.9,3.5,Medium,Medium,Good,8,Extensive,Medium
+2550,Sarah Young,23,F,89,2.6,2.8,High,Medium,Good,7,Moderate,Medium
+2551,Amy Adams,16,F,90,4.0,3.3,High,High,Average,7,Moderate,Very Low
+2552,Daniel Price,26,M,89,2.8,2.4,High,Low,Average,6,Extensive,Very High
+2553,Angela Howard,15,F,100,4.4,3.6,High,High,Good,6,Extensive,High
+2554,Melissa Adams,19,F,92,2.5,2.6,Medium,Low,Good,8,Extensive,Medium
+2555,Gary Lopez,16,M,86,1.7,1.8,Medium,Medium,Good,7,Extensive,Medium
+2556,Susan Alexander,23,F,83,1.4,2.4,Medium,Low,Poor,5,None,Very High
+2557,Lisa Torres,23,F,83,2.0,2.0,High,Low,Average,10,Limited,Very High
+2558,Lucas Long,19,M,88,1.5,2.9,High,Low,Average,8,None,High
+2559,Caleb Smith,18,M,88,1.5,3.3,Medium,Low,Good,7,Moderate,Medium
+2560,Kimberly Ramirez,15,F,66,3.3,2.3,Low,High,Poor,6,None,Medium
+2561,Karen Collins,21,F,78,2.9,2.4,Medium,High,Poor,7,Limited,Low
+2562,James Cook,25,M,88,3.8,3.4,Medium,High,Good,8,Moderate,Medium
+2563,Gregory Green,19,M,92,1.6,2.9,Medium,Low,Excellent,8,Extensive,Medium
+2564,Matthew Simmons,22,M,93,3.4,3.3,Medium,Medium,Good,8,Limited,Medium
+2565,Virginia Gonzalez,23,F,81,1.8,1.9,Low,Medium,Average,6,None,High
+2566,William Wood,17,M,85,3.0,2.9,Medium,Medium,Good,7,Moderate,Medium
+2567,Benjamin Rogers,14,M,88,1.9,2.9,Medium,High,Poor,8,None,Medium
+2568,Patricia Young,20,F,93,2.4,2.9,High,High,Good,7,Moderate,Low
+2569,Daniel Gonzales,23,M,81,2.9,2.2,Low,Medium,Average,6,None,Very High
+2570,Jeffrey Sanders,24,M,100,4.8,4.0,High,High,Excellent,6,Extensive,Medium
+2571,Dorothy Cox,22,F,86,1.4,1.8,Medium,High,Poor,6,Moderate,Very High
+2572,Jack Lewis,25,M,98,4.3,3.5,High,High,Good,8,Extensive,Very High
+2573,Mark Butler,18,M,91,1.3,3.3,High,Medium,Good,7,Limited,Medium
+2574,Thomas Campbell,23,M,93,2.8,3.2,High,Medium,Average,8,Moderate,Low
+2575,Logan Bell,14,M,90,0.8,2.9,Low,Low,Poor,9,None,Medium
+2576,Gregory Scott,24,M,96,3.6,2.8,Medium,High,Good,8,Moderate,High
+2577,Jackson Sanders,19,M,76,3.0,2.6,Low,Medium,Average,6,Extensive,High
+2578,Maria Sanders,18,F,83,1.2,1.6,Low,Medium,Poor,6,Limited,Very High
+2579,Charlotte Flores,14,F,97,5.1,3.7,High,Medium,Good,9,Extensive,Low
+2580,Justin Wilson,15,M,59,1.4,2.3,High,Medium,Average,7,None,High
+2581,Dorothy Parker,25,F,90,3.4,3.0,Medium,High,Average,8,Moderate,Medium
+2582,Tyler Morgan,25,M,92,1.7,2.9,High,Medium,Good,7,Extensive,High
+2583,James Lee,16,M,87,1.8,2.8,Medium,Low,Good,7,Extensive,Very Low
+2584,Anna Robinson,24,F,100,3.5,3.7,Low,High,Excellent,10,Moderate,Very Low
+2585,Gary Clark,16,M,92,2.9,3.9,Low,High,Good,5,Moderate,Very High
+2586,Thomas Price,21,M,71,3.3,1.7,Low,Low,Poor,4,Moderate,Very Low
+2587,Joshua Moore,21,M,82,2.6,3.4,High,High,Average,7,Extensive,Low
+2588,Sandra Lee,25,F,93,3.8,3.7,Medium,High,Good,8,Limited,Medium
+2589,Catherine Jackson,18,F,50,1.1,2.2,Low,Medium,Poor,6,None,Low
+2590,Catherine Nelson,14,F,84,3.2,3.4,Medium,Medium,Excellent,8,Limited,Medium
+2591,Ryan Flores,17,M,90,2.7,3.0,Low,Medium,Average,9,None,High
+2592,Lucas Davis,15,M,95,5.6,3.3,High,Medium,Excellent,7,Moderate,High
+2593,Larry Butler,16,M,84,2.8,3.4,Low,Medium,Average,8,Moderate,Medium
+2594,Margaret Reed,25,F,84,2.8,3.3,Medium,Medium,Excellent,6,Extensive,Very High
+2595,Charlotte Hayes,21,F,78,1.9,2.2,Medium,Medium,Average,5,Limited,Very High
+2596,Christine Kelly,16,F,93,1.9,2.3,Medium,Low,Excellent,8,Moderate,Low
+2597,Melissa Richardson,26,F,84,2.5,2.7,High,Low,Excellent,7,Extensive,Medium
+2598,Amy Simmons,21,F,90,3.1,3.5,Medium,High,Average,8,Limited,High
+2599,Karen Alexander,26,F,95,2.0,3.1,Low,Low,Good,8,Extensive,High
+2600,David Perry,15,M,74,0.5,2.7,Low,High,Average,8,None,High
+2601,Thomas Baker,25,M,71,1.2,2.7,Medium,Low,Poor,8,None,Very High
+2602,Michelle Reed,21,F,82,2.3,3.5,Medium,Medium,Average,8,Moderate,Low
+2603,Samantha Rogers,19,F,70,2.4,2.0,Medium,Medium,Poor,10,Limited,Very High
+2604,Christine Bell,25,F,100,4.1,3.7,High,High,Good,5,Extensive,Very High
+2605,Katherine Carter,21,F,93,3.2,3.9,High,High,Excellent,7,Extensive,Low
+2606,Christine Cooper,25,F,68,2.0,3.0,Low,Medium,Average,8,None,Low
+2607,Laura Hayes,26,F,68,1.9,1.8,Medium,Low,Good,8,Extensive,High
+2608,Patricia Richardson,21,F,100,3.6,3.6,High,High,Good,7,Extensive,Low
+2609,Linda King,16,F,50,1.7,2.1,Low,Low,Average,8,Limited,High
+2610,Timothy Campbell,23,M,83,2.5,2.7,High,Medium,Average,7,Limited,Medium
+2611,Carol Nelson,24,F,83,3.5,3.0,Medium,Medium,Good,8,Limited,High
+2612,Jennifer Miller,14,F,83,1.7,2.9,Medium,Low,Good,9,None,Medium
+2613,Jerry Gray,18,M,61,2.4,1.9,Medium,Medium,Average,6,None,Low
+2614,Jonathan King,26,M,86,1.8,2.7,Low,Low,Poor,6,Moderate,Very High
+2615,Carolyn Green,24,F,75,0.5,1.6,Medium,Low,Average,7,None,High
+2616,Elizabeth Foster,16,F,98,3.3,3.6,High,Medium,Excellent,8,Moderate,Medium
+2617,Kathleen Washington,24,F,100,2.8,3.6,High,Medium,Excellent,7,Moderate,High
+2618,Rachel Miller,17,F,83,3.8,2.3,Medium,Medium,Poor,4,None,Low
+2619,Andrew Mitchell,19,M,89,3.5,3.1,Low,Medium,Average,7,Limited,Medium
+2620,Shirley Brown,19,F,100,4.7,3.5,High,High,Good,8,Moderate,Very High
+2621,Emily Miller,23,F,91,3.1,2.6,Medium,Low,Poor,6,Moderate,High
+2622,David Evans,26,M,95,1.3,3.0,Low,Medium,Poor,4,Limited,Low
+2623,Barbara Morris,19,F,100,4.0,4.0,High,Medium,Excellent,8,Extensive,Medium
+2624,Janet Anderson,26,F,83,3.4,3.8,Low,Medium,Poor,9,Limited,Very High
+2625,Janet Long,26,F,89,1.8,2.5,Low,Low,Good,5,Extensive,Very High
+2626,Ryan Harris,26,M,100,4.6,3.1,High,High,Excellent,8,Extensive,Medium
+2627,Steven Bryant,20,M,69,1.7,2.2,Medium,Medium,Poor,8,Moderate,High
+2628,Abigail Bell,25,F,100,4.7,3.8,High,Medium,Excellent,7,Extensive,High
+2629,Shirley Foster,17,F,85,2.0,3.2,Medium,Low,Excellent,8,Moderate,Medium
+2630,Patricia Morris,14,F,93,2.8,2.0,Medium,High,Poor,9,Limited,Low
+2631,Benjamin Bennett,26,M,85,3.4,3.0,Low,Medium,Average,7,None,Medium
+2632,Ryan Long,15,M,86,0.9,2.5,Medium,Medium,Excellent,8,Moderate,Medium
+2633,Jackson Jones,14,M,71,1.2,1.6,Low,Low,Good,5,None,Low
+2634,Stephanie Barnes,22,F,90,3.2,3.1,Medium,High,Good,9,None,Low
+2635,Elizabeth Griffin,26,F,92,2.6,3.1,Medium,Medium,Excellent,7,None,Low
+2636,Harper Jones,15,F,74,2.7,3.0,Medium,Medium,Poor,10,Moderate,Very High
+2637,Noah Taylor,21,M,74,3.2,2.5,Medium,Medium,Average,10,None,Very High
+2638,Rachel Stewart,18,F,88,2.2,3.4,High,Medium,Good,7,Extensive,High
+2639,Gary Campbell,23,M,81,3.2,2.6,Medium,Medium,Poor,4,None,High
+2640,Paul Edwards,20,M,94,1.4,2.4,Medium,High,Average,8,Moderate,Very Low
+2641,Rebecca Walker,17,F,84,1.2,2.9,High,Medium,Poor,6,Moderate,Low
+2642,Aiden Gray,18,M,67,1.7,2.1,Low,Low,Average,4,Limited,Very High
+2643,Andrew Rodriguez,25,M,98,3.0,2.4,High,Medium,Poor,8,Limited,Medium
+2644,Caleb Bryant,23,M,76,1.7,1.9,Low,Low,Poor,9,None,Medium
+2645,Kimberly Thomas,18,F,82,1.4,3.4,High,High,Good,7,Limited,High
+2646,Jerry Griffin,20,M,87,1.0,3.6,Medium,Medium,Average,6,Extensive,Medium
+2647,Benjamin White,20,M,78,2.8,2.9,Low,Medium,Poor,7,None,Medium
+2648,Brandon Green,16,M,90,3.4,3.8,High,High,Excellent,7,Moderate,High
+2649,Christine James,20,F,75,2.2,2.7,Medium,Low,Good,5,None,Low
+2650,Ashley Robinson,25,F,100,2.7,3.0,Medium,Medium,Good,8,Moderate,Very Low
+2651,Jason Griffin,15,M,97,1.6,2.9,Medium,Medium,Good,6,Moderate,Medium
+2652,Jerry Patterson,15,M,72,1.8,2.2,Low,Low,Good,6,Limited,High
+2653,Noah Evans,20,M,78,2.3,3.5,Low,High,Good,7,Extensive,High
+2654,Mia James,19,F,76,0.6,2.5,Low,Low,Average,6,None,High
+2655,Gary Brown,17,M,66,1.2,2.2,High,Medium,Poor,8,None,Medium
+2656,Catherine Brooks,23,F,72,1.9,2.6,Low,Low,Poor,5,None,Low
+2657,Laura Lewis,21,F,97,2.3,2.9,Medium,High,Good,7,Limited,High
+2658,Lucas Sanchez,25,M,93,2.3,2.0,Medium,Medium,Poor,8,Limited,High
+2659,Pamela Anderson,26,F,94,2.5,2.9,Medium,Low,Good,7,Extensive,Medium
+2660,Stephen Alexander,14,M,79,1.4,3.6,High,Low,Poor,4,Limited,High
+2661,Anthony Clark,25,M,99,4.7,4.0,High,High,Excellent,7,Moderate,High
+2662,Lucas Hughes,23,M,93,1.3,2.9,Medium,Medium,Good,7,Moderate,High
+2663,Joseph Morgan,17,M,80,1.7,3.0,Medium,Medium,Average,8,Limited,Medium
+2664,Aiden Hill,15,M,78,1.3,2.8,Low,Medium,Poor,7,Limited,Very High
+2665,Katherine Butler,23,F,90,2.8,2.7,Medium,Medium,Poor,5,None,High
+2666,Jennifer Mitchell,18,F,93,3.6,3.6,High,High,Excellent,8,Extensive,High
+2667,Emily Price,25,F,82,1.9,2.4,Medium,High,Average,7,None,Low
+2668,Sophia Davis,20,F,96,3.5,3.3,High,High,Excellent,7,Extensive,Very Low
+2669,Lucas Ramirez,16,M,87,2.1,2.9,High,Medium,Good,8,None,Very Low
+2670,Susan Bryant,20,F,84,1.2,3.3,Low,Low,Poor,9,None,Medium
+2671,Virginia Ramirez,17,F,79,2.0,3.4,Low,Medium,Excellent,8,Limited,Medium
+2672,Frank Bailey,22,M,52,1.0,2.5,Low,Low,Poor,5,None,Medium
+2673,Ruth James,20,F,85,2.8,3.5,High,High,Poor,8,Moderate,Medium
+2674,Caleb Rogers,17,M,98,5.1,4.0,Low,High,Excellent,8,Extensive,Very High
+2675,Nicholas Torres,19,M,91,4.6,4.0,High,High,Excellent,7,Moderate,Low
+2676,Nicole James,16,F,100,4.7,3.9,High,High,Excellent,9,Moderate,High
+2677,Caleb Powell,21,M,82,0.5,2.3,Medium,Low,Average,9,Limited,High
+2678,Amy Taylor,25,F,97,4.3,3.6,Low,Medium,Excellent,9,None,High
+2679,Joshua Green,25,M,100,3.8,3.9,High,Medium,Excellent,7,Limited,Low
+2680,Angela Anderson,21,F,95,2.4,3.2,Low,Medium,Excellent,8,Moderate,Low
+2681,Charlotte Gonzalez,15,F,100,1.2,2.1,Low,Medium,Average,7,Extensive,High
+2682,Alexander Campbell,20,M,80,1.9,2.8,High,Medium,Good,7,Moderate,Low
+2683,Christopher Evans,18,M,92,4.4,3.5,High,High,Good,7,Moderate,Medium
+2684,Olivia James,14,F,86,1.2,2.3,Low,Low,Average,8,None,High
+2685,Matthew Diaz,18,M,89,2.1,3.8,Medium,High,Good,8,Extensive,Medium
+2686,Kenneth Williams,20,M,100,2.1,3.2,Low,High,Excellent,7,Extensive,Medium
+2687,Alexander Price,22,M,99,5.7,3.2,High,High,Excellent,8,Extensive,High
+2688,Stephen Foster,17,M,91,1.7,2.9,High,Low,Average,6,None,High
+2689,Carolyn Hughes,23,F,78,2.2,1.1,Low,Low,Average,5,Limited,Very High
+2690,Isabella Ross,23,F,83,3.4,3.4,Medium,High,Good,8,Extensive,Medium
+2691,Pamela Alexander,26,F,94,2.9,3.6,High,High,Good,8,Limited,Medium
+2692,Ryan Watson,21,M,91,1.9,3.2,Low,Medium,Average,7,Moderate,Very High
+2693,Angela Sanchez,16,F,90,1.8,2.7,High,Medium,Average,9,Moderate,Low
+2694,Ronald Hayes,23,M,88,2.6,3.4,Medium,Medium,Good,7,Limited,Low
+2695,Evelyn Miller,23,F,76,3.3,3.7,Low,Low,Average,10,Moderate,Medium
+2696,Jackson Edwards,22,M,75,3.1,2.0,Low,Medium,Poor,5,Moderate,High
+2697,Patricia Gray,22,F,77,3.8,2.9,Medium,Medium,Good,8,Moderate,Very High
+2698,Sophia Carter,25,F,74,2.4,2.2,Low,Low,Average,5,Limited,High
+2699,Eric Ross,22,M,78,0.8,2.0,Low,Low,Poor,4,None,Medium
+2700,Aiden Taylor,26,M,84,2.4,2.2,Medium,Medium,Poor,6,Moderate,Medium
+2701,Dorothy Kelly,21,F,88,2.5,3.7,Low,Medium,Good,10,Moderate,Medium
+2702,Jackson Morgan,24,M,80,2.3,2.7,Low,Low,Good,6,Limited,High
+2703,Maria Peterson,20,F,80,2.7,3.0,High,Medium,Good,8,Moderate,Medium
+2704,Olivia Moore,24,F,95,1.8,2.5,Medium,Low,Good,8,Extensive,Medium
+2705,Kimberly Russell,25,F,92,2.3,3.5,Medium,Medium,Good,6,Moderate,Medium
+2706,Samantha Scott,20,F,96,4.0,3.6,High,High,Excellent,7,Moderate,Medium
+2707,Rebecca Taylor,19,F,100,3.5,4.0,High,Medium,Excellent,8,None,Very High
+2708,Mary Gonzales,23,F,75,2.2,3.4,Low,Low,Poor,5,None,Very High
+2709,Evelyn Patterson,20,F,61,1.2,2.3,Low,Medium,Average,4,None,High
+2710,Larry Jenkins,20,M,98,5.6,3.8,Medium,High,Excellent,7,Extensive,High
+2711,Samantha Wilson,23,F,88,2.7,2.6,Medium,Low,Excellent,9,Moderate,Medium
+2712,Jack Wilson,16,M,100,4.2,3.7,Medium,High,Good,9,Moderate,High
+2713,Anna Ramirez,17,F,95,1.3,2.6,Medium,Low,Good,6,Moderate,Very High
+2714,Elizabeth Anderson,26,F,92,3.4,2.8,Medium,High,Average,8,Limited,High
+2715,Janet Hayes,14,F,59,1.1,2.9,High,Low,Average,6,Limited,Very High
+2716,Brenda Turner,18,F,83,1.5,3.1,Medium,Medium,Good,8,None,Medium
+2717,Nicholas Jones,17,M,81,2.4,3.1,Low,Low,Good,7,Extensive,Very High
+2718,Samantha Campbell,22,F,94,5.8,3.6,Low,High,Excellent,7,Moderate,High
+2719,Eric Reed,21,M,93,4.9,2.7,Low,Medium,Good,8,Limited,Medium
+2720,Matthew Ward,15,M,67,1.4,2.0,Medium,Low,Poor,5,Extensive,High
+2721,Laura Powell,23,F,92,1.3,3.3,Medium,Low,Poor,8,Extensive,Medium
+2722,Debra Griffin,18,F,87,2.2,2.9,Low,Low,Average,8,Extensive,Medium
+2723,Betty Bailey,17,F,61,1.5,1.9,Low,Low,Average,5,Limited,Very High
+2724,Jeffrey Phillips,16,M,50,2.4,1.9,Medium,Low,Poor,8,None,High
+2725,Eric Hernandez,15,M,98,3.0,3.4,High,High,Good,10,Moderate,Low
+2726,Amelia Barnes,14,F,100,4.0,3.8,High,High,Good,7,Moderate,Medium
+2727,Jacob Campbell,24,M,100,3.8,3.3,Medium,High,Good,6,Extensive,Very Low
+2728,John Peterson,20,M,98,3.3,3.8,High,Medium,Excellent,6,Moderate,Very High
+2729,Gary Collins,14,M,93,4.7,3.8,High,High,Good,7,Extensive,Very High
+2730,Matthew Foster,21,M,100,4.7,4.0,High,High,Good,7,Extensive,Medium
+2731,Maria Howard,18,F,66,0.6,2.0,Low,Low,Poor,8,Limited,High
+2732,Maria Stewart,20,F,93,2.8,1.3,Medium,Low,Average,9,None,Very High
+2733,Michelle Howard,25,F,60,2.6,2.2,Low,Low,Poor,8,None,Medium
+2734,Ruth Lewis,14,F,78,3.2,2.6,Medium,Low,Average,7,Limited,Medium
+2735,James Morgan,22,M,95,2.9,3.9,High,High,Excellent,9,Moderate,Low
+2736,Maria Thompson,24,F,100,4.5,4.0,High,High,Excellent,8,Moderate,High
+2737,Jonathan Edwards,17,M,91,1.6,2.9,Medium,Low,Average,8,Moderate,Medium
+2738,Deborah Murphy,25,F,73,2.2,2.6,Low,Medium,Poor,9,Extensive,Very Low
+2739,Jeffrey Campbell,26,M,85,3.0,3.8,Medium,Medium,Average,9,Moderate,Medium
+2740,Thomas Rogers,15,M,83,1.5,2.3,Medium,Medium,Good,8,None,Low
+2741,Susan Cox,25,F,100,1.1,2.5,High,High,Good,9,Extensive,Very High
+2742,James Ramirez,20,M,97,3.7,3.4,Medium,High,Excellent,7,Extensive,Low
+2743,Michael Smith,22,M,83,3.4,2.9,Medium,Low,Average,7,Extensive,Medium
+2744,Robert Hernandez,19,M,90,3.3,3.4,Medium,Medium,Average,9,Limited,Low
+2745,Barbara Ross,22,F,85,2.7,3.4,Medium,Medium,Good,7,None,Very High
+2746,Liam Griffin,20,M,77,2.4,3.1,Medium,Medium,Poor,4,None,Very High
+2747,Sophia Cook,18,F,84,1.6,3.0,Low,Medium,Average,9,Extensive,Very High
+2748,Gary Adams,23,M,100,5.5,4.0,High,High,Good,9,Extensive,High
+2749,Raymond Rodriguez,14,M,73,1.5,2.5,Medium,Low,Average,8,None,Very High
+2750,Kathleen Martin,25,F,88,3.2,3.2,Medium,Medium,Good,7,Moderate,Medium
+2751,Charles Cox,26,M,100,4.5,4.0,Medium,High,Good,6,Extensive,High
+2752,Timothy Thompson,19,M,87,2.0,3.3,Medium,Low,Good,8,Extensive,Medium
+2753,David Reed,17,M,90,1.1,2.3,Low,Medium,Average,8,Moderate,Very Low
+2754,Eric Campbell,24,M,84,1.9,3.2,Medium,Medium,Good,7,Extensive,High
+2755,Betty Miller,23,F,90,2.7,1.7,Medium,Medium,Average,5,Moderate,Medium
+2756,Virginia Thompson,20,F,50,1.4,3.1,Low,Medium,Poor,6,None,Very High
+2757,Thomas Watson,18,M,75,0.5,2.5,Medium,Medium,Excellent,6,None,High
+2758,Jason Bailey,24,M,74,1.9,1.9,Low,Medium,Average,5,None,High
+2759,Charlotte Miller,26,F,85,2.3,2.8,Medium,Low,Average,7,Limited,High
+2760,Thomas King,22,M,99,3.0,3.8,High,High,Good,7,Moderate,High
+2761,Jack Lee,26,M,100,2.7,3.6,High,Low,Excellent,8,Moderate,Low
+2762,Jeffrey Evans,15,M,93,4.1,3.8,High,High,Excellent,7,Extensive,High
+2763,Nancy Bailey,20,F,69,1.6,2.9,Low,Low,Excellent,4,Limited,High
+2764,Benjamin Hughes,22,M,93,1.4,1.7,Medium,Low,Poor,9,Moderate,Very Low
+2765,Dorothy Alexander,26,F,97,3.1,3.3,Medium,High,Excellent,9,Moderate,Medium
+2766,Jason King,21,M,85,2.0,2.9,Low,Low,Poor,9,None,High
+2767,Brenda Hernandez,26,F,71,1.8,2.5,High,Low,Poor,4,Limited,Low
+2768,Brandon Bell,24,M,100,2.9,3.9,High,High,Good,8,Moderate,Low
+2769,Noah Butler,20,M,85,3.8,2.7,Medium,Medium,Good,9,Limited,Medium
+2770,Virginia Wilson,17,F,97,2.6,4.0,High,High,Good,7,Extensive,High
+2771,Mary Rogers,15,F,61,0.5,2.1,Low,Medium,Good,6,Limited,High
+2772,James Simmons,18,M,89,1.6,3.1,High,Medium,Average,7,Moderate,High
+2773,Michelle Morgan,18,F,52,1.7,1.0,Medium,Low,Poor,8,Moderate,Medium
+2774,Kevin Barnes,18,M,80,2.6,3.4,High,Medium,Good,7,Extensive,Low
+2775,Kenneth Allen,23,M,98,1.9,3.7,Medium,Medium,Excellent,7,Limited,Very Low
+2776,Mark Patterson,15,M,83,2.2,2.6,High,Low,Good,7,Extensive,High
+2777,Carolyn Hill,15,F,94,4.0,4.0,High,High,Good,6,Limited,Medium
+2778,Scott Rogers,17,M,85,2.9,3.1,Medium,Low,Average,9,Limited,Medium
+2779,Joseph Powell,16,M,95,3.9,3.9,High,Medium,Excellent,8,Extensive,High
+2780,Matthew Thomas,25,M,88,3.3,3.0,Medium,Medium,Good,7,Limited,Medium
+2781,Carol Allen,16,F,93,5.1,2.7,High,High,Excellent,8,Extensive,Medium
+2782,Ruth Robinson,26,F,90,2.0,3.3,High,High,Good,8,Limited,Low
+2783,Patrick Thompson,25,M,80,0.5,2.9,Medium,Low,Average,5,Moderate,Very Low
+2784,Emily Patterson,21,F,95,2.5,2.6,Medium,Medium,Average,8,Limited,High
+2785,James Young,24,M,90,1.0,3.4,High,Medium,Poor,7,Extensive,High
+2786,Katherine Roberts,20,F,67,1.7,2.8,Low,Medium,Excellent,7,Extensive,Medium
+2787,Maria Thomas,18,F,75,0.6,1.9,Medium,Medium,Poor,6,None,Medium
+2788,James Alexander,18,M,89,1.4,2.6,Low,Low,Average,7,None,High
+2789,Carolyn Bryant,25,F,90,2.1,2.9,Medium,Low,Excellent,8,Extensive,Medium
+2790,Dennis Gonzalez,19,M,94,2.9,3.4,High,High,Good,7,Moderate,Medium
+2791,Jerry Mitchell,18,M,83,2.1,3.1,Medium,Medium,Good,8,Moderate,Low
+2792,Nicole Howard,15,F,92,1.2,2.8,High,Low,Good,8,Moderate,Very High
+2793,Caleb Washington,22,M,79,3.4,2.8,Medium,Medium,Good,6,Extensive,Very Low
+2794,Samuel Taylor,15,M,89,1.8,2.8,High,Low,Good,8,Moderate,Medium
+2795,Larry Martinez,26,M,89,2.5,3.0,Low,Medium,Average,7,None,High
+2796,Jessica Hayes,15,F,96,0.6,2.6,Medium,Low,Poor,7,Moderate,High
+2797,Stephanie Alexander,14,F,78,0.9,1.5,Low,Low,Average,7,None,Medium
+2798,Catherine Hernandez,15,F,96,5.2,3.3,High,High,Excellent,9,None,High
+2799,Joseph Perez,22,M,100,1.9,2.4,Medium,Low,Excellent,7,Extensive,Medium
+2800,Jack Powell,15,M,85,2.8,2.8,Medium,Medium,Good,10,Limited,Medium
+2801,Kevin Jackson,20,M,64,0.7,3.4,Medium,Medium,Average,4,Moderate,Medium
+2802,Mary Williams,23,F,91,4.0,2.9,Medium,Low,Good,7,Moderate,High
+2803,Maria Hill,17,F,69,1.5,2.3,Medium,Low,Average,7,None,Medium
+2804,Patricia Patterson,18,F,63,3.2,2.7,Medium,Low,Average,8,Moderate,Very High
+2805,Kathleen Bennett,18,F,82,3.3,2.9,Medium,Medium,Good,8,Limited,Medium
+2806,Stephen Rogers,19,M,63,1.0,2.6,Low,Medium,Good,6,Moderate,High
+2807,Kimberly Bennett,17,F,61,1.0,2.5,Medium,Medium,Poor,6,None,High
+2808,Amy Hill,20,F,76,2.1,1.3,Low,Medium,Poor,4,Extensive,High
+2809,Paul Jenkins,18,M,73,1.0,2.6,Low,Low,Average,8,None,High
+2810,William Harris,15,M,77,2.8,2.2,Low,Low,Good,7,None,High
+2811,Kimberly Morgan,20,F,96,6.0,3.0,High,High,Poor,8,Extensive,High
+2812,Susan King,20,F,100,4.1,3.6,Medium,High,Good,8,Moderate,Low
+2813,Olivia Butler,18,F,76,1.9,1.9,Low,Medium,Average,4,Extensive,High
+2814,Raymond Ramirez,26,M,94,2.8,2.9,High,Low,Good,9,Extensive,Low
+2815,Ashley Parker,17,F,84,1.2,2.8,High,Medium,Excellent,7,Extensive,Very High
+2816,Aiden Jones,25,M,93,2.5,3.6,Low,Medium,Average,10,Extensive,Medium
+2817,Mary Gray,22,F,73,2.7,1.9,Medium,Medium,Average,8,None,High
+2818,Michael Johnson,17,M,94,2.3,2.8,Medium,Low,Excellent,5,Extensive,Very Low
+2819,Patricia White,26,F,98,4.0,3.6,High,High,Good,8,Extensive,Low
+2820,Dorothy Rogers,22,F,73,1.5,1.9,Low,Medium,Average,6,Limited,Very High
+2821,Scott Bell,18,M,88,1.3,2.1,Low,Medium,Average,6,Limited,Medium
+2822,Donald Powell,14,M,90,2.1,1.6,Low,Medium,Good,8,Extensive,High
+2823,Steven Davis,22,M,100,1.5,2.5,Medium,Low,Good,7,Moderate,High
+2824,Jessica Clark,23,F,70,2.4,1.3,Medium,High,Average,5,Extensive,High
+2825,Shirley Hayes,19,F,95,2.2,3.5,Medium,Low,Average,8,Moderate,Low
+2826,Mia Powell,18,F,52,1.9,2.2,Medium,Low,Average,6,Limited,High
+2827,Logan Sanders,23,M,82,2.6,3.1,Low,Low,Poor,9,None,Medium
+2828,Elizabeth Rodriguez,22,F,77,0.9,2.1,Low,Low,Poor,11,None,Very Low
+2829,Mia Jones,21,F,87,4.0,3.6,Low,Low,Average,7,None,Very High
+2830,Jennifer Williams,14,F,79,1.8,1.3,Medium,Low,Poor,7,Moderate,High
+2831,George Cooper,25,M,100,4.0,4.0,High,Medium,Excellent,8,Extensive,High
+2832,Catherine Garcia,26,F,88,2.0,2.6,High,Medium,Poor,7,Moderate,Low
+2833,Virginia King,23,F,73,1.2,2.9,Medium,Low,Poor,5,None,Medium
+2834,Lisa Young,16,F,86,2.2,3.4,Medium,Medium,Average,9,Moderate,Very Low
+2835,Liam Howard,25,M,98,2.4,2.9,High,High,Excellent,7,Extensive,High
+2836,Patrick White,26,M,100,3.9,4.0,High,High,Good,9,None,High
+2837,Samantha Hughes,26,F,90,2.9,3.3,High,Medium,Good,9,Extensive,Low
+2838,Liam Turner,20,M,72,1.0,2.2,Low,Medium,Poor,7,None,Medium
+2839,Brenda Campbell,17,F,85,2.3,2.4,Medium,High,Good,8,Extensive,Medium
+2840,Emily James,15,F,100,4.4,3.9,High,High,Good,8,Extensive,High
+2841,Jeffrey Hernandez,20,M,89,3.3,3.2,Medium,High,Good,8,Limited,Medium
+2842,Robert Cook,26,M,98,4.3,4.0,Medium,High,Excellent,7,None,Low
+2843,Shirley Johnson,18,F,73,1.8,2.5,Low,Low,Good,8,None,Medium
+2844,Aiden Hughes,22,M,74,0.9,2.2,Medium,High,Average,7,Limited,High
+2845,Stephanie Griffin,26,F,63,3.0,2.5,Low,Medium,Average,7,None,Medium
+2846,Aiden Patterson,18,M,96,1.4,3.0,High,Medium,Good,7,Extensive,Low
+2847,Jackson Hayes,21,M,87,2.3,3.6,Medium,Low,Good,8,None,Medium
+2848,Margaret Ward,26,F,88,0.8,3.5,Low,Low,Poor,9,None,High
+2849,Sandra Garcia,20,F,79,1.9,2.9,Low,Medium,Poor,12,Limited,Very High
+2850,Daniel Sanchez,19,M,56,2.6,1.9,Low,Low,Average,7,Limited,Medium
+2851,Aiden Moore,26,M,99,4.2,3.9,High,High,Good,6,Moderate,Medium
+2852,Carol Scott,23,F,91,0.7,3.0,Low,Medium,Poor,6,None,Very Low
+2853,Elizabeth Foster,24,F,96,4.6,3.4,Medium,Medium,Excellent,8,Limited,High
+2854,Donald Cook,16,M,79,2.1,2.4,Low,Medium,Poor,7,Moderate,Medium
+2855,Noah Hill,25,M,78,1.4,2.4,Medium,Low,Average,4,None,Very High
+2856,Jack Griffin,23,M,100,5.8,4.0,Medium,High,Good,8,Limited,Very High
+2857,Rachel Reed,26,F,83,0.8,3.0,Low,Low,Average,8,Limited,Medium
+2858,Michael Watson,20,M,72,3.0,2.4,Low,Low,Poor,6,Moderate,High
+2859,Steven Perry,17,M,87,1.9,3.3,High,High,Excellent,7,None,Medium
+2860,Aiden Perez,20,M,84,1.5,3.2,High,Medium,Excellent,7,Moderate,Medium
+2861,Liam Thompson,20,M,82,1.7,2.9,Medium,Low,Good,7,Extensive,Medium
+2862,Abigail Foster,20,F,64,3.7,2.0,Low,Medium,Poor,6,Limited,High
+2863,Michelle Bennett,16,F,83,2.2,3.2,Low,Medium,Good,9,Moderate,Low
+2864,George Ward,14,M,86,1.1,3.3,Medium,Medium,Average,7,Extensive,High
+2865,Tyler Walker,23,M,97,1.5,3.2,Medium,Low,Average,10,Moderate,High
+2866,Kimberly Patterson,16,F,66,1.3,2.3,Low,Low,Average,6,Moderate,High
+2867,Charles Cox,16,M,94,3.7,3.5,Medium,High,Excellent,9,Moderate,High
+2868,Aiden Howard,26,M,96,2.5,3.3,High,Medium,Excellent,7,Limited,Medium
+2869,Charles Long,24,M,88,1.9,3.0,High,Low,Excellent,7,Extensive,Medium
+2870,Linda Thompson,23,F,90,1.5,3.2,Medium,Low,Average,4,None,High
+2871,Katherine Collins,17,F,87,2.8,2.8,Low,Medium,Good,8,Moderate,Medium
+2872,Kimberly Cooper,20,F,79,1.5,1.0,Medium,Low,Average,7,Limited,Very High
+2873,Kevin Green,18,M,93,3.4,3.6,Medium,High,Good,9,Extensive,Medium
+2874,Liam Young,20,M,97,1.9,2.1,Low,Medium,Poor,5,Extensive,High
+2875,Scott Lopez,18,M,96,5.4,3.6,High,Medium,Excellent,5,Moderate,Medium
+2876,Emma Williams,15,F,83,2.6,1.4,Low,Low,Average,7,None,Very Low
+2877,Karen Jones,21,F,77,1.7,2.0,Medium,High,Poor,8,None,High
+2878,Charles Howard,22,M,86,1.9,2.5,Medium,High,Average,9,Extensive,Medium
+2879,Jason Mitchell,21,M,95,2.1,2.7,High,Medium,Excellent,7,Extensive,Low
+2880,Betty Ramirez,15,F,82,1.5,2.0,High,High,Good,7,Moderate,Low
+2881,Carol Hughes,19,F,86,3.1,3.1,Medium,Medium,Good,9,Limited,Low
+2882,Larry Morris,25,M,88,2.7,2.6,Medium,Low,Good,7,Moderate,Very High
+2883,Christine Ward,22,F,83,3.3,3.6,Low,Medium,Average,8,None,Medium
+2884,Eli Scott,19,M,97,1.8,2.7,High,High,Average,9,Limited,Medium
+2885,Jacob Harris,24,M,90,3.7,3.2,Medium,Medium,Good,7,Moderate,Low
+2886,Jessica Morgan,19,F,96,3.0,3.4,Medium,High,Good,8,Extensive,Medium
+2887,Kathleen Lee,23,F,93,3.1,2.6,Low,Low,Good,8,Limited,Medium
+2888,Donald Young,21,M,61,2.6,2.1,Low,Medium,Average,5,Limited,Medium
+2889,Stephen Taylor,25,M,80,1.7,2.1,Low,Low,Poor,6,None,Medium
+2890,Sarah Evans,16,F,50,1.5,2.0,Medium,Low,Good,4,Limited,High
+2891,Ryan Miller,21,M,85,2.3,2.3,Medium,Medium,Poor,9,Extensive,Very High
+2892,Abigail Bennett,22,F,92,2.3,2.8,Medium,High,Poor,9,Limited,Medium
+2893,Sharon Nelson,18,F,80,1.9,1.9,Medium,Medium,Average,8,Limited,Very High
+2894,Amelia Jackson,15,F,93,3.9,4.0,High,High,Excellent,7,Limited,High
+2895,Laura Wood,15,F,56,1.0,3.2,Low,Low,Average,8,None,Medium
+2896,Jessica James,25,F,89,2.7,3.3,High,Medium,Average,7,Limited,Medium
+2897,John Brown,21,M,99,3.7,3.5,High,High,Good,7,Extensive,High
+2898,David King,15,M,70,1.8,2.7,Medium,Low,Poor,4,Limited,High
+2899,Kimberly Reed,16,F,93,3.7,4.0,High,High,Excellent,6,Extensive,High
+2900,Susan Williams,22,F,80,3.3,1.7,Medium,Low,Good,8,None,Very High
+2901,Mia Lopez,22,F,69,1.7,2.1,Medium,Medium,Poor,6,Extensive,High
+2902,Linda Young,18,F,100,4.7,4.0,High,High,Good,8,Extensive,High
+2903,George Jenkins,23,M,81,3.1,3.5,High,Low,Poor,7,Limited,High
+2904,Elizabeth Davis,24,F,94,3.3,3.7,Medium,Medium,Good,8,Moderate,Medium
+2905,Nicole Adams,25,F,86,2.0,3.6,Medium,Medium,Poor,6,Moderate,Very High
+2906,Michael Jones,23,M,93,4.4,3.7,High,Medium,Good,8,Extensive,Very High
+2907,Andrew Patterson,20,M,96,1.7,2.2,Medium,Medium,Excellent,9,Moderate,Medium
+2908,Alexander Bryant,17,M,82,1.2,3.2,Low,Low,Excellent,7,Extensive,Medium
+2909,Brenda Price,21,F,98,4.7,4.0,Low,High,Excellent,7,Extensive,High
+2910,Pamela Bailey,26,F,100,1.0,3.3,High,Medium,Excellent,7,Extensive,High
+2911,Daniel Kelly,17,M,92,2.6,2.8,Low,Medium,Good,9,Extensive,Low
+2912,Stephanie Price,17,F,93,2.2,2.4,Low,Low,Good,7,Extensive,High
+2913,Lisa Adams,19,F,97,4.2,4.0,Medium,High,Excellent,5,Extensive,High
+2914,Pamela Thompson,21,F,99,4.1,3.6,High,High,Excellent,7,Limited,Medium
+2915,Catherine Hill,16,F,94,1.1,3.5,Low,High,Excellent,7,Moderate,High
+2916,Kenneth Mitchell,19,M,90,2.2,3.0,Medium,Medium,Good,10,Limited,Medium
+2917,Susan King,22,F,83,2.5,2.1,Low,High,Good,7,Moderate,High
+2918,Donald Kelly,19,M,89,1.9,3.0,High,High,Good,7,Moderate,Medium
+2919,Jeffrey Young,20,M,95,2.7,3.3,Medium,Medium,Good,9,Moderate,Very High
+2920,Patricia Coleman,20,F,100,3.1,3.9,Medium,High,Excellent,8,None,High
+2921,Sharon Nelson,22,F,100,3.4,3.6,High,High,Good,8,Moderate,High
+2922,Rebecca Henderson,22,F,69,1.9,3.7,Medium,Low,Good,7,None,Medium
+2923,Thomas Hall,15,M,66,1.1,2.7,Low,Medium,Poor,4,Limited,High
+2924,Benjamin James,24,M,88,3.1,3.6,Medium,Medium,Good,9,Extensive,Medium
+2925,Ruth King,16,F,84,2.5,2.7,Medium,High,Excellent,7,Moderate,Low
+2926,Harper Long,21,F,76,3.2,2.7,Low,Low,Good,7,Limited,Low
+2927,Mia Gonzales,18,F,98,0.9,2.3,Low,Low,Average,6,Extensive,Medium
+2928,Katherine Bell,21,F,90,2.9,3.6,Medium,Medium,Good,8,Moderate,Medium
+2929,Jackson Ramirez,23,M,87,2.9,3.2,Low,Medium,Good,6,Limited,Medium
+2930,Ryan Phillips,25,M,100,2.6,3.1,Medium,Medium,Excellent,8,Moderate,Medium
+2931,Jerry Brooks,25,M,88,2.1,2.2,Low,Medium,Average,8,None,Medium
+2932,Logan Lopez,15,M,90,1.3,3.4,High,Medium,Good,8,Moderate,Medium
+2933,Donald Gray,19,M,94,2.8,2.9,Medium,Medium,Average,8,Extensive,High
+2934,Jennifer Bailey,25,F,97,1.8,3.0,Medium,Medium,Average,8,Extensive,High
+2935,Amelia Howard,16,F,64,3.7,1.5,Low,Low,Poor,4,None,High
+2936,Emily Griffin,25,F,88,2.5,2.0,Medium,Medium,Good,7,None,Medium
+2937,Justin Scott,16,M,93,1.8,3.1,Low,Low,Poor,4,None,High
+2938,Liam Anderson,14,M,89,2.5,2.4,Low,Low,Average,6,Moderate,High
+2939,Amelia Stewart,18,F,74,2.1,2.4,Low,Medium,Excellent,8,Limited,High
+2940,Samuel Long,18,M,82,1.7,2.4,Medium,Medium,Excellent,7,Extensive,Low
+2941,Susan Young,20,F,93,2.8,3.9,High,Medium,Average,8,Moderate,Medium
+2942,Susan Reed,17,F,76,1.9,2.1,Medium,High,Poor,7,None,Very Low
+2943,Maria Mitchell,20,F,100,4.3,3.6,High,High,Excellent,7,Extensive,High
+2944,Stephen Garcia,22,M,73,2.2,3.5,Medium,Low,Poor,4,None,Very High
+2945,Deborah Jackson,17,F,83,2.6,2.4,Medium,Medium,Average,7,Limited,Low
+2946,Ryan Ramirez,21,M,70,1.5,2.8,Medium,High,Poor,7,Limited,Medium
+2947,Sandra Gonzales,25,F,80,2.3,3.1,Low,High,Average,9,Limited,High
+

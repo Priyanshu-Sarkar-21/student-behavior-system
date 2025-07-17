@@ -1,0 +1,201 @@
+student_id,name,grade_level,Mathematics,Science,English,Social Studies
+S001,Student_1,High School,78,85,67,92
+S002,Student_2,Middle School,55,76,88,65
+S003,Student_3,Elementary,92,89,78,85
+S004,Student_4,College,67,56,72,81
+S005,Student_5,High School,85,74,69,78
+S006,Student_6,Middle School,76,65,81,90
+S007,Student_7,Elementary,69,82,93,76
+S008,Student_8,College,81,90,65,88
+S009,Student_9,High School,93,78,85,67
+S010,Student_10,Middle School,74,69,78,92
+S011,Student_11,Elementary,88,81,90,74
+S012,Student_12,College,65,76,69,85
+S013,Student_13,High School,78,93,81,65
+S014,Student_14,Middle School,90,67,74,88
+S015,Student_15,Elementary,67,85,92,78
+S016,Student_16,College,85,78,65,90
+S017,Student_17,High School,76,90,88,76
+S018,Student_18,Middle School,81,69,78,81
+S019,Student_19,Elementary,92,88,93,67
+S020,Student_20,College,69,74,65,85
+S021,Student_21,High School,88,81,78,92
+S022,Student_22,Middle School,74,90,85,76
+S023,Student_23,Elementary,65,78,90,88
+S024,Student_24,College,78,67,74,65
+S025,Student_25,High School,90,85,81,93
+S026,Student_26,Middle School,67,76,69,78
+S027,Student_27,Elementary,85,92,88,81
+S028,Student_28,College,76,65,78,90
+S029,Student_29,High School,93,81,92,67
+S030,Student_30,Middle School,69,74,65,85
+S031,Student_31,Elementary,88,88,78,92
+S032,Student_32,College,78,90,85,76
+S033,Student_33,High School,81,67,90,88
+S034,Student_34,Middle School,92,78,65,74
+S035,Student_35,Elementary,65,85,78,93
+S036,Student_36,College,74,90,81,67
+S037,Student_37,High School,88,69,92,85
+S038,Student_38,Middle School,67,76,74,90
+S039,Student_39,Elementary,85,81,88,78
+S040,Student_40,College,76,93,65,81
+S041,Student_41,High School,90,67,78,92
+S042,Student_42,Middle School,69,85,90,65
+S043,Student_43,Elementary,81,74,78,88
+S044,Student_44,College,92,88,85,76
+S045,Student_45,High School,65,78,93,90
+S046,Student_46,Middle School,78,90,67,74
+S047,Student_47,Elementary,88,69,81,85
+S048,Student_48,College,74,85,92,67
+S049,Student_49,High School,90,76,78,81
+S050,Student_50,Middle School,67,93,88,92
+S051,Student_51,Elementary,85,65,74,78
+S052,Student_52,College,76,81,90,88
+S053,Student_53,High School,92,90,67,93
+S054,Student_54,Middle School,69,78,85,65
+S055,Student_55,Elementary,81,88,78,85
+S056,Student_56,College,88,67,92,76
+S057,Student_57,High School,74,74,65,90
+S058,Student_58,Middle School,90,85,78,74
+S059,Student_59,Elementary,65,90,81,88
+S060,Student_60,College,78,69,93,67
+S061,Student_61,High School,85,76,74,81
+S062,Student_62,Middle School,92,81,88,92
+S063,Student_63,Elementary,67,93,65,78
+S064,Student_64,College,81,67,78,85
+S065,Student_65,High School,74,85,90,90
+S066,Student_66,Middle School,88,78,67,74
+S067,Student_67,Elementary,69,90,81,88
+S068,Student_68,College,90,65,92,67
+S069,Student_69,High School,65,74,78,81
+S070,Student_70,Middle School,78,88,85,92
+S071,Student_71,Elementary,85,76,74,78
+S072,Student_72,College,76,90,90,88
+S073,Student_73,High School,92,67,65,93
+S074,Student_74,Middle School,69,78,78,65
+S075,Student_75,Elementary,81,85,88,85
+S076,Student_76,College,88,90,74,76
+S077,Student_77,High School,74,65,92,90
+S078,Student_78,Middle School,90,74,67,74
+S079,Student_79,Elementary,65,81,78,88
+S080,Student_80,College,78,93,85,67
+S081,Student_81,High School,85,69,74,81
+S082,Student_82,Middle School,92,76,88,92
+S083,Student_83,Elementary,67,85,65,78
+S084,Student_84,College,81,90,78,85
+S085,Student_85,High School,74,67,90,90
+S086,Student_86,Middle School,88,78,67,74
+S087,Student_87,Elementary,69,88,81,88
+S088,Student_88,College,90,65,92,67
+S089,Student_89,High School,65,74,78,81
+S090,Student_90,Middle School,78,81,85,92
+S091,Student_91,Elementary,85,90,74,78
+S092,Student_92,College,76,67,90,88
+S093,Student_93,High School,92,76,65,93
+S094,Student_94,Middle School,69,85,78,65
+S095,Student_95,Elementary,81,90,88,85
+S096,Student_96,College,88,67,74,76
+S097,Student_97,High School,74,74,92,90
+S098,Student_98,Middle School,90,81,67,74
+S099,Student_99,Elementary,65,88,78,88
+S100,Student_100,College,78,93,85,67
+S101,Student_101,High School,85,69,74,81
+S102,Student_102,Middle School,92,76,88,92
+S103,Student_103,Elementary,67,85,65,78
+S104,Student_104,College,81,90,78,85
+S105,Student_105,High School,74,67,90,90
+S106,Student_106,Middle School,88,78,67,74
+S107,Student_107,Elementary,69,88,81,88
+S108,Student_108,College,90,65,92,67
+S109,Student_109,High School,65,74,78,81
+S110,Student_110,Middle School,78,81,85,92
+S111,Student_111,Elementary,85,90,74,78
+S112,Student_112,College,76,67,90,88
+S113,Student_113,High School,92,76,65,93
+S114,Student_114,Middle School,69,85,78,65
+S115,Student_115,Elementary,81,90,88,85
+S116,Student_116,College,88,67,74,76
+S117,Student_117,High School,74,74,92,90
+S118,Student_118,Middle School,90,81,67,74
+S119,Student_119,Elementary,65,88,78,88
+S120,Student_120,College,78,93,85,67
+S121,Student_121,High School,85,69,74,81
+S122,Student_122,Middle School,92,76,88,92
+S123,Student_123,Elementary,67,85,65,78
+S124,Student_124,College,81,90,78,85
+S125,Student_125,High School,74,67,90,90
+S126,Student_126,Middle School,88,78,67,74
+S127,Student_127,Elementary,69,88,81,88
+S128,Student_128,College,90,65,92,67
+S129,Student_129,High School,65,74,78,81
+S130,Student_130,Middle School,78,81,85,92
+S131,Student_131,Elementary,85,90,74,78
+S132,Student_132,College,76,67,90,88
+S133,Student_133,High School,92,76,65,93
+S134,Student_134,Middle School,69,85,78,65
+S135,Student_135,Elementary,81,90,88,85
+S136,Student_136,College,88,67,74,76
+S137,Student_137,High School,74,74,92,90
+S138,Student_138,Middle School,90,81,67,74
+S139,Student_139,Elementary,65,88,78,88
+S140,Student_140,College,78,93,85,67
+S141,Student_141,High School,85,69,74,81
+S142,Student_142,Middle School,92,76,88,92
+S143,Student_143,Elementary,67,85,65,78
+S144,Student_144,College,81,90,78,85
+S145,Student_145,High School,74,67,90,90
+S146,Student_146,Middle School,88,78,67,74
+S147,Student_147,Elementary,69,88,81,88
+S148,Student_148,College,90,65,92,67
+S149,Student_149,High School,65,74,78,81
+S150,Student_150,Middle School,78,81,85,92
+S151,Student_151,Elementary,85,90,74,78
+S152,Student_152,College,76,67,90,88
+S153,Student_153,High School,92,76,65,93
+S154,Student_154,Middle School,69,85,78,65
+S155,Student_155,Elementary,81,90,88,85
+S156,Student_156,College,88,67,74,76
+S157,Student_157,High School,74,74,92,90
+S158,Student_158,Middle School,90,81,67,74
+S159,Student_159,Elementary,65,88,78,88
+S160,Student_160,College,78,93,85,67
+S161,Student_161,High School,85,69,74,81
+S162,Student_162,Middle School,92,76,88,92
+S163,Student_163,Elementary,67,85,65,78
+S164,Student_164,College,81,90,78,85
+S165,Student_165,High School,74,67,90,90
+S166,Student_166,Middle School,88,78,67,74
+S167,Student_167,Elementary,69,88,81,88
+S168,Student_168,College,90,65,92,67
+S169,Student_169,High School,65,74,78,81
+S170,Student_170,Middle School,78,81,85,92
+S171,Student_171,Elementary,85,90,74,78
+S172,Student_172,College,76,67,90,88
+S173,Student_173,High School,92,76,65,93
+S174,Student_174,Middle School,69,85,78,65
+S175,Student_175,Elementary,81,90,88,85
+S176,Student_176,College,88,67,74,76
+S177,Student_177,High School,74,74,92,90
+S178,Student_178,Middle School,90,81,67,74
+S179,Student_179,Elementary,65,88,78,88
+S180,Student_180,College,78,93,85,67
+S181,Student_181,High School,85,69,74,81
+S182,Student_182,Middle School,92,76,88,92
+S183,Student_183,Elementary,67,85,65,78
+S184,Student_184,College,81,90,78,85
+S185,Student_185,High School,74,67,90,90
+S186,Student_186,Middle School,88,78,67,74
+S187,Student_187,Elementary,69,88,81,88
+S188,Student_188,College,90,65,92,67
+S189,Student_189,High School,65,74,78,81
+S190,Student_190,Middle School,78,81,85,92
+S191,Student_191,Elementary,85,90,74,78
+S192,Student_192,College,76,67,90,88
+S193,Student_193,High School,92,76,65,93
+S194,Student_194,Middle School,69,85,78,65
+S195,Student_195,Elementary,81,90,88,85
+S196,Student_196,College,88,67,74,76
+S197,Student_197,High School,74,74,92,90
+S198,Student_198,Middle School,90,81,67,74
+S199,Student_199,Elementary,65,88,78,88
+S200,Student_200,College,78,93,85,67

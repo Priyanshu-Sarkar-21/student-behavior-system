@@ -1,0 +1,18 @@
+root
+│
+├── data/
+│   ├── sample_student_data.csv
+│   └── logo.png
+│
+├── pages/
+│   ├── _Student_Input.py
+│   ├── _Student_Results.py
+│   ├── Student_Login.py
+│   ├── Teacher_Login.py
+│   ├── _Teacher_Input.py
+│   └── _Teacher_Results.py
+│
+├── Home.py
+├── custom_nav.py
+├── requirements.txt
+└── README.md
